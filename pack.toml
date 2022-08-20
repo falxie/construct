@@ -1,0 +1,13 @@
+name = "Construct"
+author = "Falxie_"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "bcab8c9608e8afbdc3da35b4cb5b1cbdc14538d868cd3e4cb4ebac5497128751"
+
+[versions]
+forge = "40.1.73"
+minecraft = "1.18.2"

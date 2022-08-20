@@ -1,0 +1,13 @@
+name = "Compressium"
+filename = "Compressium-1.4.1-build.6+mc1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b9fec10d610753dc8f4eab58ef56637f55d38f00"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3793844
+project-id = 342929

@@ -1,0 +1,13 @@
+name = "Passthrough Signs"
+filename = "PassthroughSigns-1.18-2.5.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "86e5bb945ae23fbfde3095c5bfb61b54a5204f9a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3546561
+project-id = 224633
