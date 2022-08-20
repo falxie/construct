@@ -1,3 +1,3 @@
-[ ] Vet mods for stability
-[ ] Maybe add more excavated variants
-[ ] byg and infernal expansion both have quartz
+- [ ] Vet mods for stability
+- [ ] Maybe add more excavated variants
+- [ ] byg and infernal expansion both have quartz
