@@ -390,11 +390,11 @@ hash = "4da44ff3b84755a816c47f5ab999a79d8ceed2f56b89628fbd6d008d81998ed1"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "6feb7dd1e39930affea30756f569b11ff504eaa2b97a0f104d49e59b7d6b90e7"
+hash = "c2e88f77c74e466ba1299dd29976b1bf4d141d28373ba50e9dcde7359caab382"
 
 [[files]]
 file = "config/defaultoptions/servers.dat"
-hash = "9eada7802963c3302bcacd5cb52fd7de3ffe69a94448e519a77c05992dc8c52c"
+hash = "3a05b7dbab88781794ca24d8018e8b522eed783e8f938929abd2b2ed3454790b"
 
 [[files]]
 file = "config/delogger2.json"
