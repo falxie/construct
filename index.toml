@@ -370,7 +370,7 @@ hash = "28c6ad7570268b02ec6f73fb7c39c49ecf90f0697d0db9447899e8aa96285200"
 
 [[files]]
 file = "config/aquaculture-common.toml"
-hash = "5117e87a5d1984b0cf4ddc2efbcf139579b2fd26874ba11c6d3fb186cc19467e"
+hash = "cf59ab7e2fa3a7602e1c39ef19131cc3d404b314ca83e4e34675f4577e5c1ca5"
 
 [[files]]
 file = "config/attributefix.json"
