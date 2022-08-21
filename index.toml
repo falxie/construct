@@ -581,10 +581,6 @@ file = "config/excavated_variants/universal_ores.json"
 hash = "6ac4c2beabcd75cb728c037de832539fdcc386a15dce01103c6b1b9b17844769"
 
 [[files]]
-file = "config/fallingleaves-client.toml"
-hash = "0096abbbce63bc6ee6c7aa8befcdebc10bfff639b9e4d7e7b7ef7a7cabc871d4"
-
-[[files]]
 file = "config/farmersdelight-client.toml"
 hash = "13a11f20b305f6f975ebc35802d87c7bf22a04dc79464e41089823603b76a227"
 
@@ -1353,11 +1349,6 @@ hash = "3b4612bd94d8f4e214d852c5c38a2c4b83cf11f583b38ed2b905db5daeaf2abb"
 metafile = true
 
 [[files]]
-file = "mods/create-confectionery.pw.toml"
-hash = "3129a246581ef4ce97d572b7b62fccd9e1002a26fe222c7a1ba070fc0c402356"
-metafile = true
-
-[[files]]
 file = "mods/create.pw.toml"
 hash = "7b705f57107935d189436c3ed561c986a6ec84a2d80ff94542a46836ab80ea83"
 metafile = true
@@ -1455,11 +1446,6 @@ metafile = true
 [[files]]
 file = "mods/excavated-variants.pw.toml"
 hash = "57bc034f4871b861239a740d608f469b3c3661b07690cb0fbd04bcaf9ae1f86d"
-metafile = true
-
-[[files]]
-file = "mods/falling-leaves-forge.pw.toml"
-hash = "e8be6fcf9b34d21aff505e35901fc1665dd22978416cde9e4eeded9d241dad34"
 metafile = true
 
 [[files]]
