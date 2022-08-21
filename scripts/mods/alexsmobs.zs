@@ -2,9 +2,7 @@ import crafttweaker.api.recipe.Replacer;
 import mods.jei.JEI;
 import crafttweaker.api.item.IItemStack;
 
-craftingTable.remove(<item:alexsmobs:banner_pattern_bear>);
-JEI.hideIngredient(<item:alexsmobs:banner_pattern_bear>);
-
+removeAndHide(<item:alexsmobs:banner_pattern_bear>);
 Replacer.forMods("alexsmobs").replaceFully(<item:alexsmobs:bear_fur>, <item:naturalist:bear_fur>).execute();
 JEI.hideIngredient(<item:alexsmobs:bear_fur>);
 

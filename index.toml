@@ -2290,8 +2290,16 @@ hash = "c76d5ed5dd44f2422253e3799acdf7de499e6731f42e2bee8c63ff67b0810e13"
 metafile = true
 
 [[files]]
+file = "scripts/helpers.zs"
+hash = "71f7d0cce66f749772d4a21939bb26cd6829e8896f573e46e30c176c8b86c0c1"
+
+[[files]]
 file = "scripts/mods/alexsmobs.zs"
-hash = "49d3907fc05c70704f0eaf5e784f6158d1b0bedee320c6167731b3d278aca52d"
+hash = "127a3321b316c04b146e7308374064acc8edc31b6cd4a90c711aae1ad7b6e8a3"
+
+[[files]]
+file = "scripts/mods/aquaculture.zs"
+hash = "93d8544e43f32fa3f0ea372bf6976473176c11ba60dbe02cbd0ea074aa869f5b"
 
 [[files]]
 file = "scripts/mods/naturalist.zs"
