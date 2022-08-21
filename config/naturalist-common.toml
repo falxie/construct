@@ -13,7 +13,7 @@
 	coralSnakeSpawnWeight = 4
 	#Rattlesnake spawn weight
 	#Range: 0 ~ 1000
-	rattlesnakeSpawnWeight = 4
+	rattlesnakeSpawnWeight = 0
 	#Bear spawn weight
 	#Range: 0 ~ 1000
 	bearSpawnWeight = 8

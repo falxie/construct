@@ -1246,7 +1246,7 @@ hash = "ebfb30b4f6ca01e7f9feb0532fee9442c4ec1d3ff25df446d90b57d7de1f28ba"
 
 [[files]]
 file = "config/naturalist-common.toml"
-hash = "d4479b67c624cafdd1eb73d784f3c17d4012518e147be469c74db987bfcfd90b"
+hash = "edbfb05e59c70b280ce06384fef9922bea88e1c5f0d3ad729222210e99ef214b"
 
 [[files]]
 file = "config/neapolitan-common.toml"
@@ -2276,3 +2276,7 @@ metafile = true
 [[files]]
 file = "scripts/mods/alexsmobs.zs"
 hash = "49d3907fc05c70704f0eaf5e784f6158d1b0bedee320c6167731b3d278aca52d"
+
+[[files]]
+file = "scripts/mods/naturalist.zs"
+hash = "82ed245fc856e6a78c13e16bb3dc679bcac5d7c7563c0e8cf9dd48d9c88d13eb"
