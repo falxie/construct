@@ -2070,7 +2070,7 @@ metafile = true
 
 [[files]]
 file = "mods/placebo.pw.toml"
-hash = "472824b0a6233ccf34505a07a64b4d600f33c507b75a73d1e0298a193f5907a9"
+hash = "193eee92d8b59f84d9c4d7d63efcb947488ce44d8284f162863210fad0bf0e59"
 metafile = true
 
 [[files]]
@@ -2180,7 +2180,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "c3baee20bb1992ec994bb026fa27a53086eb68a7516e06db59aa95de07dfff4e"
+hash = "2b011893f2bb5a41332b32c80d2797872a48088d198dc1ed1bc7efc296a76da3"
 metafile = true
 
 [[files]]
