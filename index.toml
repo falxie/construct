@@ -1457,6 +1457,18 @@ file = "defaultconfigs/skinnedlanterns-server.toml"
 hash = "565aecf4b75c7044e41cf8c2e8c99995947afb7c32aa2410566bf2bfad8764e5"
 
 [[files]]
+file = "global_packs/required_data/Construct Tweaks/data/alexsmobs/advancements/alexsmobs/grizzly_bear.json"
+hash = "bc7e18b64d3e15b01245126f212fa95a1ce63057d636c3d43e404076a7628878"
+
+[[files]]
+file = "global_packs/required_data/Construct Tweaks/data/alexsmobs/advancements/alexsmobs/tame_grizzly_bear.json"
+hash = "bc7e18b64d3e15b01245126f212fa95a1ce63057d636c3d43e404076a7628878"
+
+[[files]]
+file = "global_packs/required_data/Construct Tweaks/pack.mcmeta"
+hash = "e963c33600a550c75e2448ecf899fcacfb7d3c67ebf93badcfb8bb98a567ab1c"
+
+[[files]]
 file = "global_packs/required_data/repurposed-structures-better-dungeons-datapack.pw.toml"
 hash = "4ef4f30ad9a2d64e85f128ed3402901af6b8268333e8ccdda4b014e1574ea9f0"
 metafile = true
@@ -1485,46 +1497,6 @@ metafile = true
 file = "global_packs/required_resources/xaeros-minimap-modded-support.pw.toml"
 hash = "c3388757d17a46b2dd8923510559fd7d2b64324fd412fb3bceb6d38e89603ffa"
 metafile = true
-
-[[files]]
-file = "kubejs/README.txt"
-hash = "02d6feb3afe1d9c96e137f8baaa71de982f1af0a2b37fbcba73f34ee59ebbd4d"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/block/example_block.png"
-hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/item/example_item.png"
-hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
-
-[[files]]
-file = "kubejs/client_scripts/jeiHide.js"
-hash = "dac8f57163c041c92c74bfde531120ee85bac327cff29b470bd03a9624988f54"
-
-[[files]]
-file = "kubejs/config/client.properties"
-hash = "12de4745ae66e7d54e70252d149906de1cf06914d37d5db676ddb378d50340e7"
-
-[[files]]
-file = "kubejs/config/common.properties"
-hash = "8e08719083f990797f1caf571f8b1a9903ba256a81611bd156afece7e6e38dcb"
-
-[[files]]
-file = "kubejs/data/alexsmobs/advancements/alexsmobs/grizzly_bear.json"
-hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
-
-[[files]]
-file = "kubejs/data/alexsmobs/advancements/alexsmobs/tame_grizzly_bear.json"
-hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
-
-[[files]]
-file = "kubejs/server_scripts/alexsmobs/bear_fur.js"
-hash = "0d53bfd4c5872cd55ed918d38a59e1d81f48d8b36dc7bfeb48debe9ec9ec1adf"
-
-[[files]]
-file = "kubejs/startup_scripts/script.js"
-hash = "849597780f489579d0c3af2b80d9d1209b152be22e2c270c9085623bbf0a5aea"
 
 [[files]]
 file = "mods/abnormals-delight.pw.toml"
@@ -1729,6 +1701,11 @@ metafile = true
 [[files]]
 file = "mods/corpse.pw.toml"
 hash = "e4155e11b80301e0dbc76f64deea0f7b73c2e8086782ce8a7cdc5b72b2218172"
+metafile = true
+
+[[files]]
+file = "mods/crafttweaker.pw.toml"
+hash = "a527fbd108976c2a4440bf26556235f2fd23a9090272e8077a3de81a83cbdf56"
 metafile = true
 
 [[files]]
@@ -1952,6 +1929,11 @@ hash = "71a8fa0be5b104ef1e9cfd11936c7c66bb4c8ceb759d2c715d4e7f88292b0f49"
 metafile = true
 
 [[files]]
+file = "mods/jeitweaker.pw.toml"
+hash = "3293dddac5ba9d8390ca6792ff1668ff52ddc39974a9e9a0c69674e7f4ac7099"
+metafile = true
+
+[[files]]
 file = "mods/jer-integration.pw.toml"
 hash = "8342d02ffa8c8a5aae481dd7f22475ced3861756a4088e0c9c9a9e78f43cacf2"
 metafile = true
@@ -1994,11 +1976,6 @@ metafile = true
 [[files]]
 file = "mods/ksyxis.pw.toml"
 hash = "7163f5e93789818c4f945f1beac1f06af5516a252bac284564fa4b0512563dec"
-metafile = true
-
-[[files]]
-file = "mods/kubejs.pw.toml"
-hash = "78f183b5f49e725daa7c6576e9f390370a0795bd380d4d96810037d4b6f17b02"
 metafile = true
 
 [[files]]
@@ -2129,11 +2106,6 @@ metafile = true
 [[files]]
 file = "mods/repurposed-structures.pw.toml"
 hash = "6d90703590e13b8233fa9572f5306b87d4b56930905eca96b9a9834e122cb6bc"
-metafile = true
-
-[[files]]
-file = "mods/rhino.pw.toml"
-hash = "7615d1d69859aadc88bfd81bf58eb8acdb1b64362e4118255dbfd875f9f0fbd1"
 metafile = true
 
 [[files]]
@@ -2300,3 +2272,7 @@ metafile = true
 file = "resourcepacks/stay-true.pw.toml"
 hash = "c76d5ed5dd44f2422253e3799acdf7de499e6731f42e2bee8c63ff67b0810e13"
 metafile = true
+
+[[files]]
+file = "scripts/mods/alexsmobs.zs"
+hash = "49d3907fc05c70704f0eaf5e784f6158d1b0bedee320c6167731b3d278aca52d"
