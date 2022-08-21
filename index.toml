@@ -1605,6 +1605,11 @@ hash = "f97016f522e10afd1659881de6da1a3698c83c3ac38555b20e73719eac51e4a9"
 metafile = true
 
 [[files]]
+file = "mods/better-biome-blend.pw.toml"
+hash = "5438b2bd6600929c044886550008e7d1d002e8ac59cd9751359dbecb8a504bd4"
+metafile = true
+
+[[files]]
 file = "mods/better-fps-render-distance.pw.toml"
 hash = "9e66f32990ecd4cb815cc9c434848e5768d53996f5e2b6ba1f35b88d5ab7aa1d"
 metafile = true
