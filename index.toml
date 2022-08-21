@@ -1298,7 +1298,7 @@ hash = "f3d1c8420ef27a049690648fbe66f67739a3ef8709bce47406257d8d7de133f2"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "e8144614eab523b23d64052027a621eef8ef04c7a8b6f2ddcf5d641529d76108"
+hash = "6aca1755717ec56979a330b77ab3d13690a43838df939b94b4f5ede4641b3070"
 
 [[files]]
 file = "config/radium.properties"
