@@ -37,10 +37,6 @@ file = "config/abnormals_delight-common.toml"
 hash = "bbde50e04a2da45c2865bedefbe3bf138d49b89f5954ab3673a77a5eff207e06"
 
 [[files]]
-file = "config/actuallycompatible-common.toml"
-hash = "f5b2455ce0bdb53f94b24ed480554178f00b8c51132bd8ff7ea40c49512f19ad"
-
-[[files]]
 file = "config/aiimprovements-common.toml"
 hash = "d65113ea15e814463b1f477b0cebcc98dfe06a5d3f7100e3bacd414c7cb391ec"
 
@@ -1525,11 +1521,6 @@ hash = "d1f108d2420df1ab0027cebc4ef8525ac09ace0d3a7e433dade46446708c0dd4"
 metafile = true
 
 [[files]]
-file = "mods/actually-compatible.pw.toml"
-hash = "7342a52601808df88e76370b52e894545decc7bb14bdc6f7508e1f6dbca0404c"
-metafile = true
-
-[[files]]
 file = "mods/additional-lanterns.pw.toml"
 hash = "18e3473d700753b3bb678392fe7d418cc66772380b3f53c8b55df278250e7550"
 metafile = true
@@ -2037,6 +2028,11 @@ metafile = true
 [[files]]
 file = "mods/mrcrayfish-furniture-mod.pw.toml"
 hash = "916c4cb1f3e1a95e6c52cdcac101fdc54ce5e4d1cb568493de2b6bef26a2a8ad"
+metafile = true
+
+[[files]]
+file = "mods/my-server-is-compatible.pw.toml"
+hash = "710ea40d2def14578600d2e6fef5d226554a4a48646c7eba2463805d1743fcd3"
 metafile = true
 
 [[files]]
