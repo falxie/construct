@@ -469,10 +469,6 @@ file = "config/byg/README.txt"
 hash = "716925cf1fd06d3d981aac5adbdc7a84dae30dbb64b17b0c25a8f739be01883d"
 
 [[files]]
-file = "config/byg/backups/last_working_configs_backup.zip"
-hash = "4734d033c9ae488655e202304114d03934d69bee04b462941b2a67b3baf0fd13"
-
-[[files]]
 file = "config/byg/biomepedia.json5"
 hash = "b866ba2a574783ac1cbccd9f97a15438c436ed66d6bc58998283d5db2220738a"
 
@@ -735,6 +731,14 @@ hash = "8c2228bade477f09f015810b0f89cf3cb278fb59884050753cca037f3f7376d9"
 [[files]]
 file = "config/drawerfps-common.toml"
 hash = "68d9a74beb4bb764e0b4c37619c3dec2e3390b2790d5790de6b4b2daa2ed6e02"
+
+[[files]]
+file = "config/dummmmmmy-client.toml"
+hash = "76c62c2a3c2abbe88017ac78cfe307c92ce16725937269ad54b706816a366af7"
+
+[[files]]
+file = "config/dummmmmmy-common.toml"
+hash = "9fb4bac0f0cda650dba6ff3a9520e6558cbe4d73eac3c2e4803ec245212216d6"
 
 [[files]]
 file = "config/dynamic_asset_generator.json"
@@ -1046,11 +1050,11 @@ hash = "841fbd8227cf63f66088e44bd2892226ad03d089168a48bd1798061ae2665ed3"
 
 [[files]]
 file = "config/jaopca/materials/brick.toml"
-hash = "841fbd8227cf63f66088e44bd2892226ad03d089168a48bd1798061ae2665ed3"
+hash = "638ae20a7ccdd6ce1d187e0410215dc1291e02dc33e409bdb0ad277d51a83bbd"
 
 [[files]]
 file = "config/jaopca/materials/cobalt.toml"
-hash = "3a6348ce96af626b6e1a1acec0511d832f79fa244c7ce3f07f5271e7496a5fec"
+hash = "627f194149a25a6f4287b5f1bc1c6407c4a1fa76c12ffcd79d867fdfb8eae524"
 
 [[files]]
 file = "config/jaopca/materials/copper.toml"
@@ -1066,7 +1070,7 @@ hash = "76b6a596d97eacbe69feed11d19361c6a76832221c385e927082d266cd172058"
 
 [[files]]
 file = "config/jaopca/materials/glowstone.toml"
-hash = "b695577d33d8dcc299e3e27ac5496cde9303e8ab95f55305661bdbd8c094b429"
+hash = "a4d454d917da45cee31ae4cd9a9300eebea8a7b7982602cf24b049640db8e455"
 
 [[files]]
 file = "config/jaopca/materials/gold.toml"
@@ -1093,8 +1097,12 @@ file = "config/jaopca/materials/manyullyn.toml"
 hash = "841fbd8227cf63f66088e44bd2892226ad03d089168a48bd1798061ae2665ed3"
 
 [[files]]
-file = "config/jaopca/materials/nether_brick.toml"
+file = "config/jaopca/materials/neptunium.toml"
 hash = "841fbd8227cf63f66088e44bd2892226ad03d089168a48bd1798061ae2665ed3"
+
+[[files]]
+file = "config/jaopca/materials/nether_brick.toml"
+hash = "f7c8d8049daf72bdebe66f2ac7203ee5909a865591a2c2ba68fd0b313e8a5293"
 
 [[files]]
 file = "config/jaopca/materials/netherite.toml"
@@ -1102,7 +1110,7 @@ hash = "841fbd8227cf63f66088e44bd2892226ad03d089168a48bd1798061ae2665ed3"
 
 [[files]]
 file = "config/jaopca/materials/netherite_scrap.toml"
-hash = "3a6348ce96af626b6e1a1acec0511d832f79fa244c7ce3f07f5271e7496a5fec"
+hash = "e2a59269f1b7e6e286da48ad7897379f2831b72e55d16f0834e79df23536efa1"
 
 [[files]]
 file = "config/jaopca/materials/pig_iron.toml"
@@ -1110,7 +1118,7 @@ hash = "841fbd8227cf63f66088e44bd2892226ad03d089168a48bd1798061ae2665ed3"
 
 [[files]]
 file = "config/jaopca/materials/prismarine.toml"
-hash = "76b6a596d97eacbe69feed11d19361c6a76832221c385e927082d266cd172058"
+hash = "6e71c4aae844c57e0fef2e13e352ceed04187afb992616084aebdddbdbadf4ed"
 
 [[files]]
 file = "config/jaopca/materials/quartz.toml"
@@ -1202,7 +1210,7 @@ hash = "e186f519c86ca1147baa8e7f32b15917257601f00486400ed54531107bdf9ac2"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "2fbf683f3203297847c2b808f49bf16765eb6b84eeef0e9fa14deeea10706a16"
+hash = "0223ff8a30b30755ab743dbe7442a24fd6424df523550c0aac8cbc574181a5b7"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -1223,6 +1231,10 @@ hash = "13a4d5e1d1ac4207cbebef810696525975ec4f0c2470f6b858cbd9f62a6cd3ec"
 [[files]]
 file = "config/jeresources.toml"
 hash = "dba9b465be70853db2eaa9ab61747b244c2dd1127668dd72121251150a4833a1"
+
+[[files]]
+file = "config/jerintegration-client.toml"
+hash = "279486e71de0443dd847a53aa085216d8c9b731e63568d40681c39db205dd67a"
 
 [[files]]
 file = "config/kiwi-client.toml"
@@ -1323,6 +1335,10 @@ hash = "fcb3222889888e0b6fcced88cd3aac6b9ea7764347888a6fa00a2ddc83c36178"
 [[files]]
 file = "config/secondchanceforge-common.toml"
 hash = "f110e67b9dd1926d739b78fde482ae2839d0e0fb2456586d96a78066c8423ba4"
+
+[[files]]
+file = "config/serverconfigupdater-common.toml"
+hash = "17255550ab0fe9ac1ae5325440c9b3f5ed8cf9b36e2e011b972c3a0c8dfdea52"
 
 [[files]]
 file = "config/skinnedlanterns.toml"
