@@ -45,6 +45,10 @@ file = "config/aiimprovements-common.toml"
 hash = "d65113ea15e814463b1f477b0cebcc98dfe06a5d3f7100e3bacd414c7cb391ec"
 
 [[files]]
+file = "config/alexsmobs.toml"
+hash = "37fc546b860735b653fd41e3fc3ed1f1d88458a0567be9f1a346046ef21a6342"
+
+[[files]]
 file = "config/alexsmobs/alligator_snapping_turtle_spawns.json"
 hash = "8acae5df8bbf70fbc3c4d9ef647220fe775c196b7eecf452db8c286bba9ea725"
 
@@ -371,6 +375,10 @@ hash = "5117e87a5d1984b0cf4ddc2efbcf139579b2fd26874ba11c6d3fb186cc19467e"
 [[files]]
 file = "config/attributefix.json"
 hash = "c15f04a374c32a19df22b82ebcc53735eed627e079b0b497086d916901268494"
+
+[[files]]
+file = "config/badmobs-common.toml"
+hash = "b4e0afdfe4593f3c0d862584965c60f4d71e2fcdb9a58e023c12730470f7f084"
 
 [[files]]
 file = "config/betteradvancements-client.toml"
@@ -1479,6 +1487,46 @@ hash = "c3388757d17a46b2dd8923510559fd7d2b64324fd412fb3bceb6d38e89603ffa"
 metafile = true
 
 [[files]]
+file = "kubejs/README.txt"
+hash = "02d6feb3afe1d9c96e137f8baaa71de982f1af0a2b37fbcba73f34ee59ebbd4d"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/example_block.png"
+hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/example_item.png"
+hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
+
+[[files]]
+file = "kubejs/client_scripts/jeiHide.js"
+hash = "dac8f57163c041c92c74bfde531120ee85bac327cff29b470bd03a9624988f54"
+
+[[files]]
+file = "kubejs/config/client.properties"
+hash = "12de4745ae66e7d54e70252d149906de1cf06914d37d5db676ddb378d50340e7"
+
+[[files]]
+file = "kubejs/config/common.properties"
+hash = "8e08719083f990797f1caf571f8b1a9903ba256a81611bd156afece7e6e38dcb"
+
+[[files]]
+file = "kubejs/data/alexsmobs/advancements/alexsmobs/grizzly_bear.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "kubejs/data/alexsmobs/advancements/alexsmobs/tame_grizzly_bear.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "kubejs/server_scripts/alexsmobs/bear_fur.js"
+hash = "0d53bfd4c5872cd55ed918d38a59e1d81f48d8b36dc7bfeb48debe9ec9ec1adf"
+
+[[files]]
+file = "kubejs/startup_scripts/script.js"
+hash = "849597780f489579d0c3af2b80d9d1209b152be22e2c270c9085623bbf0a5aea"
+
+[[files]]
 file = "mods/abnormals-delight.pw.toml"
 hash = "0cfa8e8164d519f22db4acbb3cfcbc39ad05051760985e08558a89dbbceff914"
 metafile = true
@@ -1949,6 +1997,11 @@ hash = "7163f5e93789818c4f945f1beac1f06af5516a252bac284564fa4b0512563dec"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "78f183b5f49e725daa7c6576e9f390370a0795bd380d4d96810037d4b6f17b02"
+metafile = true
+
+[[files]]
 file = "mods/lazy-dfu-forge.pw.toml"
 hash = "ebb19e9c7a826f2d820671cdb8fc3aebb45cccf0751235b46a20701b9a6772b4"
 metafile = true
@@ -2076,6 +2129,11 @@ metafile = true
 [[files]]
 file = "mods/repurposed-structures.pw.toml"
 hash = "6d90703590e13b8233fa9572f5306b87d4b56930905eca96b9a9834e122cb6bc"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "7615d1d69859aadc88bfd81bf58eb8acdb1b64362e4118255dbfd875f9f0fbd1"
 metafile = true
 
 [[files]]
