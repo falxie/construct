@@ -1274,7 +1274,7 @@ hash = "8deed1a37e1d8b3741c5059ec8351ab8855ea44614ae22b2c377f9d3c7b34aaf"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "37087ede9fee354d56f73bb98977b48e49e79398f28078336a7d9156c24437ea"
+hash = "6b68aecc6b6d9d7b5ab09f59284098fc66afa663d0be657b5b4f148762f48ae0"
 
 [[files]]
 file = "config/passthroughsigns-common.toml"
