@@ -52,7 +52,7 @@
 	lionSpawnWeight = 15
 	#Elephant spawn weight
 	#Range: 0 ~ 1000
-	elephantSpawnWeight = 10
+	elephantSpawnWeight = 0
 	#Zebra spawn weight
 	#Range: 0 ~ 1000
 	zebraSpawnWeight = 10
