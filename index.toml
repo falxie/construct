@@ -1696,7 +1696,7 @@ metafile = true
 
 [[files]]
 file = "mods/configured.pw.toml"
-hash = "33436dd644cc903c0006df71f7f846f46a12e0338a2865eb5826fa0205120731"
+hash = "8885728c751b6e20f3fc4a9394723ce5250a2fa1fe4078ad83cc27b441e20ba3"
 metafile = true
 
 [[files]]
@@ -1736,7 +1736,7 @@ metafile = true
 
 [[files]]
 file = "mods/cultural-delights.pw.toml"
-hash = "9a1d0b2f357fc36773e00d8b0b9be97b76554ffa84b79655421476cf9a1b3c43"
+hash = "9fdd3396cab483f12248bc508a1bea5fabd2e0d65d54e57cde0e55b89eafdd44"
 metafile = true
 
 [[files]]
@@ -1896,7 +1896,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "4ad67ed05a5244c0c027a08c6147076663fd36a1952a9141b4854d92cb6a2f1e"
+hash = "fe66aecc770ccc6456642f84d12595f0b6f7dd9baefc76dce1fa2965dc5bc874"
 metafile = true
 
 [[files]]
@@ -2081,7 +2081,7 @@ metafile = true
 
 [[files]]
 file = "mods/placebo.pw.toml"
-hash = "193eee92d8b59f84d9c4d7d63efcb947488ce44d8284f162863210fad0bf0e59"
+hash = "8d66fd2084cae45139e4ff384d66f24a8c5f696af609979c449dfda7eaf39ddc"
 metafile = true
 
 [[files]]
