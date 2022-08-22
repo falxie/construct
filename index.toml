@@ -1515,6 +1515,50 @@ hash = "c3388757d17a46b2dd8923510559fd7d2b64324fd412fb3bceb6d38e89603ffa"
 metafile = true
 
 [[files]]
+file = "kubejs/README.txt"
+hash = "02d6feb3afe1d9c96e137f8baaa71de982f1af0a2b37fbcba73f34ee59ebbd4d"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/example_block.png"
+hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/example_item.png"
+hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
+
+[[files]]
+file = "kubejs/client_scripts/alexsmobs.js"
+hash = "95850f671382aae9b555d5d9fb8ef4901b786679113a4829aaad91df930338b5"
+
+[[files]]
+file = "kubejs/client_scripts/aquaculture.js"
+hash = "5349413d67d2a367728c5dd79566f6c036a30f32835b1d197a82af484e780a82"
+
+[[files]]
+file = "kubejs/client_scripts/naturalist.js"
+hash = "250304ef731d076a9d7ba76fc85a4c75a71105553ca2e7957fdb868506ca4bd3"
+
+[[files]]
+file = "kubejs/config/client.properties"
+hash = "1ee7f36aeb6d6b57a5e8bbe38567860064c2d9dc9458dd3b6ed68344c37c536c"
+
+[[files]]
+file = "kubejs/config/common.properties"
+hash = "13cd0406d4775fbc68c9f5936e1ab06660e9fc4e777073ddfa7cb6e1445861cb"
+
+[[files]]
+file = "kubejs/server_scripts/alexsmobs.js"
+hash = "03fed2739a062d154a0941592d3fb3b5002cf07187eab377177319a8927672a0"
+
+[[files]]
+file = "kubejs/server_scripts/aquaculture.js"
+hash = "216d55b8d932b1a412a27f349e8059604d9932c377593c7306a479109fc3417b"
+
+[[files]]
+file = "kubejs/startup_scripts/script.js"
+hash = "849597780f489579d0c3af2b80d9d1209b152be22e2c270c9085623bbf0a5aea"
+
+[[files]]
 file = "mods/abnormals-delight.pw.toml"
 hash = "0cfa8e8164d519f22db4acbb3cfcbc39ad05051760985e08558a89dbbceff914"
 metafile = true
@@ -1717,11 +1761,6 @@ metafile = true
 [[files]]
 file = "mods/corpse.pw.toml"
 hash = "e4155e11b80301e0dbc76f64deea0f7b73c2e8086782ce8a7cdc5b72b2218172"
-metafile = true
-
-[[files]]
-file = "mods/crafttweaker.pw.toml"
-hash = "a527fbd108976c2a4440bf26556235f2fd23a9090272e8077a3de81a83cbdf56"
 metafile = true
 
 [[files]]
@@ -1945,11 +1984,6 @@ hash = "71a8fa0be5b104ef1e9cfd11936c7c66bb4c8ceb759d2c715d4e7f88292b0f49"
 metafile = true
 
 [[files]]
-file = "mods/jeitweaker.pw.toml"
-hash = "3293dddac5ba9d8390ca6792ff1668ff52ddc39974a9e9a0c69674e7f4ac7099"
-metafile = true
-
-[[files]]
 file = "mods/jer-integration.pw.toml"
 hash = "8342d02ffa8c8a5aae481dd7f22475ced3861756a4088e0c9c9a9e78f43cacf2"
 metafile = true
@@ -1987,6 +2021,11 @@ metafile = true
 [[files]]
 file = "mods/krypton-reforged.pw.toml"
 hash = "3a8f223c33599ab510da8671b8402239eef9024fb1a148ab3bc422f05e4951c7"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "36d37ce5b263363078240088f6c5f204779474ab6001c5be2866efbfcced24fa"
 metafile = true
 
 [[files]]
@@ -2117,6 +2156,11 @@ metafile = true
 [[files]]
 file = "mods/repurposed-structures.pw.toml"
 hash = "6d90703590e13b8233fa9572f5306b87d4b56930905eca96b9a9834e122cb6bc"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "7615d1d69859aadc88bfd81bf58eb8acdb1b64362e4118255dbfd875f9f0fbd1"
 metafile = true
 
 [[files]]
@@ -2283,19 +2327,3 @@ metafile = true
 file = "resourcepacks/stay-true.pw.toml"
 hash = "c76d5ed5dd44f2422253e3799acdf7de499e6731f42e2bee8c63ff67b0810e13"
 metafile = true
-
-[[files]]
-file = "scripts/helpers.zs"
-hash = "71f7d0cce66f749772d4a21939bb26cd6829e8896f573e46e30c176c8b86c0c1"
-
-[[files]]
-file = "scripts/mods/alexsmobs.zs"
-hash = "127a3321b316c04b146e7308374064acc8edc31b6cd4a90c711aae1ad7b6e8a3"
-
-[[files]]
-file = "scripts/mods/aquaculture.zs"
-hash = "93d8544e43f32fa3f0ea372bf6976473176c11ba60dbe02cbd0ea074aa869f5b"
-
-[[files]]
-file = "scripts/mods/naturalist.zs"
-hash = "e64c8e2151d3a0c62c35191593cb6a1540c5b52db0194d969da1b8a2abb93335"
