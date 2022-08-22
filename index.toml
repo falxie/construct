@@ -1552,11 +1552,11 @@ hash = "13cd0406d4775fbc68c9f5936e1ab06660e9fc4e777073ddfa7cb6e1445861cb"
 
 [[files]]
 file = "kubejs/server_scripts/alexsmobs.js"
-hash = "03fed2739a062d154a0941592d3fb3b5002cf07187eab377177319a8927672a0"
+hash = "dd7929a2a8e2bbdfa536134b756b42d40f5dc98d6ca8b0d70a0fb7394e6ecf6b"
 
 [[files]]
 file = "kubejs/server_scripts/aquaculture.js"
-hash = "e1b4f1339add8e738625219ca69ef6f5d9eb777e41ef8811e5d13fd750754934"
+hash = "4d6522540be82ceb5dee7124b2cdcfef2585af665da8e46d44d2dd08ccdc56f9"
 
 [[files]]
 file = "kubejs/startup_scripts/script.js"
@@ -2100,6 +2100,11 @@ metafile = true
 [[files]]
 file = "mods/observable.pw.toml"
 hash = "c7c3f6373959e1efe3f0c6aad9da00b109bb34ef27eeec1765dde28c7e29ae1a"
+metafile = true
+
+[[files]]
+file = "mods/oculus.pw.toml"
+hash = "b5385a79aac3ae8bb708f707b66213125bc7569654ef8da9365164f7abbeec6f"
 metafile = true
 
 [[files]]
