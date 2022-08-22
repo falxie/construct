@@ -486,7 +486,7 @@ hash = "41c19e2ecac7a3f80691cd04254e2532ce886102de60e90b7bde7873db782867"
 
 [[files]]
 file = "config/byg/nether-biomes.json5"
-hash = "775c0831efee3f027c1e57d2bddbb8330d29cd4bc97461378d91d8cd2c62b027"
+hash = "e377c297888c559ef09177df64864324875fbf2619b0fdb0943ab808728b5797"
 
 [[files]]
 file = "config/byg/overworld/biome_selectors/beach_biomes/beach_biomes_1.json5"
@@ -735,6 +735,10 @@ hash = "9fb4bac0f0cda650dba6ff3a9520e6558cbe4d73eac3c2e4803ec245212216d6"
 [[files]]
 file = "config/dynamic_asset_generator.json"
 hash = "4ea3289ec75cea2f67f19855a8226adb8f688d84fe7892081197eab2ee08bae4"
+
+[[files]]
+file = "config/dynview-common.toml"
+hash = "a0372e5ab4826bbdb0c252ea701e5f576105e63eab0d37d1f8e1b806d36167b5"
 
 [[files]]
 file = "config/ecologics.toml"
@@ -1202,7 +1206,7 @@ hash = "e186f519c86ca1147baa8e7f32b15917257601f00486400ed54531107bdf9ac2"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "0223ff8a30b30755ab743dbe7442a24fd6424df523550c0aac8cbc574181a5b7"
+hash = "2d3eef25256cb7edd7492896640623ce47aeca030657189f5970794ae9b1cb28"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -1266,7 +1270,7 @@ hash = "8deed1a37e1d8b3741c5059ec8351ab8855ea44614ae22b2c377f9d3c7b34aaf"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "6b68aecc6b6d9d7b5ab09f59284098fc66afa663d0be657b5b4f148762f48ae0"
+hash = "e3b70041efd7daf8bccbfa6a63edfd07058e368b10a3cd8e487ef0eaddd75bc0"
 
 [[files]]
 file = "config/passthroughsigns-common.toml"
@@ -1337,6 +1341,10 @@ file = "config/skinnedlanterns.toml"
 hash = "bfc728d2a529c76cd53b37a7a00d9628f3692aef67d04cb84e4d5e0dcf2587a5"
 
 [[files]]
+file = "config/smoothchunk-common.toml"
+hash = "0b5e7f9386e0f8d1933d9ac9b67154b7574afb3bcc459624484d001204a0d623"
+
+[[files]]
 file = "config/sophisticatedbackpacks-common.toml"
 hash = "78d2ab1b72448a9e7da64f4739fc31a19a11c805d843cd908a75b1d36129aae4"
 
@@ -1394,11 +1402,11 @@ hash = "b66d48c2fb60164f07246feb733d942f79cb1bf6475a85784db33581095fbf5d"
 
 [[files]]
 file = "config/xaerominimap.txt"
-hash = "2ed8d250d5e435d70e12ed7a42a977612c0fb7c9376ecb55f695882d0810a47c"
+hash = "2a6b5b82c5ada81a76a14ee3113f68c959370bbd576edcca704cd5fdfbdd9987"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "5d8629e02aa22d7319c4bc67f3c1c9c52b9b0464312685edb9a4efe265202dd9"
+hash = "622c2cd8a7fc8f762b2852ebce914ac2ca0e1dca2d70eeca590e92d254d46055"
 
 [[files]]
 file = "config/xaeropatreon.txt"
