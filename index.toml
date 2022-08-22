@@ -5,10 +5,6 @@ file = "config/Adorn.json5"
 hash = "0f95cb57bc487fe6231fd15cba2932ab99522cd31b7979efeda7e82ec3c1ae93"
 
 [[files]]
-file = "config/EnderStorage.cfg"
-hash = "50f8a5bee199a9f544ad1c87441e424ad768195b3fa95eb1d8372de18c7da346"
-
-[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
@@ -1793,11 +1789,6 @@ metafile = true
 [[files]]
 file = "mods/ecologics.pw.toml"
 hash = "ec5d20b588e214d6f9fb48d29464a4671f7d74882e233df324911755077801b9"
-metafile = true
-
-[[files]]
-file = "mods/ender-storage-1-8.pw.toml"
-hash = "7129dd0baa2447cfc50176833dbbd70cb0b27a9918f7c1e7b68ee22a2fc339be"
 metafile = true
 
 [[files]]
