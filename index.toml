@@ -5,10 +5,6 @@ file = "config/Adorn.json5"
 hash = "0f95cb57bc487fe6231fd15cba2932ab99522cd31b7979efeda7e82ec3c1ae93"
 
 [[files]]
-file = "config/EnderStorage.cfg"
-hash = "50f8a5bee199a9f544ad1c87441e424ad768195b3fa95eb1d8372de18c7da346"
-
-[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
@@ -35,10 +31,6 @@ hash = "8f217960edb8a3af2a8801fecc51256d95e984e9cc24ebb097b732d4700a0b37"
 [[files]]
 file = "config/abnormals_delight-common.toml"
 hash = "bbde50e04a2da45c2865bedefbe3bf138d49b89f5954ab3673a77a5eff207e06"
-
-[[files]]
-file = "config/actuallycompatible-common.toml"
-hash = "f5b2455ce0bdb53f94b24ed480554178f00b8c51132bd8ff7ea40c49512f19ad"
 
 [[files]]
 file = "config/aiimprovements-common.toml"
@@ -494,7 +486,7 @@ hash = "41c19e2ecac7a3f80691cd04254e2532ce886102de60e90b7bde7873db782867"
 
 [[files]]
 file = "config/byg/nether-biomes.json5"
-hash = "775c0831efee3f027c1e57d2bddbb8330d29cd4bc97461378d91d8cd2c62b027"
+hash = "e377c297888c559ef09177df64864324875fbf2619b0fdb0943ab808728b5797"
 
 [[files]]
 file = "config/byg/overworld/biome_selectors/beach_biomes/beach_biomes_1.json5"
@@ -743,6 +735,10 @@ hash = "9fb4bac0f0cda650dba6ff3a9520e6558cbe4d73eac3c2e4803ec245212216d6"
 [[files]]
 file = "config/dynamic_asset_generator.json"
 hash = "4ea3289ec75cea2f67f19855a8226adb8f688d84fe7892081197eab2ee08bae4"
+
+[[files]]
+file = "config/dynview-common.toml"
+hash = "a0372e5ab4826bbdb0c252ea701e5f576105e63eab0d37d1f8e1b806d36167b5"
 
 [[files]]
 file = "config/ecologics.toml"
@@ -1210,7 +1206,7 @@ hash = "e186f519c86ca1147baa8e7f32b15917257601f00486400ed54531107bdf9ac2"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "0223ff8a30b30755ab743dbe7442a24fd6424df523550c0aac8cbc574181a5b7"
+hash = "2d3eef25256cb7edd7492896640623ce47aeca030657189f5970794ae9b1cb28"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -1274,7 +1270,7 @@ hash = "8deed1a37e1d8b3741c5059ec8351ab8855ea44614ae22b2c377f9d3c7b34aaf"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "6b68aecc6b6d9d7b5ab09f59284098fc66afa663d0be657b5b4f148762f48ae0"
+hash = "e3b70041efd7daf8bccbfa6a63edfd07058e368b10a3cd8e487ef0eaddd75bc0"
 
 [[files]]
 file = "config/passthroughsigns-common.toml"
@@ -1345,6 +1341,10 @@ file = "config/skinnedlanterns.toml"
 hash = "bfc728d2a529c76cd53b37a7a00d9628f3692aef67d04cb84e4d5e0dcf2587a5"
 
 [[files]]
+file = "config/smoothchunk-common.toml"
+hash = "0b5e7f9386e0f8d1933d9ac9b67154b7574afb3bcc459624484d001204a0d623"
+
+[[files]]
 file = "config/sophisticatedbackpacks-common.toml"
 hash = "78d2ab1b72448a9e7da64f4739fc31a19a11c805d843cd908a75b1d36129aae4"
 
@@ -1402,11 +1402,11 @@ hash = "b66d48c2fb60164f07246feb733d942f79cb1bf6475a85784db33581095fbf5d"
 
 [[files]]
 file = "config/xaerominimap.txt"
-hash = "2ed8d250d5e435d70e12ed7a42a977612c0fb7c9376ecb55f695882d0810a47c"
+hash = "2a6b5b82c5ada81a76a14ee3113f68c959370bbd576edcca704cd5fdfbdd9987"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "5d8629e02aa22d7319c4bc67f3c1c9c52b9b0464312685edb9a4efe265202dd9"
+hash = "622c2cd8a7fc8f762b2852ebce914ac2ca0e1dca2d70eeca590e92d254d46055"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -1522,11 +1522,6 @@ metafile = true
 [[files]]
 file = "mods/absent-by-design.pw.toml"
 hash = "d1f108d2420df1ab0027cebc4ef8525ac09ace0d3a7e433dade46446708c0dd4"
-metafile = true
-
-[[files]]
-file = "mods/actually-compatible.pw.toml"
-hash = "7342a52601808df88e76370b52e894545decc7bb14bdc6f7508e1f6dbca0404c"
 metafile = true
 
 [[files]]
@@ -1805,11 +1800,6 @@ hash = "ec5d20b588e214d6f9fb48d29464a4671f7d74882e233df324911755077801b9"
 metafile = true
 
 [[files]]
-file = "mods/ender-storage-1-8.pw.toml"
-hash = "7129dd0baa2447cfc50176833dbbd70cb0b27a9918f7c1e7b68ee22a2fc339be"
-metafile = true
-
-[[files]]
 file = "mods/ensorcellation.pw.toml"
 hash = "4c948b97f01f941ee8c85898159ab282839c2e6011f5650d09e617d59dff9798"
 metafile = true
@@ -2037,6 +2027,11 @@ metafile = true
 [[files]]
 file = "mods/mrcrayfish-furniture-mod.pw.toml"
 hash = "916c4cb1f3e1a95e6c52cdcac101fdc54ce5e4d1cb568493de2b6bef26a2a8ad"
+metafile = true
+
+[[files]]
+file = "mods/my-server-is-compatible.pw.toml"
+hash = "710ea40d2def14578600d2e6fef5d226554a4a48646c7eba2463805d1743fcd3"
 metafile = true
 
 [[files]]
