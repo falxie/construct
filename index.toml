@@ -1198,7 +1198,7 @@ hash = "44a38da848ad438484e0c5594278541d351d0ef031690ec68fd4947df301c4fa"
 
 [[files]]
 file = "config/jeed-client.toml"
-hash = "208cc4313b2ef8c98775604108d49c6ab6772855980c543551da879b09086df9"
+hash = "7b2c185b0db4329092ce36218552d55d8dd80eb6ba14c39991152fa4254e3770"
 
 [[files]]
 file = "config/jei-client.toml"
@@ -1222,11 +1222,11 @@ hash = "d42cc4999b6e43bfb5ceee8265a3dbaa7ace138838f0c96963f0b30381d823de"
 
 [[files]]
 file = "config/jeresources-common.toml"
-hash = "13a4d5e1d1ac4207cbebef810696525975ec4f0c2470f6b858cbd9f62a6cd3ec"
+hash = "915287531281f8a338c3b39adef8d58734c555ad72fe572dbb92ce71c356a587"
 
 [[files]]
 file = "config/jeresources.toml"
-hash = "dba9b465be70853db2eaa9ab61747b244c2dd1127668dd72121251150a4833a1"
+hash = "e54480b0adc89d5fc974f0188015208b8f460c6504b25d851217032ae9af3f1f"
 
 [[files]]
 file = "config/jerintegration-client.toml"
@@ -1532,7 +1532,11 @@ hash = "95850f671382aae9b555d5d9fb8ef4901b786679113a4829aaad91df930338b5"
 
 [[files]]
 file = "kubejs/client_scripts/aquaculture.js"
-hash = "5349413d67d2a367728c5dd79566f6c036a30f32835b1d197a82af484e780a82"
+hash = "fa06fe0f1747f3532f8f3a0427fa662367c5fe6066eaf64e7771b9b6218fdec8"
+
+[[files]]
+file = "kubejs/client_scripts/excavated_variants.js"
+hash = "0a9952c11203cf8208819b2173a45d3629e4726667560ae62fd6864371e12792"
 
 [[files]]
 file = "kubejs/client_scripts/naturalist.js"
@@ -1552,7 +1556,7 @@ hash = "03fed2739a062d154a0941592d3fb3b5002cf07187eab377177319a8927672a0"
 
 [[files]]
 file = "kubejs/server_scripts/aquaculture.js"
-hash = "216d55b8d932b1a412a27f349e8059604d9932c377593c7306a479109fc3417b"
+hash = "e1b4f1339add8e738625219ca69ef6f5d9eb777e41ef8811e5d13fd750754934"
 
 [[files]]
 file = "kubejs/startup_scripts/script.js"
