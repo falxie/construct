@@ -613,6 +613,10 @@ file = "config/byg/trades.json5"
 hash = "f666fca7047f51d5ff411a9bee77893b71f4337916cb2c726f8a3819eb1ddc44"
 
 [[files]]
+file = "config/carryon-client.toml"
+hash = "29404dd87867d12c1e60bf3295f5f6fd4229d056ac321733fba1113020ad21e8"
+
+[[files]]
 file = "config/ccl.cfg"
 hash = "d0accd9879a8d31db8bdb55163dbb1b1668890a4558ac0689f807c6e207d1d99"
 
@@ -698,11 +702,11 @@ hash = "9424ceb580ec8f3f074ebcc0618bfceebb62bb44d64750c7df5964fc7713964c"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "287f58e2c62ffe15c8b0778550041faf85e8fd26035ad923372d2d228e6919d4"
+hash = "f7eaa79c27113bb7f3018d8610f63086963ce7b5e6d5c9c4f88207b58d6352a6"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "0c6fc1314affc5c6404182e459fff191c627ff4bc329f36ed160975ed8139593"
+hash = "206d5acedb479c7708cb30a768e88a5e37325e8584c9ef902ad78ea2770453d4"
 
 [[files]]
 file = "config/defaultoptions/servers.dat"
@@ -1198,7 +1202,7 @@ hash = "44a38da848ad438484e0c5594278541d351d0ef031690ec68fd4947df301c4fa"
 
 [[files]]
 file = "config/jeed-client.toml"
-hash = "208cc4313b2ef8c98775604108d49c6ab6772855980c543551da879b09086df9"
+hash = "7b2c185b0db4329092ce36218552d55d8dd80eb6ba14c39991152fa4254e3770"
 
 [[files]]
 file = "config/jei-client.toml"
@@ -1222,11 +1226,11 @@ hash = "d42cc4999b6e43bfb5ceee8265a3dbaa7ace138838f0c96963f0b30381d823de"
 
 [[files]]
 file = "config/jeresources-common.toml"
-hash = "13a4d5e1d1ac4207cbebef810696525975ec4f0c2470f6b858cbd9f62a6cd3ec"
+hash = "915287531281f8a338c3b39adef8d58734c555ad72fe572dbb92ce71c356a587"
 
 [[files]]
 file = "config/jeresources.toml"
-hash = "dba9b465be70853db2eaa9ab61747b244c2dd1127668dd72121251150a4833a1"
+hash = "e54480b0adc89d5fc974f0188015208b8f460c6504b25d851217032ae9af3f1f"
 
 [[files]]
 file = "config/jerintegration-client.toml"
@@ -1417,6 +1421,10 @@ file = "config/xaeroworldmap.txt"
 hash = "01dd84704af0a037922f73c9dc80e806cc4db568755baf62a9a3d1dbdce9aa50"
 
 [[files]]
+file = "defaultconfigs/carryon-server.toml"
+hash = "c35a07c786ef53da14f7d4334c4a4b5776d16283ae98f51f3e26205d17c0d9cb"
+
+[[files]]
 file = "defaultconfigs/cofh_core-server.toml"
 hash = "f23a9f84a79f449004bec5effd93fbae160668109b69191221db39825b407bc5"
 
@@ -1485,34 +1493,52 @@ file = "global_packs/required_data/Construct Tweaks/pack.mcmeta"
 hash = "e963c33600a550c75e2448ecf899fcacfb7d3c67ebf93badcfb8bb98a567ab1c"
 
 [[files]]
-file = "global_packs/required_data/repurposed-structures-better-dungeons-datapack.pw.toml"
-hash = "4ef4f30ad9a2d64e85f128ed3402901af6b8268333e8ccdda4b014e1574ea9f0"
-metafile = true
+file = "kubejs/README.txt"
+hash = "02d6feb3afe1d9c96e137f8baaa71de982f1af0a2b37fbcba73f34ee59ebbd4d"
 
 [[files]]
-file = "global_packs/required_data/repurposed-structures-better-strongholds-datapack.pw.toml"
-hash = "2ef086ad05b252dba13f27577a7da2b752c4772b07676842df982e9172f73aa6"
-metafile = true
+file = "kubejs/assets/kubejs/textures/block/example_block.png"
+hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
 
 [[files]]
-file = "global_packs/required_data/repurposed-structures-better-witch-huts-compat.pw.toml"
-hash = "cd70513afae6f5ccba3b2b23d14b41fe82fbb4c1eadf1a9827c90f2eaad377a4"
-metafile = true
+file = "kubejs/assets/kubejs/textures/item/example_item.png"
+hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
 
 [[files]]
-file = "global_packs/required_data/repurposed-structures-etched-datapack-compat.pw.toml"
-hash = "427a7fa914d767b37d299ede05ebb4cb6dff6b86569a73d087e580c7b00fa59c"
-metafile = true
+file = "kubejs/client_scripts/alexsmobs.js"
+hash = "95850f671382aae9b555d5d9fb8ef4901b786679113a4829aaad91df930338b5"
 
 [[files]]
-file = "global_packs/required_data/repurposed-structures-farmers-delight-datapack.pw.toml"
-hash = "888a23e0a9f991ef9ea56c48d7cb4f0881c5c84fa6ff55a0ff5d893794e0c134"
-metafile = true
+file = "kubejs/client_scripts/aquaculture.js"
+hash = "fa06fe0f1747f3532f8f3a0427fa662367c5fe6066eaf64e7771b9b6218fdec8"
 
 [[files]]
-file = "global_packs/required_resources/xaeros-minimap-modded-support.pw.toml"
-hash = "c3388757d17a46b2dd8923510559fd7d2b64324fd412fb3bceb6d38e89603ffa"
-metafile = true
+file = "kubejs/client_scripts/excavated_variants.js"
+hash = "0a9952c11203cf8208819b2173a45d3629e4726667560ae62fd6864371e12792"
+
+[[files]]
+file = "kubejs/client_scripts/naturalist.js"
+hash = "250304ef731d076a9d7ba76fc85a4c75a71105553ca2e7957fdb868506ca4bd3"
+
+[[files]]
+file = "kubejs/config/client.properties"
+hash = "1ee7f36aeb6d6b57a5e8bbe38567860064c2d9dc9458dd3b6ed68344c37c536c"
+
+[[files]]
+file = "kubejs/config/common.properties"
+hash = "13cd0406d4775fbc68c9f5936e1ab06660e9fc4e777073ddfa7cb6e1445861cb"
+
+[[files]]
+file = "kubejs/server_scripts/alexsmobs.js"
+hash = "dd7929a2a8e2bbdfa536134b756b42d40f5dc98d6ca8b0d70a0fb7394e6ecf6b"
+
+[[files]]
+file = "kubejs/server_scripts/aquaculture.js"
+hash = "4d6522540be82ceb5dee7124b2cdcfef2585af665da8e46d44d2dd08ccdc56f9"
+
+[[files]]
+file = "kubejs/startup_scripts/script.js"
+hash = "849597780f489579d0c3af2b80d9d1209b152be22e2c270c9085623bbf0a5aea"
 
 [[files]]
 file = "mods/abnormals-delight.pw.toml"
@@ -1561,7 +1587,7 @@ metafile = true
 
 [[files]]
 file = "mods/aquaculture.pw.toml"
-hash = "f5544bc5bf4578ff88fbb4027e29ce376ba1721e916a29f3bace348c3b193828"
+hash = "f43243c797ca68e3a1a55e4cf3f97e82c1403c25ca38fc77a2d2e76b9675041d"
 metafile = true
 
 [[files]]
@@ -1635,6 +1661,11 @@ hash = "648369b37953dd16d26a0f1c4eb4496b88fa4c566110c11d91a258f70cff06c4"
 metafile = true
 
 [[files]]
+file = "mods/carry-on.pw.toml"
+hash = "d22e39f722bf8ef2c78d1287422bb05a159837ca0ee1f304bba2f8f75173da18"
+metafile = true
+
+[[files]]
 file = "mods/catalogue.pw.toml"
 hash = "1e09653f0241c715d9da6ebb677e09b7943385a58f31af10b77e6c61e5e3cf25"
 metafile = true
@@ -1696,7 +1727,7 @@ metafile = true
 
 [[files]]
 file = "mods/configured.pw.toml"
-hash = "33436dd644cc903c0006df71f7f846f46a12e0338a2865eb5826fa0205120731"
+hash = "8885728c751b6e20f3fc4a9394723ce5250a2fa1fe4078ad83cc27b441e20ba3"
 metafile = true
 
 [[files]]
@@ -1720,11 +1751,6 @@ hash = "e4155e11b80301e0dbc76f64deea0f7b73c2e8086782ce8a7cdc5b72b2218172"
 metafile = true
 
 [[files]]
-file = "mods/crafttweaker.pw.toml"
-hash = "a527fbd108976c2a4440bf26556235f2fd23a9090272e8077a3de81a83cbdf56"
-metafile = true
-
-[[files]]
 file = "mods/create-cafe.pw.toml"
 hash = "3b4612bd94d8f4e214d852c5c38a2c4b83cf11f583b38ed2b905db5daeaf2abb"
 metafile = true
@@ -1736,7 +1762,7 @@ metafile = true
 
 [[files]]
 file = "mods/cultural-delights.pw.toml"
-hash = "9a1d0b2f357fc36773e00d8b0b9be97b76554ffa84b79655421476cf9a1b3c43"
+hash = "9fdd3396cab483f12248bc508a1bea5fabd2e0d65d54e57cde0e55b89eafdd44"
 metafile = true
 
 [[files]]
@@ -1850,6 +1876,11 @@ hash = "5a857e5ab8720ccd0ec879a6812f25f273a63c2e6af04958da7bff202dd7dd7c"
 metafile = true
 
 [[files]]
+file = "mods/fastload.pw.toml"
+hash = "7815dd9cf274a1f399ff8827ebce11e6e5bef872e4221410d4c475680bf18284"
+metafile = true
+
+[[files]]
 file = "mods/fastworkbench.pw.toml"
 hash = "4b15d78af394e83e5bc6cdd6dd9123b96f9e1f70d727e101db4558ae9f7c2e58"
 metafile = true
@@ -1891,7 +1922,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "4ad67ed05a5244c0c027a08c6147076663fd36a1952a9141b4854d92cb6a2f1e"
+hash = "fe66aecc770ccc6456642f84d12595f0b6f7dd9baefc76dce1fa2965dc5bc874"
 metafile = true
 
 [[files]]
@@ -1940,11 +1971,6 @@ hash = "71a8fa0be5b104ef1e9cfd11936c7c66bb4c8ceb759d2c715d4e7f88292b0f49"
 metafile = true
 
 [[files]]
-file = "mods/jeitweaker.pw.toml"
-hash = "3293dddac5ba9d8390ca6792ff1668ff52ddc39974a9e9a0c69674e7f4ac7099"
-metafile = true
-
-[[files]]
 file = "mods/jer-integration.pw.toml"
 hash = "8342d02ffa8c8a5aae481dd7f22475ced3861756a4088e0c9c9a9e78f43cacf2"
 metafile = true
@@ -1985,18 +2011,13 @@ hash = "3a8f223c33599ab510da8671b8402239eef9024fb1a148ab3bc422f05e4951c7"
 metafile = true
 
 [[files]]
-file = "mods/ksyxis.pw.toml"
-hash = "7163f5e93789818c4f945f1beac1f06af5516a252bac284564fa4b0512563dec"
+file = "mods/kubejs.pw.toml"
+hash = "36d37ce5b263363078240088f6c5f204779474ab6001c5be2866efbfcced24fa"
 metafile = true
 
 [[files]]
 file = "mods/lazy-dfu-forge.pw.toml"
 hash = "ebb19e9c7a826f2d820671cdb8fc3aebb45cccf0751235b46a20701b9a6772b4"
-metafile = true
-
-[[files]]
-file = "mods/magnesium-extras.pw.toml"
-hash = "2c622839003e9008c0d3f891c6b376ec59ccb56289320c96d72093323bd0205a"
 metafile = true
 
 [[files]]
@@ -2060,11 +2081,6 @@ hash = "c7c3f6373959e1efe3f0c6aad9da00b109bb34ef27eeec1765dde28c7e29ae1a"
 metafile = true
 
 [[files]]
-file = "mods/oculus.pw.toml"
-hash = "b5385a79aac3ae8bb708f707b66213125bc7569654ef8da9365164f7abbeec6f"
-metafile = true
-
-[[files]]
 file = "mods/oh-the-biomes-youll-go.pw.toml"
 hash = "e2dcae26c1573da28b92ceee6b422b01ce11de34576c344fcfc7fa113d882dcf"
 metafile = true
@@ -2086,7 +2102,7 @@ metafile = true
 
 [[files]]
 file = "mods/placebo.pw.toml"
-hash = "193eee92d8b59f84d9c4d7d63efcb947488ce44d8284f162863210fad0bf0e59"
+hash = "8d66fd2084cae45139e4ff384d66f24a8c5f696af609979c449dfda7eaf39ddc"
 metafile = true
 
 [[files]]
@@ -2125,8 +2141,8 @@ hash = "6d90703590e13b8233fa9572f5306b87d4b56930905eca96b9a9834e122cb6bc"
 metafile = true
 
 [[files]]
-file = "mods/rubidium.pw.toml"
-hash = "23f8e7273ed94a07a172e3a5f89d3488dd1ca9ee6d04598814054f96b0db6cf0"
+file = "mods/rhino.pw.toml"
+hash = "7615d1d69859aadc88bfd81bf58eb8acdb1b64362e4118255dbfd875f9f0fbd1"
 metafile = true
 
 [[files]]
@@ -2196,7 +2212,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "2b011893f2bb5a41332b32c80d2797872a48088d198dc1ed1bc7efc296a76da3"
+hash = "af9a82c5bc1be8c4c52ca93a14349a72ec1196b1008b0906eb32620c49559a7c"
 metafile = true
 
 [[files]]
@@ -2241,7 +2257,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "962c4dc2f19f8dd51b5f1e1bc11c433babd2fa232e49b77ae51a70693673d0a5"
+hash = "f6a83c987ba2375de8a67f217f117e4e75d946cbeb300e37a18ff7f9096ba304"
 metafile = true
 
 [[files]]
@@ -2280,6 +2296,31 @@ hash = "25ca73ede906cc0162479b6fefaafa3d4c79f97ccd3580cbb3df2755322c7099"
 metafile = true
 
 [[files]]
+file = "resourcepacks/repurposed-structures-better-dungeons-datapack.pw.toml"
+hash = "4ef4f30ad9a2d64e85f128ed3402901af6b8268333e8ccdda4b014e1574ea9f0"
+metafile = true
+
+[[files]]
+file = "resourcepacks/repurposed-structures-better-strongholds-datapack.pw.toml"
+hash = "2ef086ad05b252dba13f27577a7da2b752c4772b07676842df982e9172f73aa6"
+metafile = true
+
+[[files]]
+file = "resourcepacks/repurposed-structures-better-witch-huts-compat.pw.toml"
+hash = "cd70513afae6f5ccba3b2b23d14b41fe82fbb4c1eadf1a9827c90f2eaad377a4"
+metafile = true
+
+[[files]]
+file = "resourcepacks/repurposed-structures-etched-datapack-compat.pw.toml"
+hash = "427a7fa914d767b37d299ede05ebb4cb6dff6b86569a73d087e580c7b00fa59c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/repurposed-structures-farmers-delight-datapack.pw.toml"
+hash = "888a23e0a9f991ef9ea56c48d7cb4f0881c5c84fa6ff55a0ff5d893794e0c134"
+metafile = true
+
+[[files]]
 file = "resourcepacks/stay-true-modded-compats.pw.toml"
 hash = "94d308d277061bff9d7ab8ea3b9261be36aefa910d58aa6d069a22175856e179"
 metafile = true
@@ -2290,17 +2331,6 @@ hash = "c76d5ed5dd44f2422253e3799acdf7de499e6731f42e2bee8c63ff67b0810e13"
 metafile = true
 
 [[files]]
-file = "scripts/helpers.zs"
-hash = "71f7d0cce66f749772d4a21939bb26cd6829e8896f573e46e30c176c8b86c0c1"
-
-[[files]]
-file = "scripts/mods/alexsmobs.zs"
-hash = "127a3321b316c04b146e7308374064acc8edc31b6cd4a90c711aae1ad7b6e8a3"
-
-[[files]]
-file = "scripts/mods/aquaculture.zs"
-hash = "93d8544e43f32fa3f0ea372bf6976473176c11ba60dbe02cbd0ea074aa869f5b"
-
-[[files]]
-file = "scripts/mods/naturalist.zs"
-hash = "e64c8e2151d3a0c62c35191593cb6a1540c5b52db0194d969da1b8a2abb93335"
+file = "resourcepacks/xaeros-minimap-modded-support.pw.toml"
+hash = "c3388757d17a46b2dd8923510559fd7d2b64324fd412fb3bceb6d38e89603ffa"
+metafile = true
