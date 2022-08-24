@@ -613,6 +613,10 @@ file = "config/byg/trades.json5"
 hash = "f666fca7047f51d5ff411a9bee77893b71f4337916cb2c726f8a3819eb1ddc44"
 
 [[files]]
+file = "config/carryon-client.toml"
+hash = "29404dd87867d12c1e60bf3295f5f6fd4229d056ac321733fba1113020ad21e8"
+
+[[files]]
 file = "config/ccl.cfg"
 hash = "d0accd9879a8d31db8bdb55163dbb1b1668890a4558ac0689f807c6e207d1d99"
 
@@ -1417,6 +1421,10 @@ file = "config/xaeroworldmap.txt"
 hash = "01dd84704af0a037922f73c9dc80e806cc4db568755baf62a9a3d1dbdce9aa50"
 
 [[files]]
+file = "defaultconfigs/carryon-server.toml"
+hash = "c35a07c786ef53da14f7d4334c4a4b5776d16283ae98f51f3e26205d17c0d9cb"
+
+[[files]]
 file = "defaultconfigs/cofh_core-server.toml"
 hash = "f23a9f84a79f449004bec5effd93fbae160668109b69191221db39825b407bc5"
 
@@ -1650,6 +1658,11 @@ metafile = true
 [[files]]
 file = "mods/buzzier-bees.pw.toml"
 hash = "648369b37953dd16d26a0f1c4eb4496b88fa4c566110c11d91a258f70cff06c4"
+metafile = true
+
+[[files]]
+file = "mods/carry-on.pw.toml"
+hash = "d22e39f722bf8ef2c78d1287422bb05a159837ca0ee1f304bba2f8f75173da18"
 metafile = true
 
 [[files]]
