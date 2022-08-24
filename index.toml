@@ -2008,11 +2008,6 @@ hash = "ebb19e9c7a826f2d820671cdb8fc3aebb45cccf0751235b46a20701b9a6772b4"
 metafile = true
 
 [[files]]
-file = "mods/magnesium-extras.pw.toml"
-hash = "2c622839003e9008c0d3f891c6b376ec59ccb56289320c96d72093323bd0205a"
-metafile = true
-
-[[files]]
 file = "mods/mantle.pw.toml"
 hash = "3b8744e493e25555053230b01f86c25cfee8e686d4159db5458478b00e404d58"
 metafile = true
@@ -2070,11 +2065,6 @@ metafile = true
 [[files]]
 file = "mods/observable.pw.toml"
 hash = "c7c3f6373959e1efe3f0c6aad9da00b109bb34ef27eeec1765dde28c7e29ae1a"
-metafile = true
-
-[[files]]
-file = "mods/oculus.pw.toml"
-hash = "b5385a79aac3ae8bb708f707b66213125bc7569654ef8da9365164f7abbeec6f"
 metafile = true
 
 [[files]]
@@ -2140,11 +2130,6 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "7615d1d69859aadc88bfd81bf58eb8acdb1b64362e4118255dbfd875f9f0fbd1"
-metafile = true
-
-[[files]]
-file = "mods/rubidium.pw.toml"
-hash = "23f8e7273ed94a07a172e3a5f89d3488dd1ca9ee6d04598814054f96b0db6cf0"
 metafile = true
 
 [[files]]
