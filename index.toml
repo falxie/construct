@@ -1338,7 +1338,7 @@ hash = "f110e67b9dd1926d739b78fde482ae2839d0e0fb2456586d96a78066c8423ba4"
 
 [[files]]
 file = "config/serverconfigupdater-common.toml"
-hash = "f4894395c3715e092ed87d4dc2393be5192409bd82533e4b778ce93c0d7b410a"
+hash = "daed233347a87c2420f053dfb4c8b856efb223328b27f8b0578ecd735c0960a6"
 
 [[files]]
 file = "config/skinnedlanterns.toml"
@@ -1422,7 +1422,7 @@ hash = "01dd84704af0a037922f73c9dc80e806cc4db568755baf62a9a3d1dbdce9aa50"
 
 [[files]]
 file = "defaultconfigs/carryon-server.toml"
-hash = "c35a07c786ef53da14f7d4334c4a4b5776d16283ae98f51f3e26205d17c0d9cb"
+hash = "745a03f10b1d3f543c982e46f8bfded9fc83d4002a9082e7367dd621ce3f8881"
 
 [[files]]
 file = "defaultconfigs/cofh_core-server.toml"
