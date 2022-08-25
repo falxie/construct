@@ -706,7 +706,7 @@ hash = "f7eaa79c27113bb7f3018d8610f63086963ce7b5e6d5c9c4f88207b58d6352a6"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "206d5acedb479c7708cb30a768e88a5e37325e8584c9ef902ad78ea2770453d4"
+hash = "2912e21eccfbe633ffb8759a459152878553f6a7b8ff99f1bd873628349d3d0e"
 
 [[files]]
 file = "config/defaultoptions/servers.dat"
@@ -954,7 +954,7 @@ hash = "e2cc65bdd5d28e363aeb2c2b6277d9a26d030dc183749dede041245eb5eb1ec4"
 
 [[files]]
 file = "config/global_data_and_resourcepacks.toml"
-hash = "9c1d0d00ccf63577f1d23101acb4b3f83920f4e1fbf6d10bf881fe67da184e65"
+hash = "6de98d9728c82d6d4a5fe3f3a4359f007d4827d0c1280a5558297e11aad88ee2"
 
 [[files]]
 file = "config/goblintraders-common.toml"
