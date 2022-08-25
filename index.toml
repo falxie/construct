@@ -1737,7 +1737,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "099af7d0a61fd27c6b6ba26e7e84c4d7cfe5eea78a7102c7eb717528ef6ecc91"
+hash = "2cc77c7cd14d666f9a8de5678d541618035ec16f403c195a0e2d0ac43be1fa69"
 metafile = true
 
 [[files]]
@@ -1752,7 +1752,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-cafe.pw.toml"
-hash = "3b4612bd94d8f4e214d852c5c38a2c4b83cf11f583b38ed2b905db5daeaf2abb"
+hash = "035500c6fb79f37326c8bef3fe75136d9cfc4eed6c2aeea82dfc4985475a6648"
 metafile = true
 
 [[files]]
@@ -1807,7 +1807,7 @@ metafile = true
 
 [[files]]
 file = "mods/drp-global-datapack.pw.toml"
-hash = "e002e663f917dc976a7e446b7ee963a7ab78fedb08d0bcad428f55efad3bcffc"
+hash = "445c4de252271dd4e6fc5454c8bbda30d936b1866dcbd0b71b951d1f627be2d9"
 metafile = true
 
 [[files]]
@@ -1922,7 +1922,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "fe66aecc770ccc6456642f84d12595f0b6f7dd9baefc76dce1fa2965dc5bc874"
+hash = "f51c593cedba33bd9f8f1cf5ae6dddabcae4dec4a669da1e203f67fc993bdd6e"
 metafile = true
 
 [[files]]
@@ -2102,7 +2102,7 @@ metafile = true
 
 [[files]]
 file = "mods/placebo.pw.toml"
-hash = "8d66fd2084cae45139e4ff384d66f24a8c5f696af609979c449dfda7eaf39ddc"
+hash = "4c2e28f523d9af7a57115d03dfe997d396705e63c4781a0427aed96287f4cb3e"
 metafile = true
 
 [[files]]
