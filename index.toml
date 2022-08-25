@@ -1378,7 +1378,7 @@ hash = "0a26a61d6205b3b195c260635d0f41b4793100101e5c81ccf2fd7644f7f8a12c"
 
 [[files]]
 file = "config/supplementaries-registry.toml"
-hash = "9a29dc90320ef15b7bbe7aafddf6e2650790b866a69718411e91131b77ab4ecf"
+hash = "1b1b7376a782ae21ebaf8432024a1a7cfba3afe282979b3a5b8890ccd3c7804c"
 
 [[files]]
 file = "config/tconstruct-client.toml"
