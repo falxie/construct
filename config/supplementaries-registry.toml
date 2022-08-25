@@ -22,7 +22,7 @@
 	crank = false
 	jar = true
 	faucet = false
-	turn_table = true
+	turn_table = false
 	spring_launcher = false
 	speaker_block = false
 	sign_post = true
@@ -40,8 +40,8 @@
 	blackboard = true
 	safe = false
 	copper_lantern = true
-	gold_trapdoor = true
-	gold_door = true
+	gold_trapdoor = false
+	gold_door = false
 	bamboo_spikes = true
 	bamboo_spikes_tipped = true
 	stone_lamp = true
@@ -51,10 +51,10 @@
 	checker_block = true
 	netherite_door = false
 	netherite_trapdoor = false
-	lock_block = false
+	lock_block = true
 	flax = true
-	rope = true
-	pulley_block = true
+	rope = false
+	pulley_block = false
 	fodder = false
 	crimson_lantern = true
 	magma_cream_block = true
@@ -77,8 +77,8 @@
 	blackstone_tile = true
 	globe_sepia = true
 	present = true
-	silver_trapdoor = true
-	silver_door = true
+	silver_trapdoor = false
+	silver_door = false
 	lead_trapdoor = true
 	lead_door = true
 
@@ -91,9 +91,9 @@
 	antique_ink = true
 	shulker_shell = true
 	candy = true
-	wrench = true
+	wrench = false
 	slingshot = true
-	rope_arrow = true
+	rope_arrow = false
 	bomb = true
 	pancake = true
 

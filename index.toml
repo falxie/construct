@@ -1294,7 +1294,7 @@ hash = "f3d1c8420ef27a049690648fbe66f67739a3ef8709bce47406257d8d7de133f2"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "6aca1755717ec56979a330b77ab3d13690a43838df939b94b4f5ede4641b3070"
+hash = "a8acdb4183e0ee1d0714d554b68bff152f4f0d1c0a5b9a84626e8620e3881a64"
 
 [[files]]
 file = "config/radium.properties"
@@ -1370,7 +1370,7 @@ hash = "fc64c2ca441547fe83c78ca11d01124cec3779d17b3f607f2d06fd038163b372"
 
 [[files]]
 file = "config/supplementaries-client.toml"
-hash = "02828989cf5c8f4e327f5418f4eb7dfdbb4c26958d0d56493265c823b3ab52d2"
+hash = "d8df7da28cac1c6916cbc1ae143f0ab0a37ea10960f93fda79d921ca3d12cbfb"
 
 [[files]]
 file = "config/supplementaries-common.toml"
@@ -1378,7 +1378,7 @@ hash = "0a26a61d6205b3b195c260635d0f41b4793100101e5c81ccf2fd7644f7f8a12c"
 
 [[files]]
 file = "config/supplementaries-registry.toml"
-hash = "e6e67d010f2a856b636abe82e203a4489f6670ca1988edcaaefaa2c33d86479d"
+hash = "9a29dc90320ef15b7bbe7aafddf6e2650790b866a69718411e91131b77ab4ecf"
 
 [[files]]
 file = "config/tconstruct-client.toml"
