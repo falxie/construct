@@ -1018,7 +1018,7 @@ hash = "0877a80b77b17ebe6003e4fb2aa6ce56131dd6aeeb77b1f8b722b330652392a6"
 
 [[files]]
 file = "config/jade/jade_plugins.json"
-hash = "1b633f36137ceadd4e78962c0b5933f90508ccfba1635d7b0a2daed4a27b6b94"
+hash = "9fe774c138624a9d2734de7641d330700f0f85c6c5fc02ed08889388450ad313"
 
 [[files]]
 file = "config/jaopca/custom_forms.json"
@@ -1247,10 +1247,6 @@ hash = "65e9ddf7445cb8118a2130bd86d2ee6d6cae2c3b5e3a724d829ecffe360a0408"
 [[files]]
 file = "config/mantle-client.toml"
 hash = "bcdc80d141bdc59a355106e0c5d474019742d2bf8c853c87aa9c7d7b31172cb4"
-
-[[files]]
-file = "config/modnametooltip-client.toml"
-hash = "2330307cb817e81581e21a51353a47091cd6c6ab25b676e94fb1ec7a748f08d0"
 
 [[files]]
 file = "config/moreoverlays.toml"
@@ -2028,11 +2024,6 @@ metafile = true
 [[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
 hash = "543cae965a82c348b1a64fce5b3d7a4690970b6db6f38518c6f99771cec9a387"
-metafile = true
-
-[[files]]
-file = "mods/mod-name-tooltip.pw.toml"
-hash = "1398754e34ea789a233b03914c6ea0d589e77fadbe76ee6ac4bcf60a55b46308"
 metafile = true
 
 [[files]]
