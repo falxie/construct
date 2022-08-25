@@ -1530,7 +1530,11 @@ hash = "dd7929a2a8e2bbdfa536134b756b42d40f5dc98d6ca8b0d70a0fb7394e6ecf6b"
 
 [[files]]
 file = "kubejs/server_scripts/aquaculture.js"
-hash = "4d6522540be82ceb5dee7124b2cdcfef2585af665da8e46d44d2dd08ccdc56f9"
+hash = "b1ae197f136ccc9b450130a68afbb8508b598b97bf0b60c80c2858e38aad9c1c"
+
+[[files]]
+file = "kubejs/server_scripts/supplementaries.js"
+hash = "050992f6aaf9639b98d1b1f72a7444f90428984e38377332382d37d875dacaf5"
 
 [[files]]
 file = "kubejs/startup_scripts/script.js"
