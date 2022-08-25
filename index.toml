@@ -1338,7 +1338,7 @@ hash = "f110e67b9dd1926d739b78fde482ae2839d0e0fb2456586d96a78066c8423ba4"
 
 [[files]]
 file = "config/serverconfigupdater-common.toml"
-hash = "17255550ab0fe9ac1ae5325440c9b3f5ed8cf9b36e2e011b972c3a0c8dfdea52"
+hash = "f4894395c3715e092ed87d4dc2393be5192409bd82533e4b778ce93c0d7b410a"
 
 [[files]]
 file = "config/skinnedlanterns.toml"
