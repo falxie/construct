@@ -2149,6 +2149,11 @@ hash = "7e7f52b898a62041d50f7ae2d9b1b639aabc1facd23f23795e99bf210574f9b1"
 metafile = true
 
 [[files]]
+file = "mods/reauth.pw.toml"
+hash = "9b0029b2c1a23166e1f1292262ce5426de8b6d4ee54f6c76441a57b1b946b204"
+metafile = true
+
+[[files]]
 file = "mods/repurposed-structures.pw.toml"
 hash = "6d90703590e13b8233fa9572f5306b87d4b56930905eca96b9a9834e122cb6bc"
 metafile = true
