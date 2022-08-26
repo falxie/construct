@@ -1354,7 +1354,7 @@ hash = "8f8498a68e7e705c071f903999a9a122561bd40d6359f5abd7775d9f070c017b"
 
 [[files]]
 file = "config/sophisticatedcore-common.toml"
-hash = "90a1af15964ef7d3e19149a9c424db3d0a671ec99b68843bd2e6fddc42f0ae54"
+hash = "fa9cd20e833b7cb2edbaa53cf6a07a57672d3d72dffcff2982b5de654f66e573"
 
 [[files]]
 file = "config/sophisticatedstorage-common.toml"
