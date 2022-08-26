@@ -641,6 +641,10 @@ file = "config/chimes.toml"
 hash = "55451552db5cbba0124f9cd72c6b0e65217ef3e50cf4b69f8165a4940ef49eff"
 
 [[files]]
+file = "config/chunky.json"
+hash = "314e5382c4f0ac6fb9fea3d5625ca136433fd996572ae78ba160896e480dbcc6"
+
+[[files]]
 file = "config/citadel-common.toml"
 hash = "502f72085a269be20dbcf98ec8327bccce945ad978e6502aab97efcfc261d515"
 
@@ -1682,6 +1686,11 @@ metafile = true
 [[files]]
 file = "mods/chimes.pw.toml"
 hash = "4e253e12a9b2702b8708228b9f617fa49510939dfa8ce90d30033573543ec351"
+metafile = true
+
+[[files]]
+file = "mods/chunky-pregenerator-forge.pw.toml"
+hash = "bfcd4524eb690e064b56701cf7be728f58c47b70f518b89f34ec80b87c6f3f13"
 metafile = true
 
 [[files]]
