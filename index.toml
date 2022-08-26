@@ -373,6 +373,10 @@ file = "config/badmobs-common.toml"
 hash = "b4e0afdfe4593f3c0d862584965c60f4d71e2fcdb9a58e023c12730470f7f084"
 
 [[files]]
+file = "config/bcc-common.toml"
+hash = "e39497001e146f94bf34e5360aecd71009cb4964207023c3c007bdeee3998b66"
+
+[[files]]
 file = "config/betteradvancements-client.toml"
 hash = "e4ef31b41c4bda81ff1a072d9ba3ac9e0c674063d91b72e5779f5369a6d58a4c"
 
@@ -1628,6 +1632,11 @@ metafile = true
 [[files]]
 file = "mods/better-biome-blend.pw.toml"
 hash = "5438b2bd6600929c044886550008e7d1d002e8ac59cd9751359dbecb8a504bd4"
+metafile = true
+
+[[files]]
+file = "mods/better-compatibility-checker.pw.toml"
+hash = "6c4b845e5a370edd5b8f76599cbc223d7af2a560c76a2fabdcc8c273bb7de8be"
 metafile = true
 
 [[files]]
