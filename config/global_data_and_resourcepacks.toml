@@ -3,7 +3,8 @@
 [resourcepacks]
 required = [
     #"somewhere/random_pack.zip" # You can also point at specific files!
-    "global_packs/required_resources/"
+    "global_packs/required_resources/",
+    "resourcepacks/Xaero's Minimap - Mod Icons.zip"
 ]
 
 [datapacks]

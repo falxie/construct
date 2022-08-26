@@ -373,6 +373,10 @@ file = "config/badmobs-common.toml"
 hash = "b4e0afdfe4593f3c0d862584965c60f4d71e2fcdb9a58e023c12730470f7f084"
 
 [[files]]
+file = "config/bcc-common.toml"
+hash = "e39497001e146f94bf34e5360aecd71009cb4964207023c3c007bdeee3998b66"
+
+[[files]]
 file = "config/betteradvancements-client.toml"
 hash = "e4ef31b41c4bda81ff1a072d9ba3ac9e0c674063d91b72e5779f5369a6d58a4c"
 
@@ -706,7 +710,7 @@ hash = "f7eaa79c27113bb7f3018d8610f63086963ce7b5e6d5c9c4f88207b58d6352a6"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "206d5acedb479c7708cb30a768e88a5e37325e8584c9ef902ad78ea2770453d4"
+hash = "2912e21eccfbe633ffb8759a459152878553f6a7b8ff99f1bd873628349d3d0e"
 
 [[files]]
 file = "config/defaultoptions/servers.dat"
@@ -954,7 +958,7 @@ hash = "e2cc65bdd5d28e363aeb2c2b6277d9a26d030dc183749dede041245eb5eb1ec4"
 
 [[files]]
 file = "config/global_data_and_resourcepacks.toml"
-hash = "9c1d0d00ccf63577f1d23101acb4b3f83920f4e1fbf6d10bf881fe67da184e65"
+hash = "6de98d9728c82d6d4a5fe3f3a4359f007d4827d0c1280a5558297e11aad88ee2"
 
 [[files]]
 file = "config/goblintraders-common.toml"
@@ -1018,7 +1022,7 @@ hash = "0877a80b77b17ebe6003e4fb2aa6ce56131dd6aeeb77b1f8b722b330652392a6"
 
 [[files]]
 file = "config/jade/jade_plugins.json"
-hash = "1b633f36137ceadd4e78962c0b5933f90508ccfba1635d7b0a2daed4a27b6b94"
+hash = "9fe774c138624a9d2734de7641d330700f0f85c6c5fc02ed08889388450ad313"
 
 [[files]]
 file = "config/jaopca/custom_forms.json"
@@ -1249,10 +1253,6 @@ file = "config/mantle-client.toml"
 hash = "bcdc80d141bdc59a355106e0c5d474019742d2bf8c853c87aa9c7d7b31172cb4"
 
 [[files]]
-file = "config/modnametooltip-client.toml"
-hash = "2330307cb817e81581e21a51353a47091cd6c6ab25b676e94fb1ec7a748f08d0"
-
-[[files]]
 file = "config/moreoverlays.toml"
 hash = "ebfb30b4f6ca01e7f9feb0532fee9442c4ec1d3ff25df446d90b57d7de1f28ba"
 
@@ -1298,7 +1298,7 @@ hash = "f3d1c8420ef27a049690648fbe66f67739a3ef8709bce47406257d8d7de133f2"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "6aca1755717ec56979a330b77ab3d13690a43838df939b94b4f5ede4641b3070"
+hash = "a8acdb4183e0ee1d0714d554b68bff152f4f0d1c0a5b9a84626e8620e3881a64"
 
 [[files]]
 file = "config/radium.properties"
@@ -1338,7 +1338,7 @@ hash = "f110e67b9dd1926d739b78fde482ae2839d0e0fb2456586d96a78066c8423ba4"
 
 [[files]]
 file = "config/serverconfigupdater-common.toml"
-hash = "17255550ab0fe9ac1ae5325440c9b3f5ed8cf9b36e2e011b972c3a0c8dfdea52"
+hash = "daed233347a87c2420f053dfb4c8b856efb223328b27f8b0578ecd735c0960a6"
 
 [[files]]
 file = "config/skinnedlanterns.toml"
@@ -1358,7 +1358,7 @@ hash = "8f8498a68e7e705c071f903999a9a122561bd40d6359f5abd7775d9f070c017b"
 
 [[files]]
 file = "config/sophisticatedcore-common.toml"
-hash = "90a1af15964ef7d3e19149a9c424db3d0a671ec99b68843bd2e6fddc42f0ae54"
+hash = "fa9cd20e833b7cb2edbaa53cf6a07a57672d3d72dffcff2982b5de654f66e573"
 
 [[files]]
 file = "config/sophisticatedstorage-common.toml"
@@ -1374,7 +1374,7 @@ hash = "fc64c2ca441547fe83c78ca11d01124cec3779d17b3f607f2d06fd038163b372"
 
 [[files]]
 file = "config/supplementaries-client.toml"
-hash = "02828989cf5c8f4e327f5418f4eb7dfdbb4c26958d0d56493265c823b3ab52d2"
+hash = "d8df7da28cac1c6916cbc1ae143f0ab0a37ea10960f93fda79d921ca3d12cbfb"
 
 [[files]]
 file = "config/supplementaries-common.toml"
@@ -1382,7 +1382,7 @@ hash = "0a26a61d6205b3b195c260635d0f41b4793100101e5c81ccf2fd7644f7f8a12c"
 
 [[files]]
 file = "config/supplementaries-registry.toml"
-hash = "e6e67d010f2a856b636abe82e203a4489f6670ca1988edcaaefaa2c33d86479d"
+hash = "1b1b7376a782ae21ebaf8432024a1a7cfba3afe282979b3a5b8890ccd3c7804c"
 
 [[files]]
 file = "config/tconstruct-client.toml"
@@ -1422,7 +1422,7 @@ hash = "01dd84704af0a037922f73c9dc80e806cc4db568755baf62a9a3d1dbdce9aa50"
 
 [[files]]
 file = "defaultconfigs/carryon-server.toml"
-hash = "c35a07c786ef53da14f7d4334c4a4b5776d16283ae98f51f3e26205d17c0d9cb"
+hash = "745a03f10b1d3f543c982e46f8bfded9fc83d4002a9082e7367dd621ce3f8881"
 
 [[files]]
 file = "defaultconfigs/cofh_core-server.toml"
@@ -1534,7 +1534,11 @@ hash = "dd7929a2a8e2bbdfa536134b756b42d40f5dc98d6ca8b0d70a0fb7394e6ecf6b"
 
 [[files]]
 file = "kubejs/server_scripts/aquaculture.js"
-hash = "4d6522540be82ceb5dee7124b2cdcfef2585af665da8e46d44d2dd08ccdc56f9"
+hash = "b1ae197f136ccc9b450130a68afbb8508b598b97bf0b60c80c2858e38aad9c1c"
+
+[[files]]
+file = "kubejs/server_scripts/supplementaries.js"
+hash = "050992f6aaf9639b98d1b1f72a7444f90428984e38377332382d37d875dacaf5"
 
 [[files]]
 file = "kubejs/startup_scripts/script.js"
@@ -1628,6 +1632,11 @@ metafile = true
 [[files]]
 file = "mods/better-biome-blend.pw.toml"
 hash = "5438b2bd6600929c044886550008e7d1d002e8ac59cd9751359dbecb8a504bd4"
+metafile = true
+
+[[files]]
+file = "mods/better-compatibility-checker.pw.toml"
+hash = "6c4b845e5a370edd5b8f76599cbc223d7af2a560c76a2fabdcc8c273bb7de8be"
 metafile = true
 
 [[files]]
@@ -1737,7 +1746,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "099af7d0a61fd27c6b6ba26e7e84c4d7cfe5eea78a7102c7eb717528ef6ecc91"
+hash = "2cc77c7cd14d666f9a8de5678d541618035ec16f403c195a0e2d0ac43be1fa69"
 metafile = true
 
 [[files]]
@@ -1752,7 +1761,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-cafe.pw.toml"
-hash = "3b4612bd94d8f4e214d852c5c38a2c4b83cf11f583b38ed2b905db5daeaf2abb"
+hash = "035500c6fb79f37326c8bef3fe75136d9cfc4eed6c2aeea82dfc4985475a6648"
 metafile = true
 
 [[files]]
@@ -1807,7 +1816,7 @@ metafile = true
 
 [[files]]
 file = "mods/drp-global-datapack.pw.toml"
-hash = "e002e663f917dc976a7e446b7ee963a7ab78fedb08d0bcad428f55efad3bcffc"
+hash = "445c4de252271dd4e6fc5454c8bbda30d936b1866dcbd0b71b951d1f627be2d9"
 metafile = true
 
 [[files]]
@@ -1922,7 +1931,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "fe66aecc770ccc6456642f84d12595f0b6f7dd9baefc76dce1fa2965dc5bc874"
+hash = "f51c593cedba33bd9f8f1cf5ae6dddabcae4dec4a669da1e203f67fc993bdd6e"
 metafile = true
 
 [[files]]
@@ -2031,11 +2040,6 @@ hash = "543cae965a82c348b1a64fce5b3d7a4690970b6db6f38518c6f99771cec9a387"
 metafile = true
 
 [[files]]
-file = "mods/mod-name-tooltip.pw.toml"
-hash = "1398754e34ea789a233b03914c6ea0d589e77fadbe76ee6ac4bcf60a55b46308"
-metafile = true
-
-[[files]]
 file = "mods/more-overlays-updated.pw.toml"
 hash = "4e0066408de71058ad4db3aa24c53c3ab001b78069df16d5eaad55994adc4543"
 metafile = true
@@ -2102,7 +2106,7 @@ metafile = true
 
 [[files]]
 file = "mods/placebo.pw.toml"
-hash = "8d66fd2084cae45139e4ff384d66f24a8c5f696af609979c449dfda7eaf39ddc"
+hash = "4c2e28f523d9af7a57115d03dfe997d396705e63c4781a0427aed96287f4cb3e"
 metafile = true
 
 [[files]]
