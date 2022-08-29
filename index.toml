@@ -1805,6 +1805,11 @@ hash = "d4f26000a9053d0ac8f76d779a0b52124c9b472faced12fc48a53346359900dc"
 metafile = true
 
 [[files]]
+file = "mods/create-extended-flywheels.pw.toml"
+hash = "e3530711751707e24f23cc681f6d117d484537dad17af6f55f155df2abe054bb"
+metafile = true
+
+[[files]]
 file = "mods/create-jetpack.pw.toml"
 hash = "1a8565df2484344407e2084c27870d9d4b828f520dc16c485c51279616de8c7f"
 metafile = true
