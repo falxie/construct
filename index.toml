@@ -697,6 +697,14 @@ file = "config/createcafe-common.toml"
 hash = "0398128b39cf3ac539c1d563dc7ce15f4258452c7ceb46e7db3ffc3ad3908afd"
 
 [[files]]
+file = "config/createdeco-client.toml"
+hash = "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+
+[[files]]
+file = "config/createdeco-common.toml"
+hash = "8218d6c053f4ac108a171caf4ba7d1b4d2462b53a596328b250363c332bad32c"
+
+[[files]]
 file = "config/curios-client.toml"
 hash = "1ac04b541d19cc58791e5ceea4a46b7e1d75a2b4b2d5e359b9fcab606e5ef750"
 
@@ -1065,6 +1073,10 @@ file = "config/jaopca/materials/brick.toml"
 hash = "638ae20a7ccdd6ce1d187e0410215dc1291e02dc33e409bdb0ad277d51a83bbd"
 
 [[files]]
+file = "config/jaopca/materials/cast_iron.toml"
+hash = "841fbd8227cf63f66088e44bd2892226ad03d089168a48bd1798061ae2665ed3"
+
+[[files]]
 file = "config/jaopca/materials/cobalt.toml"
 hash = "627f194149a25a6f4287b5f1bc1c6407c4a1fa76c12ffcd79d867fdfb8eae524"
 
@@ -1222,7 +1234,7 @@ hash = "e186f519c86ca1147baa8e7f32b15917257601f00486400ed54531107bdf9ac2"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "54c463384c818e861fed5a66ff8029e8e1d990a97331a5260b7b81733f137014"
+hash = "e2905321a1db7faa61e3da5f261be749523dd5cfbe91da56dd9fdf07d23d0b42"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -1785,6 +1797,11 @@ metafile = true
 [[files]]
 file = "mods/create-cafe.pw.toml"
 hash = "035500c6fb79f37326c8bef3fe75136d9cfc4eed6c2aeea82dfc4985475a6648"
+metafile = true
+
+[[files]]
+file = "mods/create-deco.pw.toml"
+hash = "d4f26000a9053d0ac8f76d779a0b52124c9b472faced12fc48a53346359900dc"
 metafile = true
 
 [[files]]
