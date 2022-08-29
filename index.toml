@@ -1222,7 +1222,7 @@ hash = "e186f519c86ca1147baa8e7f32b15917257601f00486400ed54531107bdf9ac2"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "c2f0bed90c99c4de49041c562ebad47d0dd98d2bef502ef3d646e67b931e9ce1"
+hash = "54c463384c818e861fed5a66ff8029e8e1d990a97331a5260b7b81733f137014"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -1775,6 +1775,11 @@ metafile = true
 [[files]]
 file = "mods/corpse.pw.toml"
 hash = "e4155e11b80301e0dbc76f64deea0f7b73c2e8086782ce8a7cdc5b72b2218172"
+metafile = true
+
+[[files]]
+file = "mods/create-broken-bad.pw.toml"
+hash = "b81be18546b2bafd4482e683844f9ebf37c2b942d7364cf0c7032591f8c2cb56"
 metafile = true
 
 [[files]]
