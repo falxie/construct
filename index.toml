@@ -1298,7 +1298,7 @@ hash = "797a3d730874d74dda76a3209bf3281daaf34cbdb83da3a45f8ba49dc4aebf4f"
 
 [[files]]
 file = "config/pollen-client.toml"
-hash = "719f2e91dc44ed323d54d606f04e00f6adbf402da6dc6cab3cd37e0df5f9c61c"
+hash = "0ba8a8d6a54a84e8fec1ce7f2ae99789e3baa44c2a92862f9715c6481e5bf6f7"
 
 [[files]]
 file = "config/polymorph-integrations.toml"
