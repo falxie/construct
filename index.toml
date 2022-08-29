@@ -757,10 +757,6 @@ file = "config/ecologics.toml"
 hash = "bfede6a60889d12bffbc6652ee50c06ba8a309a4804e1f3edb6a907601d22f0f"
 
 [[files]]
-file = "config/entityculling.json"
-hash = "0c78e42bc9ee8629e05830c89b882382dfa24c772c9b5a16d91225e1c63b11ad"
-
-[[files]]
 file = "config/etched-client.toml"
 hash = "bc0c47b1f8dc7fa63393efbf07feb8586c59bcd3d3aa05ca7df206109a33fe6b"
 
@@ -1846,11 +1842,6 @@ metafile = true
 [[files]]
 file = "mods/ensorcellation.pw.toml"
 hash = "4c948b97f01f941ee8c85898159ab282839c2e6011f5650d09e617d59dff9798"
-metafile = true
-
-[[files]]
-file = "mods/entityculling.pw.toml"
-hash = "ce7764f4555f7524f0c9b6f4f1c53c94f520aad620fc2e4a237520083f43aa46"
 metafile = true
 
 [[files]]
