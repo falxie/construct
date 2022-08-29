@@ -2095,7 +2095,7 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-biomes-youll-go.pw.toml"
-hash = "e2dcae26c1573da28b92ceee6b422b01ce11de34576c344fcfc7fa113d882dcf"
+hash = "b5f32e0b1dd76cf414ad7c1f3607e42bd1e645009b2f7e4a3726ca6b7827e7e4"
 metafile = true
 
 [[files]]
@@ -2115,7 +2115,7 @@ metafile = true
 
 [[files]]
 file = "mods/placebo.pw.toml"
-hash = "4c2e28f523d9af7a57115d03dfe997d396705e63c4781a0427aed96287f4cb3e"
+hash = "4263ce79cb1ff47f095478e42a630ab85974dcebdb578e4a0f7bc5e113ae858b"
 metafile = true
 
 [[files]]
@@ -2245,7 +2245,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-wild-backport.pw.toml"
-hash = "0db2bc05500ac7086cadede335c331ea26baad41264a48f281a88ffd86ce5a1a"
+hash = "0625f3cc19ea67d9418e8a452d464571b8a45628f81909c3c52b383a568c8d72"
 metafile = true
 
 [[files]]
