@@ -465,6 +465,10 @@ file = "config/byg/README.txt"
 hash = "716925cf1fd06d3d981aac5adbdc7a84dae30dbb64b17b0c25a8f739be01883d"
 
 [[files]]
+file = "config/byg/backups/last_working_configs_backup.zip"
+hash = "350e0700b43c4affa9179113ea21e6197afb20426d217e980ff978cff5d42626"
+
+[[files]]
 file = "config/byg/biomepedia.json5"
 hash = "b866ba2a574783ac1cbccd9f97a15438c436ed66d6bc58998283d5db2220738a"
 
@@ -490,7 +494,7 @@ hash = "41c19e2ecac7a3f80691cd04254e2532ce886102de60e90b7bde7873db782867"
 
 [[files]]
 file = "config/byg/nether-biomes.json5"
-hash = "e377c297888c559ef09177df64864324875fbf2619b0fdb0943ab808728b5797"
+hash = "775c0831efee3f027c1e57d2bddbb8330d29cd4bc97461378d91d8cd2c62b027"
 
 [[files]]
 file = "config/byg/overworld/biome_selectors/beach_biomes/beach_biomes_1.json5"
@@ -678,7 +682,7 @@ hash = "85a10b922578197e38e972b6d729a3ed3fb1b803b69df121b752be331769d070"
 
 [[files]]
 file = "config/create-client.toml"
-hash = "c7e8b57efca0db592ee7c1e34df911cc7a4c6ba6b9f1366aa2857149999b0fe1"
+hash = "e442bbcc875178d700ab7a92fc5ae5a20cd59a2449c2806dca10c8b39d5bb147"
 
 [[files]]
 file = "config/create-common.toml"
@@ -1377,6 +1381,10 @@ file = "config/sophisticatedcore-common.toml"
 hash = "fa9cd20e833b7cb2edbaa53cf6a07a57672d3d72dffcff2982b5de654f66e573"
 
 [[files]]
+file = "config/sophisticatedstorage-client.toml"
+hash = "a2f53f0a46a448a684ff024bcc0ea910a9adca68bf9b2ff09e0bacba046f31a2"
+
+[[files]]
 file = "config/sophisticatedstorage-common.toml"
 hash = "777efbb5949cc66d79eca4effd993a66cf587afe8554d02f5be65a74e7d98370"
 
@@ -1681,7 +1689,7 @@ metafile = true
 
 [[files]]
 file = "mods/blueprint.pw.toml"
-hash = "773663d6959397c974422b2fc504f146f170f0a0090839b97ebc92820a0f7735"
+hash = "d789124ed6bc7ae70ff91df47a22720340b76427975b1d02e351e40d46a78b2c"
 metafile = true
 
 [[files]]
@@ -1796,7 +1804,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-cafe.pw.toml"
-hash = "035500c6fb79f37326c8bef3fe75136d9cfc4eed6c2aeea82dfc4985475a6648"
+hash = "82691ac16ce1e0a2f9165024b96b63eeabd0ffdc56646ccc4e623d269db78167"
 metafile = true
 
 [[files]]
@@ -2071,7 +2079,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "36d37ce5b263363078240088f6c5f204779474ab6001c5be2866efbfcced24fa"
+hash = "d4d449c649554f0224bd954d1327e88c89d52f54293359614eee54b2de6a8418"
 metafile = true
 
 [[files]]
@@ -2136,7 +2144,7 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-biomes-youll-go.pw.toml"
-hash = "b5f32e0b1dd76cf414ad7c1f3607e42bd1e645009b2f7e4a3726ca6b7827e7e4"
+hash = "c79c2bdaa878fe3697500682e4041dc99f67f6e638219aa91337f0b952992090"
 metafile = true
 
 [[files]]
@@ -2231,17 +2239,17 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "e8fb28e1cb542bda89984dbf4a5ecbb85f29380f58e365b176ae568bb0881a70"
+hash = "62ca7ccd461effa9ff22e65705abe854b56d84d161dd55642c7822376769d096"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "4b9a08d59ef1dd59731faa0482ea3e172d70c90fe3499fa9dee6094f20ac3f94"
+hash = "dfd087fc51a25f64b8bde10742bca1d8c742ea22b7b8f0c72187210e167ddf46"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "d623710adb1686ca8ad64366ee6c10369d398f48bbf72ae4070eb921a70b8520"
+hash = "e37f99735d8337a8b363c3437aad4c911ed7f3a6fa0687d7942b02b7e9c17c06"
 metafile = true
 
 [[files]]
