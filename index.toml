@@ -1302,7 +1302,7 @@ hash = "f3d1c8420ef27a049690648fbe66f67739a3ef8709bce47406257d8d7de133f2"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "a8acdb4183e0ee1d0714d554b68bff152f4f0d1c0a5b9a84626e8620e3881a64"
+hash = "b31f9a4c94414f6034980a0962b564645f9b1d481b1b12b56ecad2f92cbf126f"
 
 [[files]]
 file = "config/radium.properties"
@@ -1386,7 +1386,7 @@ hash = "0a26a61d6205b3b195c260635d0f41b4793100101e5c81ccf2fd7644f7f8a12c"
 
 [[files]]
 file = "config/supplementaries-registry.toml"
-hash = "1b1b7376a782ae21ebaf8432024a1a7cfba3afe282979b3a5b8890ccd3c7804c"
+hash = "8520af4a9d4bb46f7895b7126b7b4a9e16d4c37b1f473e904d15045699fec2a9"
 
 [[files]]
 file = "config/tconstruct-client.toml"
@@ -1426,7 +1426,7 @@ hash = "01dd84704af0a037922f73c9dc80e806cc4db568755baf62a9a3d1dbdce9aa50"
 
 [[files]]
 file = "defaultconfigs/carryon-server.toml"
-hash = "745a03f10b1d3f543c982e46f8bfded9fc83d4002a9082e7367dd621ce3f8881"
+hash = "5931fc141668b45d36e6f79c55c4b0f87fd78b7f6ae04e162aa709ca0749e39b"
 
 [[files]]
 file = "defaultconfigs/cofh_core-server.toml"

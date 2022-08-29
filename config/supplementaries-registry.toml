@@ -79,8 +79,8 @@
 	present = true
 	silver_trapdoor = false
 	silver_door = false
-	lead_trapdoor = true
-	lead_door = true
+	lead_trapdoor = false
+	lead_door = false
 
 [items]
 	flute = true
