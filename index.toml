@@ -1541,6 +1541,10 @@ file = "kubejs/server_scripts/supplementaries.js"
 hash = "050992f6aaf9639b98d1b1f72a7444f90428984e38377332382d37d875dacaf5"
 
 [[files]]
+file = "kubejs/server_scripts/tconstruct.js"
+hash = "b9d58abbf8e7d9e284cbf26fb082b80e9847e5b2e807f2df8feccc801a555b03"
+
+[[files]]
 file = "kubejs/startup_scripts/script.js"
 hash = "849597780f489579d0c3af2b80d9d1209b152be22e2c270c9085623bbf0a5aea"
 
