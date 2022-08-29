@@ -1301,10 +1301,6 @@ file = "config/quark-common.toml"
 hash = "b31f9a4c94414f6034980a0962b564645f9b1d481b1b12b56ecad2f92cbf126f"
 
 [[files]]
-file = "config/radium.properties"
-hash = "4f5890cb55b35047fdb433efa30060827aa9415e0850220f85b2c8ad663d6722"
-
-[[files]]
 file = "config/repurposed_structures-forge/biome_dimension_allow_disallow_configs.json5"
 hash = "c900462832956ab83e0ee139581185f50063f7a5f9d26a06f1349fc0861395ef"
 
@@ -2136,11 +2132,6 @@ metafile = true
 [[files]]
 file = "mods/quark.pw.toml"
 hash = "323bf0949b42dbb97a7c35d17f436a7b2c7eb463cc97f46a54469ff3a0bad027"
-metafile = true
-
-[[files]]
-file = "mods/radium-reforged.pw.toml"
-hash = "7e7f52b898a62041d50f7ae2d9b1b639aabc1facd23f23795e99bf210574f9b1"
 metafile = true
 
 [[files]]
