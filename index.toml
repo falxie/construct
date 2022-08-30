@@ -465,10 +465,6 @@ file = "config/byg/README.txt"
 hash = "716925cf1fd06d3d981aac5adbdc7a84dae30dbb64b17b0c25a8f739be01883d"
 
 [[files]]
-file = "config/byg/backups/last_working_configs_backup.zip"
-hash = "350e0700b43c4affa9179113ea21e6197afb20426d217e980ff978cff5d42626"
-
-[[files]]
 file = "config/byg/biomepedia.json5"
 hash = "b866ba2a574783ac1cbccd9f97a15438c436ed66d6bc58998283d5db2220738a"
 
@@ -994,7 +990,7 @@ hash = "4e23aee57e92fdbc4ca792c70d777ba2653f555a4ec8f9966d74ce92a4956f24"
 
 [[files]]
 file = "config/infernalexp-common.toml"
-hash = "4ff868a1cacacabcfe2860155682b5bca6251a7ec37f04f3630d7fa36ff163c7"
+hash = "22be5f3bbd5716e2c36f1955038f99fa63e81cacb32af7a9ef05f5f181539a93"
 
 [[files]]
 file = "config/infernalexp/spawnrates/basalt_giant_spawns.json"
