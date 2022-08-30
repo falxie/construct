@@ -77,17 +77,6 @@
         "value": 10000000
       }
     },
-    "caelus:fall_flying": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1,
-        "value": 10000000
-      }
-    },
     "forge:entity_gravity": {
       "enabled": false,
       "min": {

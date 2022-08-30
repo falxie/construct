@@ -366,7 +366,7 @@ hash = "cf59ab7e2fa3a7602e1c39ef19131cc3d404b314ca83e4e34675f4577e5c1ca5"
 
 [[files]]
 file = "config/attributefix.json"
-hash = "fd85f7511450b5ac79ce999f2aeb9626bdb6c91345fbce2bc1b5e90456759b19"
+hash = "c15f04a374c32a19df22b82ebcc53735eed627e079b0b497086d916901268494"
 
 [[files]]
 file = "config/badmobs-common.toml"
@@ -683,14 +683,6 @@ hash = "e442bbcc875178d700ab7a92fc5ae5a20cd59a2449c2806dca10c8b39d5bb147"
 [[files]]
 file = "config/create-common.toml"
 hash = "d86cb7bc47a475501bbd3e2ae06a7d9876e6f224cb647478d0693d31b7487788"
-
-[[files]]
-file = "config/create_jetpack-client.toml"
-hash = "7796b54c1b2e11bdfebc80d56f7734ab7509b14aea133f9ab20a6debf356dda1"
-
-[[files]]
-file = "config/create_jetpack-common.toml"
-hash = "b59ef30947a47665da1816ae10d0bd4bb0c1bfa73f87da34f9a30d5aaca274ff"
 
 [[files]]
 file = "config/createcafe-common.toml"
@@ -1234,7 +1226,7 @@ hash = "e186f519c86ca1147baa8e7f32b15917257601f00486400ed54531107bdf9ac2"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "e2905321a1db7faa61e3da5f261be749523dd5cfbe91da56dd9fdf07d23d0b42"
+hash = "5b9e27ec6a2086ae171671efdf6e0a3ec9a1ff287b92b31280e97a2e0ee1e1aa"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -1694,11 +1686,6 @@ hash = "648369b37953dd16d26a0f1c4eb4496b88fa4c566110c11d91a258f70cff06c4"
 metafile = true
 
 [[files]]
-file = "mods/caelus.pw.toml"
-hash = "d327839546f676861ab40202cf9b1a20bea90950e80231e7df2f5631fa115bb3"
-metafile = true
-
-[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "d22e39f722bf8ef2c78d1287422bb05a159837ca0ee1f304bba2f8f75173da18"
 metafile = true
@@ -1814,11 +1801,6 @@ hash = "e3530711751707e24f23cc681f6d117d484537dad17af6f55f155df2abe054bb"
 metafile = true
 
 [[files]]
-file = "mods/create-jetpack.pw.toml"
-hash = "1a8565df2484344407e2084c27870d9d4b828f520dc16c485c51279616de8c7f"
-metafile = true
-
-[[files]]
 file = "mods/create.pw.toml"
 hash = "7b705f57107935d189436c3ed561c986a6ec84a2d80ff94542a46836ab80ea83"
 metafile = true
@@ -1886,11 +1868,6 @@ metafile = true
 [[files]]
 file = "mods/ecologics.pw.toml"
 hash = "ec5d20b588e214d6f9fb48d29464a4671f7d74882e233df324911755077801b9"
-metafile = true
-
-[[files]]
-file = "mods/elytra-slot.pw.toml"
-hash = "0e10b7931bc2f9179c236bfd82100342abde84150caef82e788dac0799534a8e"
 metafile = true
 
 [[files]]
