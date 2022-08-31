@@ -1677,7 +1677,7 @@ metafile = true
 
 [[files]]
 file = "mods/blueprint.pw.toml"
-hash = "d789124ed6bc7ae70ff91df47a22720340b76427975b1d02e351e40d46a78b2c"
+hash = "56398574d0dcbf6aff9979122963731d7928bdb354386a5819234823088c1136"
 metafile = true
 
 [[files]]
@@ -2212,17 +2212,17 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "62ca7ccd461effa9ff22e65705abe854b56d84d161dd55642c7822376769d096"
+hash = "dc446f4396f890259b9e7e13343a2556dc1b444f07f7bac0aede5287f2b2a67a"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "dfd087fc51a25f64b8bde10742bca1d8c742ea22b7b8f0c72187210e167ddf46"
+hash = "53a781daf9e319b650de8a33aedec8877addc36aa989eceeef9a00a70dee4233"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "e37f99735d8337a8b363c3437aad4c911ed7f3a6fa0687d7942b02b7e9c17c06"
+hash = "638e4534f22a18fc3fea6cd5f24da9b88f059c2636e6c7e80c3063bef5b7935d"
 metafile = true
 
 [[files]]
