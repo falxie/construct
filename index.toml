@@ -725,6 +725,10 @@ file = "config/defaultoptions/servers.dat"
 hash = "3a05b7dbab88781794ca24d8018e8b522eed783e8f938929abd2b2ed3454790b"
 
 [[files]]
+file = "config/delightful-common.toml"
+hash = "f1226c1eb09409e9631206218b0f44bef88b577c8ea5d9385b6d80f7fc86258f"
+
+[[files]]
 file = "config/delogger2.json"
 hash = "9cd7e66d1c3ddcf18422e8559adee5f2d664136d543bf46a085a7b3497a824af"
 
@@ -1149,11 +1153,19 @@ file = "config/jaopca/materials/rose_gold.toml"
 hash = "841fbd8227cf63f66088e44bd2892226ad03d089168a48bd1798061ae2665ed3"
 
 [[files]]
+file = "config/jaopca/materials/rose_quartz.toml"
+hash = "76b6a596d97eacbe69feed11d19361c6a76832221c385e927082d266cd172058"
+
+[[files]]
 file = "config/jaopca/materials/slimesteel.toml"
 hash = "841fbd8227cf63f66088e44bd2892226ad03d089168a48bd1798061ae2665ed3"
 
 [[files]]
 file = "config/jaopca/materials/soulsteel.toml"
+hash = "841fbd8227cf63f66088e44bd2892226ad03d089168a48bd1798061ae2665ed3"
+
+[[files]]
+file = "config/jaopca/materials/steel.toml"
 hash = "841fbd8227cf63f66088e44bd2892226ad03d089168a48bd1798061ae2665ed3"
 
 [[files]]
@@ -1222,7 +1234,7 @@ hash = "e186f519c86ca1147baa8e7f32b15917257601f00486400ed54531107bdf9ac2"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "5b9e27ec6a2086ae171671efdf6e0a3ec9a1ff287b92b31280e97a2e0ee1e1aa"
+hash = "33a6a10e74e118f7a991db265c34e6a1efab5f540a0b47a7d093def8ccca27f7"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -1230,7 +1242,7 @@ hash = "7daa1c641d365795ffb7006b758a6d14110f9d001c51be7b97cb2c64f619b340"
 
 [[files]]
 file = "config/jei/recipe-category-sort-order.ini"
-hash = "3bca014c127658c01a702266bf07917eff9559a631051859124d97c49baa46c7"
+hash = "2ad15875c301e6eb65bf7d00167261777295544f6d71bd80a33f358371d76028"
 
 [[files]]
 file = "config/jeiintegration-client.toml"
@@ -1582,6 +1594,11 @@ hash = "5fe98822fbe3adef3dcdac8343ca57178cd80b29088f3933a203ec86416ac8c7"
 metafile = true
 
 [[files]]
+file = "mods/alexs-delight.pw.toml"
+hash = "2ff441fbfd7d684ba4182a4ef1c04f597c3787fafd9467d9be4bebffab5743d5"
+metafile = true
+
+[[files]]
 file = "mods/alexs-mobs.pw.toml"
 hash = "03da06567af6005bcfd94525e773bb49b448c58b161757f8f5680b857459766c"
 metafile = true
@@ -1674,6 +1691,11 @@ metafile = true
 [[files]]
 file = "mods/blueprint.pw.toml"
 hash = "56398574d0dcbf6aff9979122963731d7928bdb354386a5819234823088c1136"
+metafile = true
+
+[[files]]
+file = "mods/brewin-and-chewin.pw.toml"
+hash = "8aa8cf66f38711e70abb448f0b467095cef3be6608b4305c8c0971eee86f394f"
 metafile = true
 
 [[files]]
@@ -1824,6 +1846,11 @@ metafile = true
 [[files]]
 file = "mods/default-options.pw.toml"
 hash = "4362ae4c00b130a09b7b88aac232461a453a3c13f06d722c9c88c371f52d7f7b"
+metafile = true
+
+[[files]]
+file = "mods/delightful.pw.toml"
+hash = "9f1518d5ef5c9ca1ef3cfff34fa3fdb3135a0473efaf52e89e98e8ff49e63c4f"
 metafile = true
 
 [[files]]
