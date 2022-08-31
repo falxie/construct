@@ -665,10 +665,6 @@ file = "config/compressiumblocks.json"
 hash = "f0910f44e3a98eaa2effdef12a983e4e8108ef293c4a0425bb042b0038324ede"
 
 [[files]]
-file = "config/configured-client.toml"
-hash = "3b89f753be2eda7042d785471bcd3959e4a3cd053a50538d17ce98a2f274d2c2"
-
-[[files]]
 file = "config/connectivity-common.toml"
 hash = "347225f749205a5af9d2a7f992a52caccfb6910f8fa6302d4da260932fc2ae9a"
 
@@ -1756,8 +1752,8 @@ hash = "6ad881d600aa72f0f36eb1a6fc2bc340d652050a8e0f7f8354d71cec91ded36a"
 metafile = true
 
 [[files]]
-file = "mods/configured.pw.toml"
-hash = "8885728c751b6e20f3fc4a9394723ce5250a2fa1fe4078ad83cc27b441e20ba3"
+file = "mods/config-menus-forge.pw.toml"
+hash = "a0ffeb0594fe461bb2ea048477484990875c47ee682009528c5b7eb50a830fc7"
 metafile = true
 
 [[files]]
