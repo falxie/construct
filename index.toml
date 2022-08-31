@@ -1709,11 +1709,6 @@ hash = "d22e39f722bf8ef2c78d1287422bb05a159837ca0ee1f304bba2f8f75173da18"
 metafile = true
 
 [[files]]
-file = "mods/catalogue.pw.toml"
-hash = "1e09653f0241c715d9da6ebb677e09b7943385a58f31af10b77e6c61e5e3cf25"
-metafile = true
-
-[[files]]
 file = "mods/chimes.pw.toml"
 hash = "4e253e12a9b2702b8708228b9f617fa49510939dfa8ce90d30033573543ec351"
 metafile = true
