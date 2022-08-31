@@ -718,7 +718,7 @@ hash = "f7eaa79c27113bb7f3018d8610f63086963ce7b5e6d5c9c4f88207b58d6352a6"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "2912e21eccfbe633ffb8759a459152878553f6a7b8ff99f1bd873628349d3d0e"
+hash = "f8a12c4c33a756a83729d5d7840f53bfba79e9daf32bb0d3ddd672a65f04be63"
 
 [[files]]
 file = "config/defaultoptions/servers.dat"
@@ -2374,6 +2374,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-extras.pw.toml"
 hash = "25ca73ede906cc0162479b6fefaafa3d4c79f97ccd3580cbb3df2755322c7099"
+metafile = true
+
+[[files]]
+file = "resourcepacks/motschens-better-leaves.pw.toml"
+hash = "0f7a8ef62b305f6f1d79f0f245d27a469ff67d028f165dec2e91cc1ec3de76d2"
 metafile = true
 
 [[files]]

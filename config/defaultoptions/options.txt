@@ -36,8 +36,8 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:true
-resourcePacks:["vanilla","mod_resources","inmemory:jaopca","Everycomp Generated Pack","Supplementaries Generated Pack","dynamic_asset_generator:client","global:","quark:emote_resources","file/Stay_True_1.18.zip","file/Stay True Compats v3 [1.18].zip"]
-incompatibleResourcePacks:["inmemory:jaopca","quark:emote_resources"]
+resourcePacks:["vanilla","mod_resources","inmemory:jaopca","Everycomp Generated Pack","Supplementaries Generated Pack","dynamic_asset_generator:client","global:","quark:emote_resources","file/Stay_True_1.18.zip","file/Stay True Compats v3 [1.18].zip","file/Better-Leaves-7.0-1.13+.zip"]
+incompatibleResourcePacks:["inmemory:jaopca","quark:emote_resources","file/Better-Leaves-7.0-1.13+.zip"]
 lastServer:
 lang:en_us
 soundDevice:
