@@ -1848,7 +1848,7 @@ metafile = true
 
 [[files]]
 file = "mods/default-options.pw.toml"
-hash = "4362ae4c00b130a09b7b88aac232461a453a3c13f06d722c9c88c371f52d7f7b"
+hash = "c8969b5a833ea2093f4e810e78360f050c653503d31851a6fa573258f57986e0"
 metafile = true
 
 [[files]]
@@ -2173,7 +2173,7 @@ metafile = true
 
 [[files]]
 file = "mods/pick-up-notifier.pw.toml"
-hash = "0555890a42e1f25b3550dc95bb51262df0986345d2e21772e2c162702975af71"
+hash = "44c0d8b40ce6230fbeeae67319b29dafaf92c6c4a483ffb488bacd4515a5471f"
 metafile = true
 
 [[files]]
@@ -2198,7 +2198,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "538110c41fa71c27058a38b1660a02eff1521ca8011aa4e08ae722fdcb64d35b"
+hash = "8d485d0aad275b83382614352e6cf78af07f2a11002b04148594059552aaf129"
 metafile = true
 
 [[files]]
@@ -2378,7 +2378,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/motschens-better-leaves.pw.toml"
-hash = "0f7a8ef62b305f6f1d79f0f245d27a469ff67d028f165dec2e91cc1ec3de76d2"
+hash = "cef15f72bba900383895cec1a910c91d1d0398092a5657b3d06991b738432b9a"
 metafile = true
 
 [[files]]

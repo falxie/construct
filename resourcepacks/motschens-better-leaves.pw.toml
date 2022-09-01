@@ -1,6 +1,6 @@
 name = "Motschen's Better Leaves"
 filename = "Better-Leaves-7.0-1.13+.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
