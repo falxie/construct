@@ -1,12 +1,12 @@
 name = "Construct"
 author = "Falxie_"
-version = "1.0.4"
+version = "1.0.5"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "526a417bbeb26242308ccc396de4a670ba3a52e9db52cb0f86d37c6d05ac8349"
+hash = "d997ef485223d6c1bdc7741c067e05492972f37fe8aebe8417ce50eef4731956"
 
 [versions]
 forge = "40.1.74"
