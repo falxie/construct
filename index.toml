@@ -374,7 +374,7 @@ hash = "b4e0afdfe4593f3c0d862584965c60f4d71e2fcdb9a58e023c12730470f7f084"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "2462c49066df734f53c3c39fcf7145e692d711581e219b7ff7ecc89b372a92ed"
+hash = "e912bdc7c06db0f0af0f0264b99dfb0736ccaf115c0820a7ee569918c5df0d0a"
 
 [[files]]
 file = "config/betteradvancements-client.toml"
@@ -639,6 +639,10 @@ hash = "55451552db5cbba0124f9cd72c6b0e65217ef3e50cf4b69f8165a4940ef49eff"
 [[files]]
 file = "config/chimes.toml"
 hash = "55451552db5cbba0124f9cd72c6b0e65217ef3e50cf4b69f8165a4940ef49eff"
+
+[[files]]
+file = "config/chunkloaders-common.toml"
+hash = "8291d0a8b4ec641108ab2c48c828fba61fc326e73cea56fadaa1940370186cc3"
 
 [[files]]
 file = "config/chunky.json"
@@ -1277,6 +1281,10 @@ file = "config/kleeslabs-common.toml"
 hash = "65e9ddf7445cb8118a2130bd86d2ee6d6cae2c3b5e3a724d829ecffe360a0408"
 
 [[files]]
+file = "config/limitedchunks-common.toml"
+hash = "a74ed807826f2b1778f8ba52fbdaf2bcc4398eb3e796967a03ee07968aab1f53"
+
+[[files]]
 file = "config/mantle-client.toml"
 hash = "bcdc80d141bdc59a355106e0c5d474019742d2bf8c853c87aa9c7d7b31172cb4"
 
@@ -1722,6 +1730,11 @@ hash = "4e253e12a9b2702b8708228b9f617fa49510939dfa8ce90d30033573543ec351"
 metafile = true
 
 [[files]]
+file = "mods/chunk-loaders.pw.toml"
+hash = "7c7301504c626b78f791eb968da055653f300f0ab4e9c04e92cfd4126b0e9b5e"
+metafile = true
+
+[[files]]
 file = "mods/chunky-pregenerator-forge.pw.toml"
 hash = "bfcd4524eb690e064b56701cf7be728f58c47b70f518b89f34ec80b87c6f3f13"
 metafile = true
@@ -2097,6 +2110,11 @@ hash = "ebb19e9c7a826f2d820671cdb8fc3aebb45cccf0751235b46a20701b9a6772b4"
 metafile = true
 
 [[files]]
+file = "mods/limited-chunkloading.pw.toml"
+hash = "84a7eddf28e0cb367d93790bb5c7f31bd2d884c2a4aef829f9fe59037a5fe7a1"
+metafile = true
+
+[[files]]
 file = "mods/magnesium-extras.pw.toml"
 hash = "2c622839003e9008c0d3f891c6b376ec59ccb56289320c96d72093323bd0205a"
 metafile = true
@@ -2284,6 +2302,11 @@ metafile = true
 [[files]]
 file = "mods/storage-drawers.pw.toml"
 hash = "b5e478bee6fd909d03453c2bdac37211e65d983a92a383ae4cb8975a9e493ad9"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "5f62a1b53954ac5f25d506f24755c7bde75b179895219260612f4ccad31bf2c5"
 metafile = true
 
 [[files]]
