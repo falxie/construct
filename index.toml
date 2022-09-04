@@ -1281,10 +1281,6 @@ file = "config/kleeslabs-common.toml"
 hash = "65e9ddf7445cb8118a2130bd86d2ee6d6cae2c3b5e3a724d829ecffe360a0408"
 
 [[files]]
-file = "config/limitedchunks-common.toml"
-hash = "a74ed807826f2b1778f8ba52fbdaf2bcc4398eb3e796967a03ee07968aab1f53"
-
-[[files]]
 file = "config/mantle-client.toml"
 hash = "bcdc80d141bdc59a355106e0c5d474019742d2bf8c853c87aa9c7d7b31172cb4"
 
@@ -2107,11 +2103,6 @@ metafile = true
 [[files]]
 file = "mods/lazy-dfu-forge.pw.toml"
 hash = "ebb19e9c7a826f2d820671cdb8fc3aebb45cccf0751235b46a20701b9a6772b4"
-metafile = true
-
-[[files]]
-file = "mods/limited-chunkloading.pw.toml"
-hash = "84a7eddf28e0cb367d93790bb5c7f31bd2d884c2a4aef829f9fe59037a5fe7a1"
 metafile = true
 
 [[files]]
