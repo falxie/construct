@@ -977,6 +977,14 @@ file = "config/fpsreducer/fpsreducer-client.toml"
 hash = "e2cc65bdd5d28e363aeb2c2b6277d9a26d030dc183749dede041245eb5eb1ec4"
 
 [[files]]
+file = "config/framedblocks-client.toml"
+hash = "bc0ba409d665e1ad567d767981ed8d2d0e70e0d544588476e94c5f202e5608c8"
+
+[[files]]
+file = "config/framedblocks-common.toml"
+hash = "599df95790d200ac55689c0885eba9dc1cdacaae3a4b2649092271173dabff51"
+
+[[files]]
 file = "config/global_data_and_resourcepacks.toml"
 hash = "6de98d9728c82d6d4a5fe3f3a4359f007d4827d0c1280a5558297e11aad88ee2"
 
@@ -2003,6 +2011,11 @@ metafile = true
 [[files]]
 file = "mods/framed-compacting-drawers.pw.toml"
 hash = "16e390584c446fdfea4b64dd1249e39dc46f6b7d7c5aea6aa2ab991d91c4c2fc"
+metafile = true
+
+[[files]]
+file = "mods/framedblocks.pw.toml"
+hash = "ba87bf1aa6c5e0a67f8430dd800270a874a3949c5d608080cff677219b9c04a6"
 metafile = true
 
 [[files]]
