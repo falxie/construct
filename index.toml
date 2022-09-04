@@ -642,7 +642,7 @@ hash = "55451552db5cbba0124f9cd72c6b0e65217ef3e50cf4b69f8165a4940ef49eff"
 
 [[files]]
 file = "config/chunkloaders-common.toml"
-hash = "8291d0a8b4ec641108ab2c48c828fba61fc326e73cea56fadaa1940370186cc3"
+hash = "93e6ca2712f7ad986fdfb1ecc3352f4ffbb87ffaeac5d5091708f282076dd008"
 
 [[files]]
 file = "config/chunky.json"
