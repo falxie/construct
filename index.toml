@@ -1710,7 +1710,7 @@ metafile = true
 
 [[files]]
 file = "mods/blueprint.pw.toml"
-hash = "20afda3ca3105ae9ff81e94dcdcf435cfadc791fd3c9c4ff96056840edce1d46"
+hash = "4bbc072510f0536560c2bd1407b8d2e0b16a1a2613ceecfc234bf4da46823df4"
 metafile = true
 
 [[files]]
