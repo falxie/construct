@@ -374,7 +374,7 @@ hash = "b4e0afdfe4593f3c0d862584965c60f4d71e2fcdb9a58e023c12730470f7f084"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "e912bdc7c06db0f0af0f0264b99dfb0736ccaf115c0820a7ee569918c5df0d0a"
+hash = "cadcddc3c7e9dfaa319b96ca812db51d9a8ef6690d51361fc7512807c138516a"
 
 [[files]]
 file = "config/betteradvancements-client.toml"
