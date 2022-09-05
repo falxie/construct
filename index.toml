@@ -761,10 +761,6 @@ file = "config/dynamic_asset_generator.json"
 hash = "4ea3289ec75cea2f67f19855a8226adb8f688d84fe7892081197eab2ee08bae4"
 
 [[files]]
-file = "config/dynview-common.toml"
-hash = "a0372e5ab4826bbdb0c252ea701e5f576105e63eab0d37d1f8e1b806d36167b5"
-
-[[files]]
 file = "config/ecologics.toml"
 hash = "bfede6a60889d12bffbc6652ee50c06ba8a309a4804e1f3edb6a907601d22f0f"
 
@@ -1901,11 +1897,6 @@ metafile = true
 [[files]]
 file = "mods/dynamic-asset-generator.pw.toml"
 hash = "1c771c4d65538d8e5d667915e88e9a0e7cd8ad385fb04c2af689cfd6acb58e46"
-metafile = true
-
-[[files]]
-file = "mods/dynamic-view.pw.toml"
-hash = "72fb1aee0a9fc8b3f032bc1d769709a8bc5eec3b1776d9430d22b6d1d0d3a546"
 metafile = true
 
 [[files]]
