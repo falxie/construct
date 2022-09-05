@@ -2140,11 +2140,6 @@ hash = "916c4cb1f3e1a95e6c52cdcac101fdc54ce5e4d1cb568493de2b6bef26a2a8ad"
 metafile = true
 
 [[files]]
-file = "mods/my-server-is-compatible.pw.toml"
-hash = "710ea40d2def14578600d2e6fef5d226554a4a48646c7eba2463805d1743fcd3"
-metafile = true
-
-[[files]]
 file = "mods/naturalist.pw.toml"
 hash = "7f42dfc337c4a6510d3a8e240cdbe9cb9a71df4623e1d0775d8e9f3dc350d57e"
 metafile = true
