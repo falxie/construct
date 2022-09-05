@@ -2024,7 +2024,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "f51c593cedba33bd9f8f1cf5ae6dddabcae4dec4a669da1e203f67fc993bdd6e"
+hash = "39ed79ad646d623fae1820eaa45b98e91034a6cab5655c7dd6ac184d6da9c503"
 metafile = true
 
 [[files]]
@@ -2369,7 +2369,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "fc0ca2d2aa50fbf17e3e8c564921e313f04dc2c6a505126e8da6b118875a0f96"
+hash = "218e85811e9ca453aecf317bc7b4268cc4dd1ded18626109123457b322eca3d3"
 metafile = true
 
 [[files]]
