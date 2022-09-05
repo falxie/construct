@@ -1910,6 +1910,11 @@ hash = "4c948b97f01f941ee8c85898159ab282839c2e6011f5650d09e617d59dff9798"
 metafile = true
 
 [[files]]
+file = "mods/entity-collision-fps-fix.pw.toml"
+hash = "a31129e9872da152b3beebfe89d19fd7113714fbc82481a04a82ca978384bda5"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "ce7764f4555f7524f0c9b6f4f1c53c94f520aad620fc2e4a237520083f43aa46"
 metafile = true
