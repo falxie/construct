@@ -1442,7 +1442,7 @@ hash = "e1541ceb7dfb7ca8edf6a0a47da0ad460ba804b9cf03f2fa8d16b9af322546c1"
 
 [[files]]
 file = "config/xaerominimap.txt"
-hash = "bce3d60d33cbe56c503843aafefeb59e53df8ac13c4c587406cc15143d87a741"
+hash = "efd45a12385440b5e4a4038a12b19bb8cf4bf5a7f0084d8c1ee5cf79935b7a72"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
@@ -1454,7 +1454,7 @@ hash = "8f416b1035da696f526b1cc83494f348616a6603f0091b6ec11ee84e1b70aa09"
 
 [[files]]
 file = "config/xaeroworldmap.txt"
-hash = "01dd84704af0a037922f73c9dc80e806cc4db568755baf62a9a3d1dbdce9aa50"
+hash = "3b099dfb2e5e121a15abc61ce00a25c31bcb8d22baaa7273576bde10124907c4"
 
 [[files]]
 file = "defaultconfigs/carryon-server.toml"
