@@ -1714,7 +1714,7 @@ metafile = true
 
 [[files]]
 file = "mods/blueprint.pw.toml"
-hash = "4bbc072510f0536560c2bd1407b8d2e0b16a1a2613ceecfc234bf4da46823df4"
+hash = "c43aacfdbd6e2dacb321a3f4d48f9c072a588aade8b3c372d4c22f450b4e9ec7"
 metafile = true
 
 [[files]]
@@ -1918,11 +1918,6 @@ hash = "4c948b97f01f941ee8c85898159ab282839c2e6011f5650d09e617d59dff9798"
 metafile = true
 
 [[files]]
-file = "mods/entity-collision-fps-fix.pw.toml"
-hash = "a31129e9872da152b3beebfe89d19fd7113714fbc82481a04a82ca978384bda5"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "ce7764f4555f7524f0c9b6f4f1c53c94f520aad620fc2e4a237520083f43aa46"
 metafile = true
@@ -2054,7 +2049,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "49b7f862fe68e3601d35528fe062b5a68a34887ffc2ea1d852bf92017bd80774"
+hash = "8555571dfb1c023b48be6569674634176dcee83d07589296ee7d805e59c0f25f"
 metafile = true
 
 [[files]]
@@ -2329,7 +2324,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "af9a82c5bc1be8c4c52ca93a14349a72ec1196b1008b0906eb32620c49559a7c"
+hash = "1b9542519847bf8c022731d33a48ef647fdaf3f71b9f6c541ebff543f10c4387"
 metafile = true
 
 [[files]]
