@@ -701,14 +701,6 @@ file = "config/curios-client.toml"
 hash = "1ac04b541d19cc58791e5ceea4a46b7e1d75a2b4b2d5e359b9fcab606e5ef750"
 
 [[files]]
-file = "config/debugify-descriptions.json"
-hash = "206b4463a0611418986be79ccbef1253bc09e502be78b30281008b73a1277926"
-
-[[files]]
-file = "config/debugify.json"
-hash = "57696c6e0e9631badad52c46da2ff91c875681951020299214883ba8c059a00b"
-
-[[files]]
 file = "config/decorative_blocks-common.toml"
 hash = "e305565e0795f8450f4fd69afd93ef7d8b6ad1f83b96b970c858c0a0ecb1a5eb"
 
@@ -1418,11 +1410,11 @@ hash = "d8df7da28cac1c6916cbc1ae143f0ab0a37ea10960f93fda79d921ca3d12cbfb"
 
 [[files]]
 file = "config/supplementaries-common.toml"
-hash = "0a26a61d6205b3b195c260635d0f41b4793100101e5c81ccf2fd7644f7f8a12c"
+hash = "0dee90d34736f88fab254f323c2deb94c0a5f716434d528e377b62aaa1795006"
 
 [[files]]
 file = "config/supplementaries-registry.toml"
-hash = "8520af4a9d4bb46f7895b7126b7b4a9e16d4c37b1f473e904d15045699fec2a9"
+hash = "655a2611b88f14bfa0400a36c3bbeb59db31ab676b7d564edb4e1ca45bec0f0d"
 
 [[files]]
 file = "config/tconstruct-client.toml"
@@ -1855,11 +1847,6 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "f1e831b83e7e2d9158db8392feb3c513aa3dd36606e937be508a15709f6f0010"
-metafile = true
-
-[[files]]
-file = "mods/debugify.pw.toml"
-hash = "04ad88c125584479f0854c74f13f7582a1ce20acf8a89e211cc991bd3780c61d"
 metafile = true
 
 [[files]]
