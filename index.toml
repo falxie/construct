@@ -370,7 +370,7 @@ hash = "c15f04a374c32a19df22b82ebcc53735eed627e079b0b497086d916901268494"
 
 [[files]]
 file = "config/badmobs-common.toml"
-hash = "363cad63ab42b8230d711073bc83d6f6e0de971b87a1a20530a1a2e1a0e816ca"
+hash = "7b31c0a6d55d2dafa31baa2592198557fdb384be874c16a6f46fa14c05bcf21f"
 
 [[files]]
 file = "config/bcc-common.toml"
@@ -1242,7 +1242,7 @@ hash = "e186f519c86ca1147baa8e7f32b15917257601f00486400ed54531107bdf9ac2"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "edb60cd577178ef15a7a327069ea01e90e64f0a9d8de132d10b3113fc08b485e"
+hash = "946c2fc9e2e16785b898832f870ce8a9b5feabeb90e0d44ff0293317b3d5ec08"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -1362,7 +1362,7 @@ hash = "f110e67b9dd1926d739b78fde482ae2839d0e0fb2456586d96a78066c8423ba4"
 
 [[files]]
 file = "config/serverconfigupdater-common.toml"
-hash = "afb426a3bafb5f64cd1e8d1cf2c6c05a34542e31b3b8770fb4d6d708980ca408"
+hash = "21fe200096c881ba8877adf9a6b2529a936d91128407ccf87c29fd31f0a53b89"
 
 [[files]]
 file = "config/skinnedlanterns.toml"
@@ -1454,7 +1454,7 @@ hash = "3b099dfb2e5e121a15abc61ce00a25c31bcb8d22baaa7273576bde10124907c4"
 
 [[files]]
 file = "defaultconfigs/carryon-server.toml"
-hash = "5931fc141668b45d36e6f79c55c4b0f87fd78b7f6ae04e162aa709ca0749e39b"
+hash = "1ea924978b7a2b33336c652a6c824a5e3b9c634f52d860eff0477c01294a5c05"
 
 [[files]]
 file = "defaultconfigs/cofh_core-server.toml"
@@ -1495,6 +1495,10 @@ hash = "2de6fa9f8da179c1d1af2d09fbbaddf75ffd7e89bc93e8c62d6b629212df9a44"
 [[files]]
 file = "defaultconfigs/forge-server.toml"
 hash = "67c566ace4bc51e3ca169c7173b6e6a86eb3a37c8ad423eb8c33847bd68e6d8b"
+
+[[files]]
+file = "defaultconfigs/framedblocks-server.toml"
+hash = "fd6a568241761dfa1a2f83bd2923abcc8704f48772310d43c2bc38cbe48908ff"
 
 [[files]]
 file = "defaultconfigs/jei-server.toml"
@@ -1707,6 +1711,11 @@ metafile = true
 [[files]]
 file = "mods/blueprint.pw.toml"
 hash = "c43aacfdbd6e2dacb321a3f4d48f9c072a588aade8b3c372d4c22f450b4e9ec7"
+metafile = true
+
+[[files]]
+file = "mods/boatload.pw.toml"
+hash = "84f726cd2dbca0320e86329d957348da514207649cf4730c64629e9590cc3b16"
 metafile = true
 
 [[files]]
