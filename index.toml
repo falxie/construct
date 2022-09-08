@@ -370,7 +370,7 @@ hash = "c15f04a374c32a19df22b82ebcc53735eed627e079b0b497086d916901268494"
 
 [[files]]
 file = "config/badmobs-common.toml"
-hash = "b4e0afdfe4593f3c0d862584965c60f4d71e2fcdb9a58e023c12730470f7f084"
+hash = "363cad63ab42b8230d711073bc83d6f6e0de971b87a1a20530a1a2e1a0e816ca"
 
 [[files]]
 file = "config/bcc-common.toml"
@@ -766,7 +766,7 @@ hash = "bc0c47b1f8dc7fa63393efbf07feb8586c59bcd3d3aa05ca7df206109a33fe6b"
 
 [[files]]
 file = "config/everycomp-registry.toml"
-hash = "17701eb04f8dd3f3d03ffe944edbc0ce3a8956c7a8f96b910fe0eb3fd4aa8d58"
+hash = "8cfeb3eb795e73f0c464505dc4e5be58306b45e2c95e4a452711095c6417536d"
 
 [[files]]
 file = "config/excavated_variants.json"
@@ -1242,7 +1242,7 @@ hash = "e186f519c86ca1147baa8e7f32b15917257601f00486400ed54531107bdf9ac2"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "2631ffdd1e66bb5d73d0a42464f8435b9bc780f51d2eaf62c71fac634645a361"
+hash = "edb60cd577178ef15a7a327069ea01e90e64f0a9d8de132d10b3113fc08b485e"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -1326,7 +1326,7 @@ hash = "f3d1c8420ef27a049690648fbe66f67739a3ef8709bce47406257d8d7de133f2"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "b31f9a4c94414f6034980a0962b564645f9b1d481b1b12b56ecad2f92cbf126f"
+hash = "de98aee7b35fdbfef919aa995197d5bcebc6084edc0a824eb6913c5e652f1e09"
 
 [[files]]
 file = "config/repurposed_structures-forge/biome_dimension_allow_disallow_configs.json5"
@@ -2322,11 +2322,6 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "62c4c00ecc9ca4ca806808ed111578bfa358a44646c61afa31db31055bceed87"
-metafile = true
-
-[[files]]
-file = "mods/the-wild-backport.pw.toml"
-hash = "0625f3cc19ea67d9418e8a452d464571b8a45628f81909c3c52b383a568c8d72"
 metafile = true
 
 [[files]]

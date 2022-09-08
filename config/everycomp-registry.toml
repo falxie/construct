@@ -24,9 +24,6 @@
 	[leaves_type.twigs]
 		bamboo = true
 
-	[leaves_type.wildbackport]
-		mangrove = true
-
 	[leaves_type.ecologics]
 		coconut = true
 		walnut = true
@@ -126,9 +123,6 @@
 		coconut = true
 		walnut = true
 		azalea = true
-
-	[wood_type.wildbackport]
-		mangrove = true
 
 	[wood_type.tconstruct]
 		greenheart = true
