@@ -1074,7 +1074,7 @@ hash = "638ae20a7ccdd6ce1d187e0410215dc1291e02dc33e409bdb0ad277d51a83bbd"
 
 [[files]]
 file = "config/jaopca/materials/cast_iron.toml"
-hash = "841fbd8227cf63f66088e44bd2892226ad03d089168a48bd1798061ae2665ed3"
+hash = "8ed64171022356bb14b7c61e6fec80c302b2d0a14a80c7017c57cc6e392ff723"
 
 [[files]]
 file = "config/jaopca/materials/cobalt.toml"
@@ -1162,7 +1162,7 @@ hash = "841fbd8227cf63f66088e44bd2892226ad03d089168a48bd1798061ae2665ed3"
 
 [[files]]
 file = "config/jaopca/materials/rose_quartz.toml"
-hash = "76b6a596d97eacbe69feed11d19361c6a76832221c385e927082d266cd172058"
+hash = "64188aeeb8672f5df1a8c4a7203779faf37507288ad99b9577f96268d18d47d3"
 
 [[files]]
 file = "config/jaopca/materials/slimesteel.toml"
@@ -1174,7 +1174,7 @@ hash = "841fbd8227cf63f66088e44bd2892226ad03d089168a48bd1798061ae2665ed3"
 
 [[files]]
 file = "config/jaopca/materials/steel.toml"
-hash = "841fbd8227cf63f66088e44bd2892226ad03d089168a48bd1798061ae2665ed3"
+hash = "a356fcdad4c0b2bec164f744b5873b5333117c0716e0b66678f095e7c3e45298"
 
 [[files]]
 file = "config/jaopca/materials/zinc.toml"
@@ -1406,11 +1406,11 @@ hash = "fc64c2ca441547fe83c78ca11d01124cec3779d17b3f607f2d06fd038163b372"
 
 [[files]]
 file = "config/supplementaries-client.toml"
-hash = "d8df7da28cac1c6916cbc1ae143f0ab0a37ea10960f93fda79d921ca3d12cbfb"
+hash = "f4a24cab411d3adf8027826ce6d657bc8da7e95d109e37839f2d4764708e9b2c"
 
 [[files]]
 file = "config/supplementaries-common.toml"
-hash = "0dee90d34736f88fab254f323c2deb94c0a5f716434d528e377b62aaa1795006"
+hash = "0a26a61d6205b3b195c260635d0f41b4793100101e5c81ccf2fd7644f7f8a12c"
 
 [[files]]
 file = "config/supplementaries-registry.toml"
@@ -1765,7 +1765,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "1b3182b515cecc1c5df3bbb1b54f6b305bff3fafb571777e79ac47c28d772aae"
+hash = "6b44a9e8e99229f2811f3f172873be4ef8ec76720d200b5a29d36ed86127eda2"
 metafile = true
 
 [[files]]
@@ -2205,7 +2205,7 @@ metafile = true
 
 [[files]]
 file = "mods/pollen.pw.toml"
-hash = "1edcad1067acfa6a684424fc510a3e08a0e2ba4bd80a936877d75f5b9dea7016"
+hash = "511a863671a2f7a9c6e032c1e5ebeee5403fc9e72a88404f6d06ecb91bfd52d4"
 metafile = true
 
 [[files]]
@@ -2320,7 +2320,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "1b9542519847bf8c022731d33a48ef647fdaf3f71b9f6c541ebff543f10c4387"
+hash = "8f9058b0180cce1e40523e95a4558abe9147a1f928e8fba05704deeb29637f78"
 metafile = true
 
 [[files]]
