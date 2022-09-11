@@ -941,6 +941,10 @@ file = "config/fastbench.cfg"
 hash = "849655cc24f7329930c2ddaa9a54061a2db954c5932152a4591fcf56450c6971"
 
 [[files]]
+file = "config/fastload.properties"
+hash = "6d18dafc97b797046cc4261eea20925b4df884e6dbe1072b7e6867ffe69a5422"
+
+[[files]]
 file = "config/ferritecore-mixin.toml"
 hash = "f19906e5d155709cd2cbb4ebbc2edf72536ef946f550f9cbeac321bcb772d189"
 
@@ -1645,7 +1649,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "6e8eca661f6e9a5dabe7abdd55ec88b1d56b442da5f2f575ba8fe5089cb5011c"
+hash = "a4b435f93d0a70d1d71359024fbf3d4eff8ec653f6f4e90acdfe9c6dce656634"
 metafile = true
 
 [[files]]
@@ -1965,7 +1969,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "7815dd9cf274a1f399ff8827ebce11e6e5bef872e4221410d4c475680bf18284"
+hash = "bbb6db946ba2b70b5cf40b58adc73cc8dcb93e5a7c905395186f01e6cb724221"
 metafile = true
 
 [[files]]
