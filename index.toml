@@ -1246,7 +1246,7 @@ hash = "e186f519c86ca1147baa8e7f32b15917257601f00486400ed54531107bdf9ac2"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "946c2fc9e2e16785b898832f870ce8a9b5feabeb90e0d44ff0293317b3d5ec08"
+hash = "90045fdf6cd0d016839565f143202d65e40de3d992caad57427b7baeff0eade4"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -1254,7 +1254,7 @@ hash = "7daa1c641d365795ffb7006b758a6d14110f9d001c51be7b97cb2c64f619b340"
 
 [[files]]
 file = "config/jei/recipe-category-sort-order.ini"
-hash = "2ad15875c301e6eb65bf7d00167261777295544f6d71bd80a33f358371d76028"
+hash = "d8e8547213dce5a11e1f6ff97a279d5828fdeffe2a93d0582ac5690e752da84d"
 
 [[files]]
 file = "config/jeiintegration-client.toml"
@@ -1740,6 +1740,11 @@ metafile = true
 [[files]]
 file = "mods/chimes.pw.toml"
 hash = "4e253e12a9b2702b8708228b9f617fa49510939dfa8ce90d30033573543ec351"
+metafile = true
+
+[[files]]
+file = "mods/chipped.pw.toml"
+hash = "7aafdfb2c9dc012eb279b1beae1628ecf969056b8c3939bd39c34ff35acfee44"
 metafile = true
 
 [[files]]
