@@ -1522,7 +1522,7 @@ hash = "565aecf4b75c7044e41cf8c2e8c99995947afb7c32aa2410566bf2bfad8764e5"
 
 [[files]]
 file = "defaultconfigs/solcarrot-server.toml"
-hash = "74a6660acbda83e8a31c5fac615606ba8c08cba3e284e225061c07c4d2b1e318"
+hash = "6263f324051c425342523d57f50d9404ebae67f69537462faabd9408c514af03"
 
 [[files]]
 file = "global_packs/required_data/Construct Tweaks/data/alexsmobs/advancements/alexsmobs/grizzly_bear.json"
