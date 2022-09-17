@@ -1373,6 +1373,10 @@ file = "config/skinnedlanterns.toml"
 hash = "bfc728d2a529c76cd53b37a7a00d9628f3692aef67d04cb84e4d5e0dcf2587a5"
 
 [[files]]
+file = "config/smoothboot.json"
+hash = "af3ec0963c7d5a04427f6fd3ea9c8e239d2cb61be6f6a1a9aaa394e312333b2f"
+
+[[files]]
 file = "config/smoothchunk-common.toml"
 hash = "0b5e7f9386e0f8d1933d9ac9b67154b7574afb3bcc459624484d001204a0d623"
 
@@ -2275,6 +2279,11 @@ metafile = true
 [[files]]
 file = "mods/skinned-lanterns.pw.toml"
 hash = "cd74b7a9228e69bc1e515f72013268f8630411bddb43fdb4a5cb0f2806136d7a"
+metafile = true
+
+[[files]]
+file = "mods/smooth-boot-reloaded.pw.toml"
+hash = "a324d3d1904f018fd24bb1d03c3b00fa7adb0c920c2f798ab7fa49cb0a6cbaad"
 metafile = true
 
 [[files]]
