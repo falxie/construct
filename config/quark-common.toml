@@ -1185,7 +1185,7 @@
 	Toretoise = true
 	Stonelings = true
 	Shiba = true
-	Frogs = false
+	Frogs = true
 	Foxhound = true
 	Forgotten = true
 	Crabs = true
