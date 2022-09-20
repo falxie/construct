@@ -1843,7 +1843,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-cafe.pw.toml"
-hash = "6b977439f94c4af708bd5e7d114b1583d21ae0924207ddb7421d79153efc2497"
+hash = "405183e12e147b78833f069cfc5400d390544842a3711cc75252a15d832ba04c"
 metafile = true
 
 [[files]]
@@ -2223,7 +2223,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymorph.pw.toml"
-hash = "ed0fcdae68f0f046f6b25c7e8da92b37b5a29aeab8d399e0f2514a3186b1d641"
+hash = "015b1cf6262abdb5d44e2a54d8de6b0a2ef79b8df470365ef72d54f095bd05f9"
 metafile = true
 
 [[files]]
@@ -2338,7 +2338,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "8f9058b0180cce1e40523e95a4558abe9147a1f928e8fba05704deeb29637f78"
+hash = "5add0bb388fc1e659dcd5f39e2bfd67fced6e7af34b6b1945490a4fafadb3412"
 metafile = true
 
 [[files]]
@@ -2423,7 +2423,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/repurposed-structures-better-dungeons-datapack.pw.toml"
-hash = "4ef4f30ad9a2d64e85f128ed3402901af6b8268333e8ccdda4b014e1574ea9f0"
+hash = "4b8b58f3057383f791d964452eff4b3d53ce964edd2eb3ad4bb63b5a0c96eefb"
 metafile = true
 
 [[files]]
