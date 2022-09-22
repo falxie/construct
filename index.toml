@@ -1863,7 +1863,7 @@ metafile = true
 
 [[files]]
 file = "mods/cultural-delights.pw.toml"
-hash = "9fdd3396cab483f12248bc508a1bea5fabd2e0d65d54e57cde0e55b89eafdd44"
+hash = "6536c35eff4429b8a8d2702c00f1113e677b29d857a59bd267a8fe511eade784"
 metafile = true
 
 [[files]]
@@ -1883,7 +1883,7 @@ metafile = true
 
 [[files]]
 file = "mods/delightful.pw.toml"
-hash = "9f1518d5ef5c9ca1ef3cfff34fa3fdb3135a0473efaf52e89e98e8ff49e63c4f"
+hash = "1e6bb9364d3690a5db8e5ad21585296a27beb67ae090b61346f868b60447970f"
 metafile = true
 
 [[files]]
@@ -1953,7 +1953,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "3226b84f654ab5db4e3b261d511c40719bf23481ddff853bfb6e33af11a5ab51"
+hash = "546cf7bd63e02041e8d159ecc5326fde952aaeaf0d8517b5eb5f552a84fcf12a"
 metafile = true
 
 [[files]]
@@ -2338,7 +2338,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "5add0bb388fc1e659dcd5f39e2bfd67fced6e7af34b6b1945490a4fafadb3412"
+hash = "d71c01fdea9aa7fc640c24a2366d1d3fd3cfe69a1f81e056ff2e5a37cf4c5bfa"
 metafile = true
 
 [[files]]
@@ -2353,7 +2353,7 @@ metafile = true
 
 [[files]]
 file = "mods/tinkers-construct.pw.toml"
-hash = "4275242bc6cd5ff6a7b23463f3921fc3bced4b9fc2e5f4a634ec5be96d0e21e2"
+hash = "5cef47ebec6f02511be3efd5d6b65ff3bf7ba9593958d13a6784e45621b4ba1f"
 metafile = true
 
 [[files]]
