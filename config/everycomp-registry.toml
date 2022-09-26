@@ -87,9 +87,6 @@
 		flowering_nightshade = true
 		firecracker = true
 
-	[leaves_type.culturaldelights]
-		avocado = true
-
 	[leaves_type.tconstruct]
 		earth_slime = true
 		sky_slime = true
@@ -102,6 +99,9 @@
 		pink_blossom = true
 		yellow_blossom = true
 		red_blossom = true
+
+	[leaves_type.culturaldelights]
+		avocado = true
 
 [wood_type]
 

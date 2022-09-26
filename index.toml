@@ -722,7 +722,7 @@ hash = "3a05b7dbab88781794ca24d8018e8b522eed783e8f938929abd2b2ed3454790b"
 
 [[files]]
 file = "config/delightful-common.toml"
-hash = "ace3fdfa2f149cb86600779c678e7ba5adc5585b383571e85d3995961fcddb18"
+hash = "0675d6c09fe4f12bd57431fac4edf72d6591fcf27acfdea909bbf7c352de72e1"
 
 [[files]]
 file = "config/delogger2.json"
@@ -766,7 +766,7 @@ hash = "bc0c47b1f8dc7fa63393efbf07feb8586c59bcd3d3aa05ca7df206109a33fe6b"
 
 [[files]]
 file = "config/everycomp-registry.toml"
-hash = "8cfeb3eb795e73f0c464505dc4e5be58306b45e2c95e4a452711095c6417536d"
+hash = "e5a9ae4f50c01b19d853da1060f29c2a61562ef3844075bade337b23d0314baa"
 
 [[files]]
 file = "config/excavated_variants.json"
@@ -926,7 +926,7 @@ hash = "13a11f20b305f6f975ebc35802d87c7bf22a04dc79464e41089823603b76a227"
 
 [[files]]
 file = "config/farmersdelight-common.toml"
-hash = "cd6a1aa12b8084fbb593c7a00c330ef05e5597e15d8c29e0a0a8228068da6bab"
+hash = "818d9762fce1485ccf57e590a8902042e58d7d8960e29906120404565189d8f1"
 
 [[files]]
 file = "config/farmersrespite-common.toml"
@@ -1086,6 +1086,10 @@ hash = "627f194149a25a6f4287b5f1bc1c6407c4a1fa76c12ffcd79d867fdfb8eae524"
 
 [[files]]
 file = "config/jaopca/materials/copper.toml"
+hash = "841fbd8227cf63f66088e44bd2892226ad03d089168a48bd1798061ae2665ed3"
+
+[[files]]
+file = "config/jaopca/materials/deorum.toml"
 hash = "841fbd8227cf63f66088e44bd2892226ad03d089168a48bd1798061ae2665ed3"
 
 [[files]]
@@ -1414,15 +1418,15 @@ hash = "fc64c2ca441547fe83c78ca11d01124cec3779d17b3f607f2d06fd038163b372"
 
 [[files]]
 file = "config/supplementaries-client.toml"
-hash = "f4a24cab411d3adf8027826ce6d657bc8da7e95d109e37839f2d4764708e9b2c"
+hash = "562c34f618ac2c96abc1b0248f5d51764473eb98672638fbb4f952c9159d55c7"
 
 [[files]]
 file = "config/supplementaries-common.toml"
-hash = "0a26a61d6205b3b195c260635d0f41b4793100101e5c81ccf2fd7644f7f8a12c"
+hash = "908a684a505ee600f14f3dda36e1fc39c1ca0487cca709fd4980fce4378236f6"
 
 [[files]]
 file = "config/supplementaries-registry.toml"
-hash = "655a2611b88f14bfa0400a36c3bbeb59db31ab676b7d564edb4e1ca45bec0f0d"
+hash = "17984ba320ade63449481e92971308b14c7649474304a620c4a485578c179b5d"
 
 [[files]]
 file = "config/tconstruct-client.toml"
@@ -1478,7 +1482,7 @@ hash = "7fd1025fe4f2c5f05cdd8ac2cccbfaaea336a855e0ab97fb923c627d4a1a4a0a"
 
 [[files]]
 file = "defaultconfigs/create-server.toml"
-hash = "8429e710f134d920c3127b3757c90f89ca2a713a6602d7fd5b2d6ebbb1f8e835"
+hash = "c0ff1a0e760dbbb1a9fac0f76aa0972e896a562d4be223b45260f1dc0ff2e226"
 
 [[files]]
 file = "defaultconfigs/curios-server.toml"
@@ -1858,7 +1862,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "7b705f57107935d189436c3ed561c986a6ec84a2d80ff94542a46836ab80ea83"
+hash = "49d95a50bd61162db6c7882fc0a2fdac118ead6e7bc592c243d1db29b560db17"
 metafile = true
 
 [[files]]
@@ -2293,17 +2297,17 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "dc446f4396f890259b9e7e13343a2556dc1b444f07f7bac0aede5287f2b2a67a"
+hash = "97b3e820817836018d3274ab22907491957b2253b6224d3200f8dd27871413dc"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "53a781daf9e319b650de8a33aedec8877addc36aa989eceeef9a00a70dee4233"
+hash = "4ddcc494fda400bc5c521b95427249c959fde0f7c17c68c05b8f239caa436806"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "638e4534f22a18fc3fea6cd5f24da9b88f059c2636e6c7e80c3063bef5b7935d"
+hash = "6fa4cb7f8d56346079b8b54f317202b67e727a0fa4bad97c367b93b51af495e6"
 metafile = true
 
 [[files]]
@@ -2338,7 +2342,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "d71c01fdea9aa7fc640c24a2366d1d3fd3cfe69a1f81e056ff2e5a37cf4c5bfa"
+hash = "091ab4e96943717607ef7e4355f8c9127e2c014cbfa34894e73ce9a52136410d"
 metafile = true
 
 [[files]]
