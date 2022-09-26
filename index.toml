@@ -722,7 +722,7 @@ hash = "3a05b7dbab88781794ca24d8018e8b522eed783e8f938929abd2b2ed3454790b"
 
 [[files]]
 file = "config/delightful-common.toml"
-hash = "ace3fdfa2f149cb86600779c678e7ba5adc5585b383571e85d3995961fcddb18"
+hash = "0675d6c09fe4f12bd57431fac4edf72d6591fcf27acfdea909bbf7c352de72e1"
 
 [[files]]
 file = "config/delogger2.json"
@@ -766,7 +766,7 @@ hash = "bc0c47b1f8dc7fa63393efbf07feb8586c59bcd3d3aa05ca7df206109a33fe6b"
 
 [[files]]
 file = "config/everycomp-registry.toml"
-hash = "8cfeb3eb795e73f0c464505dc4e5be58306b45e2c95e4a452711095c6417536d"
+hash = "e5a9ae4f50c01b19d853da1060f29c2a61562ef3844075bade337b23d0314baa"
 
 [[files]]
 file = "config/excavated_variants.json"
@@ -926,7 +926,7 @@ hash = "13a11f20b305f6f975ebc35802d87c7bf22a04dc79464e41089823603b76a227"
 
 [[files]]
 file = "config/farmersdelight-common.toml"
-hash = "cd6a1aa12b8084fbb593c7a00c330ef05e5597e15d8c29e0a0a8228068da6bab"
+hash = "818d9762fce1485ccf57e590a8902042e58d7d8960e29906120404565189d8f1"
 
 [[files]]
 file = "config/farmersrespite-common.toml"
@@ -1086,6 +1086,10 @@ hash = "627f194149a25a6f4287b5f1bc1c6407c4a1fa76c12ffcd79d867fdfb8eae524"
 
 [[files]]
 file = "config/jaopca/materials/copper.toml"
+hash = "841fbd8227cf63f66088e44bd2892226ad03d089168a48bd1798061ae2665ed3"
+
+[[files]]
+file = "config/jaopca/materials/deorum.toml"
 hash = "841fbd8227cf63f66088e44bd2892226ad03d089168a48bd1798061ae2665ed3"
 
 [[files]]
@@ -1366,11 +1370,15 @@ hash = "f110e67b9dd1926d739b78fde482ae2839d0e0fb2456586d96a78066c8423ba4"
 
 [[files]]
 file = "config/serverconfigupdater-common.toml"
-hash = "21fe200096c881ba8877adf9a6b2529a936d91128407ccf87c29fd31f0a53b89"
+hash = "23aa1240da81b928b2d162cc49b703ae78b9d7997d5f141c1bf400e34bcf25f9"
 
 [[files]]
 file = "config/skinnedlanterns.toml"
 hash = "bfc728d2a529c76cd53b37a7a00d9628f3692aef67d04cb84e4d5e0dcf2587a5"
+
+[[files]]
+file = "config/smoothboot.json"
+hash = "af3ec0963c7d5a04427f6fd3ea9c8e239d2cb61be6f6a1a9aaa394e312333b2f"
 
 [[files]]
 file = "config/smoothchunk-common.toml"
@@ -1410,15 +1418,15 @@ hash = "fc64c2ca441547fe83c78ca11d01124cec3779d17b3f607f2d06fd038163b372"
 
 [[files]]
 file = "config/supplementaries-client.toml"
-hash = "f4a24cab411d3adf8027826ce6d657bc8da7e95d109e37839f2d4764708e9b2c"
+hash = "562c34f618ac2c96abc1b0248f5d51764473eb98672638fbb4f952c9159d55c7"
 
 [[files]]
 file = "config/supplementaries-common.toml"
-hash = "0a26a61d6205b3b195c260635d0f41b4793100101e5c81ccf2fd7644f7f8a12c"
+hash = "908a684a505ee600f14f3dda36e1fc39c1ca0487cca709fd4980fce4378236f6"
 
 [[files]]
 file = "config/supplementaries-registry.toml"
-hash = "655a2611b88f14bfa0400a36c3bbeb59db31ab676b7d564edb4e1ca45bec0f0d"
+hash = "17984ba320ade63449481e92971308b14c7649474304a620c4a485578c179b5d"
 
 [[files]]
 file = "config/tconstruct-client.toml"
@@ -1474,7 +1482,7 @@ hash = "7fd1025fe4f2c5f05cdd8ac2cccbfaaea336a855e0ab97fb923c627d4a1a4a0a"
 
 [[files]]
 file = "defaultconfigs/create-server.toml"
-hash = "8429e710f134d920c3127b3757c90f89ca2a713a6602d7fd5b2d6ebbb1f8e835"
+hash = "c0ff1a0e760dbbb1a9fac0f76aa0972e896a562d4be223b45260f1dc0ff2e226"
 
 [[files]]
 file = "defaultconfigs/curios-server.toml"
@@ -1522,7 +1530,7 @@ hash = "565aecf4b75c7044e41cf8c2e8c99995947afb7c32aa2410566bf2bfad8764e5"
 
 [[files]]
 file = "defaultconfigs/solcarrot-server.toml"
-hash = "74a6660acbda83e8a31c5fac615606ba8c08cba3e284e225061c07c4d2b1e318"
+hash = "6263f324051c425342523d57f50d9404ebae67f69537462faabd9408c514af03"
 
 [[files]]
 file = "global_packs/required_data/Construct Tweaks/data/alexsmobs/advancements/alexsmobs/grizzly_bear.json"
@@ -1839,7 +1847,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-cafe.pw.toml"
-hash = "6b977439f94c4af708bd5e7d114b1583d21ae0924207ddb7421d79153efc2497"
+hash = "405183e12e147b78833f069cfc5400d390544842a3711cc75252a15d832ba04c"
 metafile = true
 
 [[files]]
@@ -1854,12 +1862,12 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "7b705f57107935d189436c3ed561c986a6ec84a2d80ff94542a46836ab80ea83"
+hash = "49d95a50bd61162db6c7882fc0a2fdac118ead6e7bc592c243d1db29b560db17"
 metafile = true
 
 [[files]]
 file = "mods/cultural-delights.pw.toml"
-hash = "9fdd3396cab483f12248bc508a1bea5fabd2e0d65d54e57cde0e55b89eafdd44"
+hash = "6536c35eff4429b8a8d2702c00f1113e677b29d857a59bd267a8fe511eade784"
 metafile = true
 
 [[files]]
@@ -1879,7 +1887,7 @@ metafile = true
 
 [[files]]
 file = "mods/delightful.pw.toml"
-hash = "9f1518d5ef5c9ca1ef3cfff34fa3fdb3135a0473efaf52e89e98e8ff49e63c4f"
+hash = "1e6bb9364d3690a5db8e5ad21585296a27beb67ae090b61346f868b60447970f"
 metafile = true
 
 [[files]]
@@ -1949,7 +1957,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "3226b84f654ab5db4e3b261d511c40719bf23481ddff853bfb6e33af11a5ab51"
+hash = "546cf7bd63e02041e8d159ecc5326fde952aaeaf0d8517b5eb5f552a84fcf12a"
 metafile = true
 
 [[files]]
@@ -2219,7 +2227,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymorph.pw.toml"
-hash = "ed0fcdae68f0f046f6b25c7e8da92b37b5a29aeab8d399e0f2514a3186b1d641"
+hash = "015b1cf6262abdb5d44e2a54d8de6b0a2ef79b8df470365ef72d54f095bd05f9"
 metafile = true
 
 [[files]]
@@ -2278,23 +2286,28 @@ hash = "cd74b7a9228e69bc1e515f72013268f8630411bddb43fdb4a5cb0f2806136d7a"
 metafile = true
 
 [[files]]
+file = "mods/smooth-boot-reloaded.pw.toml"
+hash = "a324d3d1904f018fd24bb1d03c3b00fa7adb0c920c2f798ab7fa49cb0a6cbaad"
+metafile = true
+
+[[files]]
 file = "mods/smooth-chunk-save.pw.toml"
 hash = "e0369349093de523ee3e16f4f46f9d3b33195b302dd43de4c5e99e3d3a44cfeb"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "dc446f4396f890259b9e7e13343a2556dc1b444f07f7bac0aede5287f2b2a67a"
+hash = "97b3e820817836018d3274ab22907491957b2253b6224d3200f8dd27871413dc"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "53a781daf9e319b650de8a33aedec8877addc36aa989eceeef9a00a70dee4233"
+hash = "4ddcc494fda400bc5c521b95427249c959fde0f7c17c68c05b8f239caa436806"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "638e4534f22a18fc3fea6cd5f24da9b88f059c2636e6c7e80c3063bef5b7935d"
+hash = "6fa4cb7f8d56346079b8b54f317202b67e727a0fa4bad97c367b93b51af495e6"
 metafile = true
 
 [[files]]
@@ -2329,7 +2342,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "8f9058b0180cce1e40523e95a4558abe9147a1f928e8fba05704deeb29637f78"
+hash = "091ab4e96943717607ef7e4355f8c9127e2c014cbfa34894e73ce9a52136410d"
 metafile = true
 
 [[files]]
@@ -2339,12 +2352,12 @@ metafile = true
 
 [[files]]
 file = "mods/terralith.pw.toml"
-hash = "62c4c00ecc9ca4ca806808ed111578bfa358a44646c61afa31db31055bceed87"
+hash = "a45e1e6951999e0eddeb5cada1d251531e359844b7420ddef655adb9b245a3cd"
 metafile = true
 
 [[files]]
 file = "mods/tinkers-construct.pw.toml"
-hash = "4275242bc6cd5ff6a7b23463f3921fc3bced4b9fc2e5f4a634ec5be96d0e21e2"
+hash = "5cef47ebec6f02511be3efd5d6b65ff3bf7ba9593958d13a6784e45621b4ba1f"
 metafile = true
 
 [[files]]
@@ -2414,7 +2427,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/repurposed-structures-better-dungeons-datapack.pw.toml"
-hash = "4ef4f30ad9a2d64e85f128ed3402901af6b8268333e8ccdda4b014e1574ea9f0"
+hash = "4b8b58f3057383f791d964452eff4b3d53ce964edd2eb3ad4bb63b5a0c96eefb"
 metafile = true
 
 [[files]]
