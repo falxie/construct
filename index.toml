@@ -617,6 +617,10 @@ file = "config/byg/trades.json5"
 hash = "f666fca7047f51d5ff411a9bee77893b71f4337916cb2c726f8a3819eb1ddc44"
 
 [[files]]
+file = "config/canary.properties"
+hash = "d1aacee14f6bcdb2d44dceaf6f92cbff77fc710b0edbbe41b5355690fbdff394"
+
+[[files]]
 file = "config/carryon-client.toml"
 hash = "29404dd87867d12c1e60bf3295f5f6fd4229d056ac321733fba1113020ad21e8"
 
@@ -1738,6 +1742,11 @@ metafile = true
 [[files]]
 file = "mods/buzzier-bees.pw.toml"
 hash = "648369b37953dd16d26a0f1c4eb4496b88fa4c566110c11d91a258f70cff06c4"
+metafile = true
+
+[[files]]
+file = "mods/canary.pw.toml"
+hash = "1951bc9143843fcd575246e569fe3f2c23dbef8813c757f0e0e1396ee574010a"
 metafile = true
 
 [[files]]
