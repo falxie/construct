@@ -1,13 +1,13 @@
 name = "FastFurnace"
-filename = "FastFurnace-1.18.2-6.0.3.jar"
+filename = "FastFurnace-1.19.2-7.0.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "e1813c2e5202a3a6c920dd70bad65c4590fbd7fd"
+hash = "3135756b5a0b8f34643f34ad2807f3a32a7b041e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3717883
+file-id = 4028348
 project-id = 299540

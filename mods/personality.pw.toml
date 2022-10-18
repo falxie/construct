@@ -1,13 +1,13 @@
 name = "Personality"
-filename = "personality-1.18.2-2.0.0.jar"
+filename = "personality-1.19-3.0.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "7125738035b1a902254e85563815c4d5c58e5fb1"
+hash = "b1e59b6917b1ef5563f9553491533d8ee100fb69"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3881529
+file-id = 3912029
 project-id = 415974

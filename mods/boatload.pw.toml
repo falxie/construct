@@ -1,13 +1,13 @@
 name = "Boatload"
-filename = "boatload-1.18.2-3.0.0.jar"
+filename = "boatload-1.19-4.1.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "8cdc96d3c58fbbfbfc70c2772c778216f46ccf2b"
+hash = "8bcf385691e2c9a94015c96b3fa0786af6dc6e07"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3881525
+file-id = 3911861
 project-id = 337396

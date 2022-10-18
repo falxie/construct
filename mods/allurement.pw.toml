@@ -1,13 +1,13 @@
 name = "Allurement"
-filename = "allurement-1.18.2-2.0.0.jar"
+filename = "allurement-1.19-3.0.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "e68302dcac0e2877b3152d7bfa761e296b2e4cc5"
+hash = "bfcad6b741494ebb004e32aa7991c6928742e0cd"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3881523
+file-id = 3906683
 project-id = 438003

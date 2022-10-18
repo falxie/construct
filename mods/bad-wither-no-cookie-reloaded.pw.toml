@@ -1,13 +1,13 @@
 name = "Bad Wither No Cookie - Reloaded"
-filename = "bwncr-3.13.21.jar"
+filename = "bwncr-forge-1.19.2-3.14.0.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "8fd027da33a9c26ea776cab29dc3c7881f0c28be"
+hash = "225c3d5539dda8103aa47511319e0d8d5e22339a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3800660
+file-id = 3974234
 project-id = 261251

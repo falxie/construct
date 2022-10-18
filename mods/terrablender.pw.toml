@@ -1,13 +1,13 @@
 name = "TerraBlender (Forge)"
-filename = "TerraBlender-forge-1.18.2-1.1.0.99.jar"
+filename = "TerraBlender-forge-1.19.2-2.0.1.129.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "5db9359df9517c91dee0f01b7df74b517d03fc66"
+hash = "efb0dd15ee33daad3acfb1513a602f18520bdbba"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3725996
+file-id = 4057292
 project-id = 563928

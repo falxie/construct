@@ -1,13 +1,13 @@
 name = "spark"
-filename = "spark-1.9.11-forge.jar"
+filename = "spark-1.9.45-forge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "27561bd5c57fddef747de6fa27436032f219e641"
+hash = "d491d2c7b9fe1369c82b1c4fb965ee1d2f86a28a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3824951
+file-id = 4057111
 project-id = 361579

@@ -1,13 +1,13 @@
 name = "Falling Leaves (Forge)"
-filename = "Fallingleaves-1.18.2-1.3.2.jar"
+filename = "Fallingleaves-1.19.1-1.3.0.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "d8df653ace333ba1543631ca182096c32f5b8eb6"
+hash = "153a28368396a32736b1b77f047db4d9edbee4cd"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3705945
+file-id = 3914212
 project-id = 463155

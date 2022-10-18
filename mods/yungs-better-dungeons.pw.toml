@@ -1,13 +1,13 @@
 name = "YUNG's Better Dungeons (Forge)"
-filename = "YungsBetterDungeons-1.18.2-Forge-2.1.0.jar"
+filename = "YungsBetterDungeons-1.19.2-Forge-3.2.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "7f4bf4879d976eee6bee9fe2c6a479c45c84120a"
+hash = "d4b71cd908aa9f77b47f524d428fed86bdee4fb7"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3777934
+file-id = 4031672
 project-id = 510089
