@@ -1265,10 +1265,6 @@ file = "config/jei/recipe-category-sort-order.ini"
 hash = "d8e8547213dce5a11e1f6ff97a279d5828fdeffe2a93d0582ac5690e752da84d"
 
 [[files]]
-file = "config/jeiintegration-client.toml"
-hash = "d42cc4999b6e43bfb5ceee8265a3dbaa7ace138838f0c96963f0b30381d823de"
-
-[[files]]
 file = "config/jeresources-common.toml"
 hash = "915287531281f8a338c3b39adef8d58734c555ad72fe572dbb92ce71c356a587"
 
@@ -2082,11 +2078,6 @@ metafile = true
 [[files]]
 file = "mods/jaopca.pw.toml"
 hash = "e7341b4a0c629d77da30a0a0124576269f85113609cb5d9e9e1c21cc62cb4c17"
-metafile = true
-
-[[files]]
-file = "mods/jei-integration.pw.toml"
-hash = "00ceaf843e4b50f1b0c9a9410008f485785a99b9b5e30fd5471a5e630150b4fa"
 metafile = true
 
 [[files]]
