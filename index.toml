@@ -1094,7 +1094,7 @@ hash = "1ae1e29def91366e70ae6b085852fc47570fd961af627399f519bf14edb68ad7"
 
 [[files]]
 file = "config/jaopca/materials/deorum.toml"
-hash = "1ae1e29def91366e70ae6b085852fc47570fd961af627399f519bf14edb68ad7"
+hash = "c60d49e9e1cd12d1a3fedefd249d942953b1e156a38a1cff2bf0bac345130cab"
 
 [[files]]
 file = "config/jaopca/materials/diamond.toml"
@@ -1253,18 +1253,6 @@ file = "config/jei-client.toml"
 hash = "e186f519c86ca1147baa8e7f32b15917257601f00486400ed54531107bdf9ac2"
 
 [[files]]
-file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "90045fdf6cd0d016839565f143202d65e40de3d992caad57427b7baeff0eade4"
-
-[[files]]
-file = "config/jei/ingredient-list-type-sort-order.ini"
-hash = "7daa1c641d365795ffb7006b758a6d14110f9d001c51be7b97cb2c64f619b340"
-
-[[files]]
-file = "config/jei/recipe-category-sort-order.ini"
-hash = "d8e8547213dce5a11e1f6ff97a279d5828fdeffe2a93d0582ac5690e752da84d"
-
-[[files]]
 file = "config/jeresources-common.toml"
 hash = "915287531281f8a338c3b39adef8d58734c555ad72fe572dbb92ce71c356a587"
 
@@ -1285,12 +1273,12 @@ file = "config/kleeslabs-common.toml"
 hash = "65e9ddf7445cb8118a2130bd86d2ee6d6cae2c3b5e3a724d829ecffe360a0408"
 
 [[files]]
-file = "config/mantle-client.toml"
-hash = "bcdc80d141bdc59a355106e0c5d474019742d2bf8c853c87aa9c7d7b31172cb4"
+file = "config/lightoverlay.properties"
+hash = "88372e9eee5d21754b83cf7ce9362d18d37c620ce6c12fd3c12102d058f3dd4b"
 
 [[files]]
-file = "config/moreoverlays.toml"
-hash = "ebfb30b4f6ca01e7f9feb0532fee9442c4ec1d3ff25df446d90b57d7de1f28ba"
+file = "config/mantle-client.toml"
+hash = "bcdc80d141bdc59a355106e0c5d474019742d2bf8c853c87aa9c7d7b31172cb4"
 
 [[files]]
 file = "config/naturalist-common.toml"
@@ -1334,7 +1322,7 @@ hash = "f3d1c8420ef27a049690648fbe66f67739a3ef8709bce47406257d8d7de133f2"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "de98aee7b35fdbfef919aa995197d5bcebc6084edc0a824eb6913c5e652f1e09"
+hash = "f74f44b43b755434b0925d5f4737549e7e308215dc7e777dfc0e7e912351f18b"
 
 [[files]]
 file = "config/repurposed_structures-forge/biome_dimension_allow_disallow_configs.json5"
@@ -1351,6 +1339,14 @@ hash = "c21921f03014bdd061fc83803277218093d6b7c0a6175dd931d2d46045701a5f"
 [[files]]
 file = "config/repurposed_structures-forge/wells.toml"
 hash = "00308628e4545a6ead916a0719023cb39794c2030653c38aa893e1d7cf35f2d2"
+
+[[files]]
+file = "config/roughlyenoughitems/changelog.txt"
+hash = "8d3828692497be68d54e98820db28df65ef79b28f16ec4ebeef0e0916588dd8e"
+
+[[files]]
+file = "config/roughlyenoughitems/config.json5"
+hash = "d39773688cd28773f9c837e6fa7979e7a6cf8ccb0248a50b14c772b1e2e1bb6a"
 
 [[files]]
 file = "config/rubidium-mixins.properties"
@@ -1513,10 +1509,6 @@ file = "defaultconfigs/framedblocks-server.toml"
 hash = "fd6a568241761dfa1a2f83bd2923abcc8704f48772310d43c2bc38cbe48908ff"
 
 [[files]]
-file = "defaultconfigs/jei-server.toml"
-hash = "6ecd614e209640db093512337a46cc1df2d6be5b1585d024b62742e76585ea5c"
-
-[[files]]
 file = "defaultconfigs/mantle-server.toml"
 hash = "65a9cce4474c9be3630f95645918a56cc0c8f2fad10ae06657e67d8622ca6c18"
 
@@ -1557,20 +1549,56 @@ file = "kubejs/assets/kubejs/textures/item/example_item.png"
 hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
 
 [[files]]
+file = "kubejs/client_scripts/additionallanterns.js"
+hash = "ce4c92b07102c15294e16a198fe5580bdd205c1a38c13a7f54087190d5d6184c"
+
+[[files]]
 file = "kubejs/client_scripts/alexsmobs.js"
-hash = "95850f671382aae9b555d5d9fb8ef4901b786679113a4829aaad91df930338b5"
+hash = "13a8dc558df4632fb23a0a0f6035646b2f3380bc10aec8da43d201dcc2e3995d"
 
 [[files]]
 file = "kubejs/client_scripts/aquaculture.js"
-hash = "fa06fe0f1747f3532f8f3a0427fa662367c5fe6066eaf64e7771b9b6218fdec8"
+hash = "5f11a69b75f81525572f28a3b6d6b028a161de01d7d5f4b1fa7c047b08461f02"
+
+[[files]]
+file = "kubejs/client_scripts/chipped.js"
+hash = "71d260344bf241f90b09932f4f0ccd95acf1f428f3af284adef1558826218a7f"
+
+[[files]]
+file = "kubejs/client_scripts/compressium.js"
+hash = "01065adacde9655f67f5cae43b03fb9321b3d1b157e5487e465d65ba03a5464e"
+
+[[files]]
+file = "kubejs/client_scripts/doubleslabs.js"
+hash = "e218d44d4520a19c7d2cd1119bc3024b7cc300eb20fa539280792931c1fe5aea"
 
 [[files]]
 file = "kubejs/client_scripts/excavated_variants.js"
-hash = "0a9952c11203cf8208819b2173a45d3629e4726667560ae62fd6864371e12792"
+hash = "356d75b04c96e022d67c8220fbb9ac89d3c866b2b556dbfc87bbe1b72829b66e"
+
+[[files]]
+file = "kubejs/client_scripts/minecraft.js"
+hash = "66ec91e2223e3abd35ff9356a31746652fda369efcf504385d02bf66ad4db714"
 
 [[files]]
 file = "kubejs/client_scripts/naturalist.js"
-hash = "250304ef731d076a9d7ba76fc85a4c75a71105553ca2e7957fdb868506ca4bd3"
+hash = "d828bf16dcd5014574d4106120b67dee2299197cd858c096acb670491fbc3a66"
+
+[[files]]
+file = "kubejs/client_scripts/quark.js"
+hash = "23670f4cdc1d0dbbf12a2055bf6d856d9a057d968c17250b38040adfb58143a4"
+
+[[files]]
+file = "kubejs/client_scripts/shared.js"
+hash = "b490036a661acea10450e94befcf80d3c2188748933ca25981d372b440d335a0"
+
+[[files]]
+file = "kubejs/client_scripts/sophisitcatedstorage.js"
+hash = "dddf638c6e4e4b2e1d74721d12141aa470cad064a4eab6dcc026ff0ae6af1243"
+
+[[files]]
+file = "kubejs/client_scripts/tconstruct.js"
+hash = "67e031f98494b5ce2dbad0fe2e75a53d09354a73c52fdbde1db7b81ac222a6bf"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -2081,11 +2109,6 @@ hash = "e7341b4a0c629d77da30a0a0124576269f85113609cb5d9e9e1c21cc62cb4c17"
 metafile = true
 
 [[files]]
-file = "mods/jei.pw.toml"
-hash = "43bd658177949fbe857b5a50fc93fd9acf8cdbe04fedba41031e28f6d2b3a3e0"
-metafile = true
-
-[[files]]
 file = "mods/jer-integration.pw.toml"
 hash = "8342d02ffa8c8a5aae481dd7f22475ced3861756a4088e0c9c9a9e78f43cacf2"
 metafile = true
@@ -2093,11 +2116,6 @@ metafile = true
 [[files]]
 file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
 hash = "b61137301d238d28d5f193aae83e5d159299d1367c69467373797babed888154"
-metafile = true
-
-[[files]]
-file = "mods/just-enough-professions-jep.pw.toml"
-hash = "7a411c9c5e9704c257fa05df195e970b17410df795190f35d8771a613efd90af"
 metafile = true
 
 [[files]]
@@ -2136,6 +2154,11 @@ hash = "ebb19e9c7a826f2d820671cdb8fc3aebb45cccf0751235b46a20701b9a6772b4"
 metafile = true
 
 [[files]]
+file = "mods/light-overlay.pw.toml"
+hash = "b4b6828ba835038615eb2ee91d8b1eaeef53687952bf89769c680854d7dba63f"
+metafile = true
+
+[[files]]
 file = "mods/mantle.pw.toml"
 hash = "3b8744e493e25555053230b01f86c25cfee8e686d4159db5458478b00e404d58"
 metafile = true
@@ -2143,11 +2166,6 @@ metafile = true
 [[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
 hash = "543cae965a82c348b1a64fce5b3d7a4690970b6db6f38518c6f99771cec9a387"
-metafile = true
-
-[[files]]
-file = "mods/more-overlays-updated.pw.toml"
-hash = "4e0066408de71058ad4db3aa24c53c3ab001b78069df16d5eaad55994adc4543"
 metafile = true
 
 [[files]]
@@ -2253,6 +2271,21 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "b329256874cea37a99c679627ae066b85d05eef8c94224d4ba8e7ce1151b44a9"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items-hacks.pw.toml"
+hash = "3e796dfe8fba60b798b4f44e90a890be2d216d1f98c84c4c4099fbd6b21f5365"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.pw.toml"
+hash = "1b17a9e7d628961598ae2122565825073718a839c3c10ecfa65b330e5bd5f6d3"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-professions-rep.pw.toml"
+hash = "53988cf2f6c3095930b03fd7f00c34dd403c497f6402dac9244ee64e76fce05a"
 metafile = true
 
 [[files]]
