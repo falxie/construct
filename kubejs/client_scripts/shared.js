@@ -4,6 +4,9 @@ global.groupSameId = (id, event) => {
   event.groupSameItem(`kubejs:rei_groups/${namespace}/${path}`, item.getName(), item)
 }
 
+// Credit to https://github.com/ChloeDawn
+// Modified version of snippet in latvian.dev Discord server
+// https://discord.com/channels/303440391124942858/1010550815968215090/1010757873300680755
 global.groupModTags = (modName, event) => {
   const modIngredient = Ingredient.of(`@${modName}`)
 
@@ -20,6 +23,6 @@ global.groupModTags = (modName, event) => {
         .replace(/^(\w)/, c => c.toUpperCase())
         .replace(/_(\w)/g, (_, c) => " " + c.toUpperCase())
 
-        event.groupItems(`kubejs:rei_groups/${namespace}/${path}`, name, Ingredient.of(`#${tag.toString()}`).filter(modIngredient))
-      })
+      event.groupItems(`kubejs:rei_groups/${namespace}/${path}`, name, Ingredient.of(`#${tag}`).filter(modIngredient))
+    })
 }

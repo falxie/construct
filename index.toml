@@ -1590,7 +1590,7 @@ hash = "23670f4cdc1d0dbbf12a2055bf6d856d9a057d968c17250b38040adfb58143a4"
 
 [[files]]
 file = "kubejs/client_scripts/shared.js"
-hash = "b490036a661acea10450e94befcf80d3c2188748933ca25981d372b440d335a0"
+hash = "5f259ff62c3c2aefb5a45c0f65ddd70c300e2ff25aa4b2552ce2d59574926585"
 
 [[files]]
 file = "kubejs/client_scripts/sophisitcatedstorage.js"
@@ -2401,6 +2401,11 @@ metafile = true
 [[files]]
 file = "mods/twigs.pw.toml"
 hash = "2c7c3ca8e21886e8c3581e894c0d346a7df141182fcd680745e3d2f12546a97f"
+metafile = true
+
+[[files]]
+file = "mods/wmitaf.pw.toml"
+hash = "1aa7bda9284cfcd767c9086e729402d7ad03df3005b70f36cc4d89f9564c2970"
 metafile = true
 
 [[files]]
