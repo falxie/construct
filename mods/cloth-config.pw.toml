@@ -1,6 +1,6 @@
 name = "Cloth Config API (Fabric/Forge)"
 filename = "cloth-config-6.4.90-forge.jar"
-side = "client"
+side = "both"
 
 [download]
 hash-format = "sha1"
