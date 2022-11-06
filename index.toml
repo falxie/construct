@@ -1273,6 +1273,10 @@ file = "config/kleeslabs-common.toml"
 hash = "65e9ddf7445cb8118a2130bd86d2ee6d6cae2c3b5e3a724d829ecffe360a0408"
 
 [[files]]
+file = "config/legendarytooltips-common.toml"
+hash = "3429f00928014fb571566d4acf962570d79c5a40ef7f2882ac3298d44ee5d0e8"
+
+[[files]]
 file = "config/lightoverlay.properties"
 hash = "88372e9eee5d21754b83cf7ce9362d18d37c620ce6c12fd3c12102d058f3dd4b"
 
@@ -1359,6 +1363,10 @@ hash = "1eddbfb60174396032a118990e18ffb39260e74d62f4ea5a0e6c9d4ef74a7eb1"
 [[files]]
 file = "config/rubidium_extras.toml"
 hash = "fcb3222889888e0b6fcced88cd3aac6b9ea7764347888a6fa00a2ddc83c36178"
+
+[[files]]
+file = "config/seamless_loading_screen-client.toml"
+hash = "9f837d1b63b457b54db1a1de7a8bceb496c0bcca377bb48a29085d11bddb6f2f"
 
 [[files]]
 file = "config/secondchanceforge-common.toml"
@@ -2089,6 +2097,11 @@ hash = "848ec5f6cd8ac4cc8ed9e86ec051609680dc2da09f1f2c7f45d7d767b3a8db6d"
 metafile = true
 
 [[files]]
+file = "mods/iceberg.pw.toml"
+hash = "9482641348c7709e0ef39f189f7182d04db8d49e0013108466120bd2930ac929"
+metafile = true
+
+[[files]]
 file = "mods/infernal-expansion.pw.toml"
 hash = "26457da7fedb3defabbca3a33fbf84de926057f2ed7e50feeb52df3cdd8de9e0"
 metafile = true
@@ -2151,6 +2164,11 @@ metafile = true
 [[files]]
 file = "mods/lazy-dfu-forge.pw.toml"
 hash = "ebb19e9c7a826f2d820671cdb8fc3aebb45cccf0751235b46a20701b9a6772b4"
+metafile = true
+
+[[files]]
+file = "mods/legendary-tooltips.pw.toml"
+hash = "799db5eb964fdcc53620566ac4c1c720d6c0bab6cef5823733f0e3d5c63ec846"
 metafile = true
 
 [[files]]
@@ -2249,6 +2267,11 @@ hash = "015b1cf6262abdb5d44e2a54d8de6b0a2ef79b8df470365ef72d54f095bd05f9"
 metafile = true
 
 [[files]]
+file = "mods/prism-lib.pw.toml"
+hash = "d8dfa17a6137c05b5316476d4f3c3df272c17e6fed387f6d58a496fa1e57da21"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "8d485d0aad275b83382614352e6cf78af07f2a11002b04148594059552aaf129"
 metafile = true
@@ -2286,6 +2309,11 @@ metafile = true
 [[files]]
 file = "mods/roughly-enough-professions-rep.pw.toml"
 hash = "53988cf2f6c3095930b03fd7f00c34dd403c497f6402dac9244ee64e76fce05a"
+metafile = true
+
+[[files]]
+file = "mods/seamless-loading-screen-forge.pw.toml"
+hash = "ee863cbf792131e1b4dc464844f4a3d8938df5aab2e660240563720bf8c6041d"
 metafile = true
 
 [[files]]
