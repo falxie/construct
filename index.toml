@@ -1346,7 +1346,7 @@ hash = "8d3828692497be68d54e98820db28df65ef79b28f16ec4ebeef0e0916588dd8e"
 
 [[files]]
 file = "config/roughlyenoughitems/config.json5"
-hash = "d39773688cd28773f9c837e6fa7979e7a6cf8ccb0248a50b14c772b1e2e1bb6a"
+hash = "22049cb39a31423ca91a67497354aaeeee2d578331fe760a87f8c9e516f5a146"
 
 [[files]]
 file = "config/rubidium-mixins.properties"
@@ -1725,7 +1725,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-compatibility-checker.pw.toml"
-hash = "6c4b845e5a370edd5b8f76599cbc223d7af2a560c76a2fabdcc8c273bb7de8be"
+hash = "8baa04d4b8c8dc9f3e6af19091379dd1de692e8260dffeec6e3f77d69b7c008f"
 metafile = true
 
 [[files]]
@@ -2270,7 +2270,7 @@ metafile = true
 
 [[files]]
 file = "mods/rhino.pw.toml"
-hash = "b329256874cea37a99c679627ae066b85d05eef8c94224d4ba8e7ce1151b44a9"
+hash = "43375678708cd812b22ab1ecbc3f5452bc0910bac6f544c69f9ccf8bd14d420f"
 metafile = true
 
 [[files]]
@@ -2280,7 +2280,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "1b17a9e7d628961598ae2122565825073718a839c3c10ecfa65b330e5bd5f6d3"
+hash = "be67a02ccba66ba2af0f8bea2a29ae1926c36808e62846fcda9b72ec3dfed9af"
 metafile = true
 
 [[files]]
