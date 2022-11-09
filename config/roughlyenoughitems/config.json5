@@ -86,7 +86,7 @@
 			"favoriteAddWidgetMode": "ALWAYS_VISIBLE"
 		},
 		"accessibility": {
-			"entrySize": 1.0,
+			"entrySize": 0.925,
 			// Declares the position of the entry panel.
 			"displayPanelLocation": "RIGHT",
 			// Declares how the scrollbar in composite screen should act.

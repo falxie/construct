@@ -489,10 +489,6 @@ file = "config/byg/growing-patterns.json5"
 hash = "41c19e2ecac7a3f80691cd04254e2532ce886102de60e90b7bde7873db782867"
 
 [[files]]
-file = "config/byg/nether-biomes.json5"
-hash = "775c0831efee3f027c1e57d2bddbb8330d29cd4bc97461378d91d8cd2c62b027"
-
-[[files]]
 file = "config/byg/overworld/biome_selectors/beach_biomes/beach_biomes_1.json5"
 hash = "42c1a37db078ac421a9ed5539fe4070e7a3a0ebe5d8ec5544cc87aa2756cb3a4"
 
@@ -1350,7 +1346,7 @@ hash = "8d3828692497be68d54e98820db28df65ef79b28f16ec4ebeef0e0916588dd8e"
 
 [[files]]
 file = "config/roughlyenoughitems/config.json5"
-hash = "22049cb39a31423ca91a67497354aaeeee2d578331fe760a87f8c9e516f5a146"
+hash = "cbbf1e6513ac9e89f096c260c8e928364b914c3aaa1c4764e1f551e23af1bcf9"
 
 [[files]]
 file = "config/rubidium-mixins.properties"
@@ -1458,7 +1454,7 @@ hash = "a40153224a01e9066f88024b5d5e3ee0129c3ce9a3039644daed1604d4f08d04"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "7ff26a5334554f3dc1c9b7d7ad1dfca5c98dfde27a22f0fd2630e6d441dfc269"
+hash = "034b7a45474857b5a5c29b3f8060925d790b08e618981dd27d273e423101e2d2"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -1688,7 +1684,7 @@ metafile = true
 
 [[files]]
 file = "mods/aquaculture.pw.toml"
-hash = "f43243c797ca68e3a1a55e4cf3f97e82c1403c25ca38fc77a2d2e76b9675041d"
+hash = "24bd1231b7bc88e74417cea06e9b86877559ebb298820a04d92548a1479e525a"
 metafile = true
 
 [[files]]
@@ -1883,7 +1879,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-broken-bad.pw.toml"
-hash = "b81be18546b2bafd4482e683844f9ebf37c2b942d7364cf0c7032591f8c2cb56"
+hash = "06fcbc740b187282833be822201f18ea1fd4acf97b5245581a230a0441dac547"
 metafile = true
 
 [[files]]
@@ -2028,7 +2024,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "e481a5ce4efc7a1ce624b024785881f7ced12462ca3f283f77c31e0c33bcca92"
+hash = "9edae5dcadb6e42004e0d01a8af004febc094dc1a15eb818b315540382bec40f"
 metafile = true
 
 [[files]]
@@ -2043,7 +2039,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferritecore.pw.toml"
-hash = "5cc2822b0265c3f8202bf41f814e96fb6ff41c86159322bb05bb13d8babc0234"
+hash = "a6944c6e912ec3c1293b84cbed86ea1a0dbd8f1827435cb1bf2849d37b42a0dc"
 metafile = true
 
 [[files]]
@@ -2073,7 +2069,7 @@ metafile = true
 
 [[files]]
 file = "mods/framedblocks.pw.toml"
-hash = "1c176e4c68985734a192c0ea0451973dfc261f9c8cd416ec4c12a42a3788a462"
+hash = "54abb9efbcb7dd8b2e7afb32a8398a281fab704366c5417548b7ca2c06fe44fb"
 metafile = true
 
 [[files]]
@@ -2113,7 +2109,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "6454a521978828300db038f5ef2a4f0ae49247cf03366192c0bf1b46020cedc1"
+hash = "bfcaf25cd94492e855dfb7353dacb44ed1668b3f6d3d1705360e785ede84667a"
 metafile = true
 
 [[files]]
@@ -2158,7 +2154,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "1371b2f23c477b973bac9e2c0bb7d6e46eaa4016ebe902ddca998749c7495fc8"
+hash = "86471b411ab0dec26f0eed62704fe59aacc68a7ffe4e5c46f0c263fe0c264f43"
 metafile = true
 
 [[files]]
@@ -2178,7 +2174,7 @@ metafile = true
 
 [[files]]
 file = "mods/mantle.pw.toml"
-hash = "3b8744e493e25555053230b01f86c25cfee8e686d4159db5458478b00e404d58"
+hash = "9f33ad46094198693346e70eb7311d195c3b5adfa54c82c6b9f3116403b37ee3"
 metafile = true
 
 [[files]]
@@ -2298,12 +2294,12 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items-hacks.pw.toml"
-hash = "3e796dfe8fba60b798b4f44e90a890be2d216d1f98c84c4c4099fbd6b21f5365"
+hash = "c083296fed8b9d391b31a6f9b6e610519d708f95d6f85619522b9b66c233a9f1"
 metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "be67a02ccba66ba2af0f8bea2a29ae1926c36808e62846fcda9b72ec3dfed9af"
+hash = "60e613895d91c5b2dc2c903f09ad3a34bb76e253699c4a202039f1d0871f5985"
 metafile = true
 
 [[files]]
@@ -2438,12 +2434,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "9cdc3f55736ca05fa011be07c4891057cab7472612d3236709a0424f1b3d856d"
+hash = "d0e5e164971146ef1659578b30e693bef84c2308c92f43af3dc3f084ea5af01c"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "b07a402d385d3e7b1709b57f3d2f95f1e7ce6f4c86f4deb0ade3261b5d98ea94"
+hash = "f3562c68bbcf23aa7bf8b334cd4853260d32d4a65f99bb39f2da9b90997aefe3"
 metafile = true
 
 [[files]]
