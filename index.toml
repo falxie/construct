@@ -978,7 +978,7 @@ hash = "599df95790d200ac55689c0885eba9dc1cdacaae3a4b2649092271173dabff51"
 
 [[files]]
 file = "config/global_data_and_resourcepacks.toml"
-hash = "6de98d9728c82d6d4a5fe3f3a4359f007d4827d0c1280a5558297e11aad88ee2"
+hash = "0eb4a09c53ebcbc5805051e1b966e2cdce71490d14d6dc332b6dca1ed4001711"
 
 [[files]]
 file = "config/goblintraders-common.toml"
@@ -2478,6 +2478,11 @@ hash = "25ca73ede906cc0162479b6fefaafa3d4c79f97ccd3580cbb3df2755322c7099"
 metafile = true
 
 [[files]]
+file = "resourcepacks/eclectic-trove-legendary-tooltips.pw.toml"
+hash = "4625b47bc35ca8d03c372d5153572c1a0d0baa44147a6e83107de967753ecf5b"
+metafile = true
+
+[[files]]
 file = "resourcepacks/motschens-better-leaves.pw.toml"
 hash = "cef15f72bba900383895cec1a910c91d1d0398092a5657b3d06991b738432b9a"
 metafile = true
@@ -2519,5 +2524,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/xaeros-minimap-modded-support.pw.toml"
-hash = "c3388757d17a46b2dd8923510559fd7d2b64324fd412fb3bceb6d38e89603ffa"
+hash = "9caa583ff6112e5b2f0a9ca3971d6da940b789eb61f549a2c1e49be861e3d64f"
 metafile = true
