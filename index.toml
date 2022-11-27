@@ -942,7 +942,7 @@ hash = "849655cc24f7329930c2ddaa9a54061a2db954c5932152a4591fcf56450c6971"
 
 [[files]]
 file = "config/fastload.properties"
-hash = "da3887c83ca57e293e6617b5e3a1d0011cb20f0a47808d540aa72a170a65dcaf"
+hash = "27195d2ae954a33980d47d184126db4b419bc8afce2159fb38064f3f9f9624f3"
 
 [[files]]
 file = "config/ferritecore-mixin.toml"
@@ -1434,7 +1434,7 @@ hash = "45a7e0ef5bcf9c22a6daebdea2c21e8687a0121abd909fd6898da1ae00e10f18"
 
 [[files]]
 file = "config/tconstruct-common.toml"
-hash = "5dee6fe1e24e09a6c43efaf02a78279cabbeb64bd92cb08841fd274a539840c3"
+hash = "9dd3943187a2607c2d20e9f57d56ac5c870d6607e809afe06de7bd5b317a2fef"
 
 [[files]]
 file = "config/terrablender.toml"
@@ -1719,7 +1719,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-advancements.pw.toml"
-hash = "f97016f522e10afd1659881de6da1a3698c83c3ac38555b20e73719eac51e4a9"
+hash = "88d4561d5eb95ddf845b9b08d0353c79a5e85d0063fdb160a5ae6cf3cb93d5b6"
 metafile = true
 
 [[files]]
@@ -1729,7 +1729,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-compatibility-checker.pw.toml"
-hash = "8baa04d4b8c8dc9f3e6af19091379dd1de692e8260dffeec6e3f77d69b7c008f"
+hash = "6ea4eb181216200068ac647038fd14baccd625d6ee0cea0b4816ad5131c41020"
 metafile = true
 
 [[files]]
@@ -1774,7 +1774,7 @@ metafile = true
 
 [[files]]
 file = "mods/canary.pw.toml"
-hash = "12c6a0f89a816c8d00d2c484beb95949c4812941e030bb66f78525753f1953d5"
+hash = "74be299838e3d70a1d6a83abb6c73afe7c8be42cb3ffbe7e0bc812e984cb818c"
 metafile = true
 
 [[files]]
@@ -1834,7 +1834,7 @@ metafile = true
 
 [[files]]
 file = "mods/cofh-core.pw.toml"
-hash = "3a04fa265a8891fb541bc10e5cae3bba7a7f6e34d51e8e7baa4ffdf07f223502"
+hash = "29ef88c85867d9cb3137c36da58b9b3b69b78c6213ba5d4dd8a9d6cc564d7f9a"
 metafile = true
 
 [[files]]
@@ -1969,7 +1969,7 @@ metafile = true
 
 [[files]]
 file = "mods/ensorcellation.pw.toml"
-hash = "25854863696f6ed0b23de3d80b274c8a0607a47022236cf29091742ad4683614"
+hash = "d4fb18bc46c86922087ffb97692f4a8a4614a9a3455ee0e81203e6ab67122312"
 metafile = true
 
 [[files]]
@@ -2069,12 +2069,12 @@ metafile = true
 
 [[files]]
 file = "mods/framedblocks.pw.toml"
-hash = "54abb9efbcb7dd8b2e7afb32a8398a281fab704366c5417548b7ca2c06fe44fb"
+hash = "d0aadac527b1adf61a82820653abfda117e359dd23a1102d67fd741c9c038d5d"
 metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "07d5cff564f923f24b5d5849f6904c0ffa1340f9925261545f4ca6ddd0d504d3"
+hash = "1994252b254e698f09160280bb94cdcd0590727640239b50c61c3d7bc394cfcf"
 metafile = true
 
 [[files]]
@@ -2104,7 +2104,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade-addons.pw.toml"
-hash = "354d9fec7677e17d7ef5ada3167601a83b5a4e1d57314728c87134c8769a1d9a"
+hash = "95bb4e5153dc7c86dce16e067fbd8ff2c5d510cadc14b0fa641afc20bea1f405"
 metafile = true
 
 [[files]]
@@ -2114,7 +2114,7 @@ metafile = true
 
 [[files]]
 file = "mods/jaopca.pw.toml"
-hash = "9c27e5ba6a9c4a5a28261ddf8edcc47062dc835f1571300766ee93ef8bbc047a"
+hash = "d1851e25801b6310112cafcaf3d8c51a37d321a3633d6b8f7766cc7d74d2a141"
 metafile = true
 
 [[files]]
@@ -2154,7 +2154,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "86471b411ab0dec26f0eed62704fe59aacc68a7ffe4e5c46f0c263fe0c264f43"
+hash = "c782e8c10c9e55dd216e0c8893f02d622552bb53751f30165d5e3ffa038b0759"
 metafile = true
 
 [[files]]
@@ -2214,7 +2214,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-crashes-forge.pw.toml"
-hash = "7b92dd5ff3da1b9422d1eb4cc71a60d1aa0ed405417277fb638b2ac8885f84ba"
+hash = "0c28ca701247a3309dee450ca0620898130f8708f1f74b15f643c83c544b9cbb"
 metafile = true
 
 [[files]]
@@ -2294,7 +2294,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items-hacks.pw.toml"
-hash = "c083296fed8b9d391b31a6f9b6e610519d708f95d6f85619522b9b66c233a9f1"
+hash = "8a5403b9c001003beccb76c59013191fb2c99fe04e8e4d881b0efa43da09c8df"
 metafile = true
 
 [[files]]
@@ -2404,12 +2404,12 @@ metafile = true
 
 [[files]]
 file = "mods/terralith.pw.toml"
-hash = "a45e1e6951999e0eddeb5cada1d251531e359844b7420ddef655adb9b245a3cd"
+hash = "7aa6d841a579fb305592cea7ef622a0a675b50cdb32e0a01d17a120f3e489b67"
 metafile = true
 
 [[files]]
 file = "mods/tinkers-construct.pw.toml"
-hash = "5cef47ebec6f02511be3efd5d6b65ff3bf7ba9593958d13a6784e45621b4ba1f"
+hash = "966a2bf523bbc3fe755b804d7e96115879873b4467ba2c6bfc03c15c7bf0555a"
 metafile = true
 
 [[files]]
@@ -2514,7 +2514,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/stay-true-modded-compats.pw.toml"
-hash = "94d308d277061bff9d7ab8ea3b9261be36aefa910d58aa6d069a22175856e179"
+hash = "a6dbbaf93cba80e9d3eb086b6443ba209f6b0ce2842475c01efa5f7208f95512"
 metafile = true
 
 [[files]]

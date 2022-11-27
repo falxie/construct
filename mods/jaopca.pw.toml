@@ -1,13 +1,13 @@
 name = "JAOPCA"
-filename = "JAOPCA-1.18.2-4.1.11.17.jar"
+filename = "JAOPCA-1.18.2-4.1.11.19.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "40cd2e7ff98237df8e4feea213d76cd195e3710e"
+hash = "0bc11f2c8e1eccec51d32b3290aabb9004f96fd2"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4065624
+file-id = 4092452
 project-id = 266936
